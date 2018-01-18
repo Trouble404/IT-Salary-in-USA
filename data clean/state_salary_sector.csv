@@ -1,0 +1,1583 @@
+,location,salary,sector
+0,Florida,24967.199999999997,Customer Support/Client Care
+1,Colorado,147722.6,IT/Software Development
+2,California,35370.2,Administrative/Clerical
+3,Minnesota,37450.799999999996,Accounting/Finance/Insurance
+4,Minnesota,35370.2,Business/Strategic Management
+5,Nevada,39531.4,Experienced (Non-Manager)
+6,California,83224.0,Experienced (Non-Manager)
+7,California,20806.0,Accounting/Finance/Insurance
+8,Massachusetts,40571.7,Accounting/Finance/Insurance
+9,Michigan,34329.9,Accounting/Finance/Insurance
+10,Michigan,47853.799999999996,Accounting/Finance/Insurance
+11,New jersey,27047.8,Experienced (Non-Manager)
+12,Florida,24655.109999999997,Security/Protective Services
+13,Delaware,29128.399999999998,Experienced (Non-Manager)
+14,New York,64352.958,Security/Protective Services
+15,Virginia,33289.6,Security/Protective Services
+16,Maryland,44732.9,Security/Protective Services
+17,Florida,12743.675,Experienced (Non-Manager)
+18,Texas,124836.0,IT/Software Development
+19,Ohio,22886.6,Entry Level
+20,Florida,24967.199999999997,Security/Protective Services
+21,Florida,27047.8,Security/Protective Services
+22,Texas,28088.1,Experienced (Non-Manager)
+23,Texas,27047.8,Administrative/Clerical
+24,Delaware,29128.399999999998,Experienced (Non-Manager)
+25,Texas,124836.0,IT/Software Development
+26,New York,56009.752,Security/Protective Services
+27,Washington,38387.07,Experienced (Non-Manager)
+28,Colorado,35370.2,Customer Support/Client Care
+29,Indiana,21326.149999999998,Entry Level
+30,Iowa,40571.7,Security/Protective Services
+31,Texas,30168.699999999997,Administrative/Clerical
+32,Texas,88425.5,IT/Software Development
+33,Ohio,62418.0,IT/Software Development
+34,Texas,228866.0,IT/Software Development
+35,California,67619.5,IT/Software Development
+36,Iowa,41612.0,Experienced (Non-Manager)
+37,Texas,20806.0,IT/Software Development
+38,Texas,182052.5,IT/Software Development
+39,Tennessee,62418.0,IT/Software Development
+40,South carolina,62418.0,IT/Software Development
+41,Texas,135239.0,IT/Software Development
+42,Wisconsin,62418.0,IT/Software Development
+43,North Carolina,60337.399999999994,Biotech/R&D/Science
+44,Florida,22886.6,Sales/Retail/Business Development
+45,California,39531.4,Experienced (Non-Manager)
+46,Kentucky,47853.799999999996,Biotech/R&D/Science
+47,Iowa,41445.552,Entry Level
+48,Pennsylvania,60337.399999999994,Medical/Health
+49,Texas,49934.399999999994,Human Resources
+50,Texas,28608.25,Customer Support/Client Care
+51,Ohio,15604.5,Marketing/Product
+52,California,161246.5,Experienced (Non-Manager)
+53,North Carolina,78022.5,Project/Program Management
+54,Tennessee,38491.1,Legal
+55,California,20806.0,Accounting/Finance/Insurance
+56,Tennessee,32769.45,Experienced (Non-Manager)
+57,Colorado,45773.2,Human Resources
+58,California,57216.5,Human Resources
+59,California,30168.699999999997,Accounting/Finance/Insurance
+60,California,41612.0,Accounting/Finance/Insurance
+61,California,21846.3,Accounting/Finance/Insurance
+62,Oklahoma,39531.4,Experienced (Non-Manager)
+63,North Carolina,92586.7,IT/Software Development
+64,South carolina,43692.6,Medical/Health
+65,North Carolina,35370.2,Entry Level
+66,Ohio,28608.25,Experienced (Non-Manager)
+67,South carolina,43692.6,Medical/Health
+68,Tennessee,36410.5,Entry Level
+69,Florida,109231.5,IT/Software Development
+70,California,140440.5,Experienced (Non-Manager)
+71,Missouri,29128.399999999998,Experienced (Non-Manager)
+72,New jersey,178411.44999999998,Experienced (Non-Manager)
+73,Illinois,32207.688,Medical/Health
+74,South carolina,92586.7,IT/Software Development
+75,Texas,39531.4,Experienced (Non-Manager)
+76,Ohio,47853.799999999996,Experienced (Non-Manager)
+77,California,119634.5,Experienced (Non-Manager)
+78,New hampshire,85304.59999999999,Experienced (Non-Manager)
+79,Kentucky,39531.4,Experienced (Non-Manager)
+80,Florida,65538.9,IT/Software Development
+81,Florida,104030.0,IT/Software Development
+82,Florida,67619.5,Entry Level
+83,Virginia,40571.7,Experienced (Non-Manager)
+84,Tennessee,98828.5,IT/Software Development
+85,Tennessee,41653.611999999994,Legal
+86,Florida,26007.5,Experienced (Non-Manager)
+87,Missouri,24967.199999999997,Experienced (Non-Manager)
+88,Texas,29128.399999999998,Medical/Health
+89,Ohio,47853.799999999996,Medical/Health
+90,Ohio,93627.0,Systems Analysis - ITWeb/UI/UX Design
+91,Ohio,62418.0,Experienced (Non-Manager)
+92,Florida,62418.0,Quality Assurance/Safety
+93,New jersey,33809.75,Experienced (Non-Manager)
+94,Ohio,33289.6,Experienced (Non-Manager)
+95,Ohio,21180.507999999998,Entry Level
+96,Ohio,18725.399999999998,Medical/Health
+97,Ohio,26007.5,Entry Level
+98,Ohio,31209.0,Experienced (Non-Manager)
+99,Ohio,47198.41099999999,Installation/Maintenance/Repair
+100,Ohio,43692.6,Engineering
+101,Ohio,135239.0,IT/Software Development
+102,Ohio,20806.0,Entry Level
+103,Ohio,46813.5,Experienced (Non-Manager)
+104,Ohio,45273.85599999999,Entry Level
+105,Ohio,28088.1,Entry Level
+106,Ohio,223664.5,Experienced (Non-Manager)
+107,Ohio,23926.899999999998,Student (High School)
+108,Ohio,36088.007,Experienced (Non-Manager)
+109,Ohio,33289.6,Entry Level
+110,Ohio,23926.899999999998,Entry Level
+111,Ohio,24967.199999999997,Student (High School)
+112,Ohio,26007.5,Entry Level
+113,Ohio,23926.899999999998,Medical/Health
+114,Ohio,23926.899999999998,Entry Level
+115,Ohio,32249.3,Experienced (Non-Manager)
+116,California,34329.9,Experienced (Non-Manager)
+117,California,72821.0,Experienced (Non-Manager)
+118,Connecticut,67328.216,Legal
+119,Ohio,26007.5,Experienced (Non-Manager)
+120,Oklahoma,75941.9,Experienced (Non-Manager)
+121,Michigan,28088.1,Experienced (Non-Manager)
+122,Florida,24967.199999999997,Experienced (Non-Manager)
+123,Florida,39531.4,Experienced (Non-Manager)
+124,New jersey,62938.149999999994,Experienced (Non-Manager)
+125,Colorado,36410.5,Experienced (Non-Manager)
+126,New York,39531.4,Experienced (Non-Manager)
+127,Kentucky,31209.0,Experienced (Non-Manager)
+128,Florida,24967.199999999997,Experienced (Non-Manager)
+129,New York,31209.0,Entry Level
+130,Washington,15604.5,Experienced (Non-Manager)
+131,New York,43692.6,Entry Level
+132,Indiana,28088.1,Experienced (Non-Manager)
+133,California,35370.2,Experienced (Non-Manager)
+134,Colorado,67619.5,Experienced (Non-Manager)
+135,Texas,114433.0,IT/Software Development
+136,Texas,124836.0,Experienced (Non-Manager)
+137,Texas,41612.0,Experienced (Non-Manager)
+138,Illinois,44732.9,Manufacturing/Production/Operations
+139,Florida,29128.399999999998,Entry Level
+140,Indiana,19037.49,Food Services/Hospitality
+141,New jersey,65538.9,Food Services/Hospitality
+142,Indiana,30668.043999999998,Legal
+143,New jersey,45773.2,Experienced (Non-Manager)
+144,Massachusetts,36410.5,Installation/Maintenance/Repair
+145,New York,31209.0,Experienced (Non-Manager)
+146,Massachusetts,228866000.0,Accounting/Finance/Insurance
+147,Georgia,52015.0,IT/Software Development
+148,Florida,14564.199999999999,Accounting/Finance/Insurance
+149,Georgia,45773.2,Marketing/Product
+150,Georgia,68659.8,Medical/Health
+151,Nevada,31209.0,Sales/Retail/Business Development
+152,Wisconsin,56550.708,Experienced (Non-Manager)
+153,Nevada,33289.6,Experienced (Non-Manager)
+154,Wisconsin,31812.373999999996,Administrative/Clerical
+155,Nevada,78022.5,Medical/Health
+156,Wisconsin,36410.5,Accounting/Finance/Insurance
+157,Wisconsin,24967.199999999997,Entry Level
+158,Nevada,40571.7,Experienced (Non-Manager)
+159,Wisconsin,22886.6,Experienced (Non-Manager)
+160,Wisconsin,59193.069999999985,General/Other: Medical/HealthVeterinary/Animal Care
+161,Tennessee,27047.8,Accounting/Finance/Insurance
+162,Nevada,22366.45,Customer Support/Client Care
+163,Nevada,52015.0,Human Resources
+164,Wisconsin,42485.852,Veterinary/Animal Care
+165,Wisconsin,31604.314000000002,Banking/Real Estate/Mortgage Professionals
+166,Wisconsin,31812.373999999996,Administrative/Clerical
+167,Nevada,31209.0,Customer Support/Client Care
+168,Ohio,23042.644999999997,Experienced (Non-Manager)
+169,Texas,69700.09999999999,Entry Level
+170,Texas,68659.8,Experienced (Non-Manager)
+171,Texas,102989.7,Medical/Health
+172,Maryland,72821.0,Experienced (Non-Manager)
+173,Missouri,29128.399999999998,Experienced (Non-Manager)
+174,Ohio,23042.644999999997,Experienced (Non-Manager)
+175,Colorado,26007.5,Entry Level
+176,Pennsylvania,21846.3,Security/Protective Services
+177,California,21846.3,Accounting/Finance/Insurance
+178,California,18725.399999999998,Manufacturing/Production/Operations
+179,Washington,25945.082,Career Level Entry Level
+180,South dakota,33289.6,Experienced (Non-Manager)
+181,Washington,32249.3,Career Level Experienced (Non-Manager)
+182,Colorado,28088.1,Logistics/Transportation
+183,California,75941.9,Experienced (Non-Manager)
+184,Texas,31209.0,Customer Support/Client Care
+185,Georgia,32249.3,Human Resources
+186,Minnesota,43692.6,Experienced (Non-Manager)
+187,California,37450.799999999996,Experienced (Non-Manager)
+188,Florida,23406.75,Entry Level
+189,Pennsylvania,33289.6,Experienced (Non-Manager)
+190,Idaho,36410.5,Installation/Maintenance/Repair
+191,Alabama,34329.9,Entry Level
+192,New jersey,29128.399999999998,Entry Level
+193,Colorado,8842.55,Entry Level
+194,New jersey,27047.8,Manufacturing/Production/Operations
+195,Washington,26007.5,Installation/Maintenance/Repair
+196,Florida,35370.2,Experienced (Non-Manager)
+197,Ohio,31729.149999999998,Experienced (Non-Manager)
+198,Illinois,30168.699999999997,Entry Level
+199,Washington,41612.0,Experienced (Non-Manager)
+200,South carolina,53055.299999999996,Experienced (Non-Manager)
+201,Massachusetts,44732.9,Experienced (Non-Manager)
+202,Colorado,41612.0,Student (High School)
+203,Minnesota,57216.5,Experienced (Non-Manager)
+204,Florida,34069.825,Experienced (Non-Manager)
+205,New York,56862.797999999995,Installation/Maintenance/Repair
+206,New hampshire,24967.199999999997,Manufacturing/Production/Operations
+207,Mississippi,23614.809999999998,Manufacturing/Production/Operations
+208,California,52015.0,Experienced (Non-Manager)
+209,Colorado,30168.699999999997,Manufacturing/Production/Operations
+210,Massachusetts,28088.1,Entry Level
+211,Michigan,29128.399999999998,Student (Undergraduate/Graduate)
+212,California,39531.4,Entry Level
+213,Indiana,44732.9,Experienced (Non-Manager)
+214,Illinois,32249.3,Experienced (Non-Manager)
+215,New York,47853.799999999996,Experienced (Non-Manager)
+216,Illinois,44732.9,Student (Undergraduate/Graduate)
+217,Ohio,23406.75,Entry Level
+218,Illinois,28088.1,Experienced (Non-Manager)
+219,Massachusetts,30168.699999999997,Experienced (Non-Manager)
+220,Ohio,36410.5,Entry Level
+221,New jersey,45773.2,Experienced (Non-Manager)
+222,Tennessee,46813.5,Experienced (Non-Manager)
+223,Texas,41612.0,Experienced (Non-Manager)
+224,California,22886.6,Entry Level
+225,California,22886.6,Manufacturing/Production/Operations
+226,Tennessee,39489.788,Experienced (Non-Manager)
+227,Colorado,36410.5,Manufacturing/Production/Operations
+228,Mississippi,38803.189999999995,Manufacturing/Production/Operations
+229,New jersey,35370.2,Experienced (Non-Manager)
+230,Pennsylvania,23406.75,Experienced (Non-Manager)
+231,Illinois,35370.2,Entry Level
+232,Ohio,47198.41099999999,Installation/Maintenance/Repair
+233,Nebraska,12483.599999999999,Entry Level
+234,Idaho,45637.960999999996,Experienced (Non-Manager)
+235,Texas,23926.899999999998,Manufacturing/Production/Operations
+236,Ohio,39531.4,Manager (Manager/Supervisor of Staff)
+237,Ohio,34329.9,Experienced (Non-Manager)
+238,Texas,47687.352,Experienced (Non-Manager)
+239,California,30688.85,Installation/Maintenance/Repair
+240,Utah,24218.184,Entry Level
+241,Wisconsin,40571.7,Installation/Maintenance/Repair
+242,Ohio,50974.7,Experienced (Non-Manager)
+243,Minnesota,24967.199999999997,Manufacturing/Production/Operations
+244,Wisconsin,26007.5,Entry Level
+245,Tennessee,45637.960999999996,Experienced (Non-Manager)
+246,Iowa,32041.239999999998,Experienced (Non-Manager)
+247,Texas,41580.791,Experienced (Non-Manager)
+248,Florida,26007.5,Experienced (Non-Manager)
+249,Tennessee,13284.631,Entry Level
+250,Indiana,22886.6,Manufacturing/Production/Operations
+251,California,35370.2,Entry Level
+252,Washington,40571.7,Installation/Maintenance/Repair
+253,New hampshire,26007.5,Entry Level
+254,California,29128.399999999998,Entry Level
+255,Tennessee,49934.399999999994,Experienced (Non-Manager)
+256,Arkansas,46813.5,Experienced (Non-Manager)
+257,California,42652.299999999996,Experienced (Non-Manager)
+258,Mississippi,41924.09,Manufacturing/Production/Operations
+259,Indiana,28348.175,Manufacturing/Production/Operations
+260,Ohio,44732.9,Experienced (Non-Manager)
+261,Arkansas,46813.5,Experienced (Non-Manager)
+262,Colorado,52015.0,Experienced (Non-Manager)
+263,Illinois,33289.6,Experienced (Non-Manager)
+264,Washington,28088.1,Manufacturing/Production/Operations
+265,Ohio,43692.6,Installation/Maintenance/Repair
+266,Georgia,34475.542,Experienced (Non-Manager)
+267,Massachusetts,36618.560000000005,Experienced (Non-Manager)
+268,South carolina,24967.199999999997,Experienced (Non-Manager)
+269,Virginia,35370.2,Experienced (Non-Manager)
+270,Pennsylvania,20806.0,Manufacturing/Production/Operations
+271,Pennsylvania,33809.75,Experienced (Non-Manager)
+272,North Carolina,25487.35,Experienced (Non-Manager)
+273,Ohio,20806.0,Entry Level
+274,California,50974.7,Experienced (Non-Manager)
+275,New York,56862.797999999995,Manufacturing/Production/Operations
+276,Tennessee,27047.8,Student (High School)
+277,Ohio,27047.8,Entry Level
+278,Pennsylvania,26007.5,Entry Level
+279,South carolina,53055.299999999996,Experienced (Non-Manager)
+280,North Carolina,20806.0,Entry Level
+281,New jersey,41612.0,Manufacturing/Production/Operations
+282,California,39531.4,Entry Level
+283,Wisconsin,29128.399999999998,Manufacturing/Production/Operations
+284,Massachusetts,46813.5,Entry Level
+285,New hampshire,33289.6,Experienced (Non-Manager)
+286,California,23978.915,Entry Level
+287,New hampshire,32249.3,Experienced (Non-Manager)
+288,California,37450.799999999996,Manufacturing/Production/Operations
+289,Illinois,26007.5,Manufacturing/Production/Operations
+290,Ohio,37450.799999999996,Experienced (Non-Manager)
+291,Ohio,36410.5,Experienced (Non-Manager)
+292,Ohio,33289.6,Manufacturing/Production/Operations
+293,Kentucky,43692.6,Manufacturing/Production/Operations
+294,Iowa,32041.239999999998,Experienced (Non-Manager)
+295,California,46813.5,Experienced (Non-Manager)
+296,Colorado,30688.85,Experienced (Non-Manager)
+297,Ohio,28088.1,Experienced (Non-Manager)
+298,Kansas,48894.1,Manufacturing/Production/Operations
+299,Indiana,20806.0,Experienced (Non-Manager)
+300,Missouri,30480.789999999997,Manufacturing/Production/Operations
+301,Minnesota,135239000.0,Manufacturing/Production/Operations
+302,Illinois,32249.3,Experienced (Non-Manager)
+303,Ohio,51879.761000000006,Experienced (Non-Manager)
+304,Rhode island,23926.899999999998,Experienced (Non-Manager)
+305,Wisconsin,43172.45,Logistics/Transportation
+306,Wisconsin,75307.317,Experienced (Non-Manager)
+307,Texas,109231.5,Project/Program Management
+308,Texas,28088.1,Entry Level
+309,Texas,30168.699999999997,Experienced (Non-Manager)
+310,Connecticut,83224.0,Editorial/Writing
+311,California,19765.7,Accounting/Finance/Insurance
+312,California,18725.399999999998,Accounting/Finance/Insurance
+313,California,16644.8,Accounting/Finance/Insurance
+314,California,29128.399999999998,Experienced (Non-Manager)
+315,California,27047.8,Accounting/Finance/Insurance
+316,California,17685.1,Accounting/Finance/Insurance
+317,California,29128.399999999998,Experienced (Non-Manager)
+318,California,22886.6,Accounting/Finance/Insurance
+319,California,20806.0,Accounting/Finance/Insurance
+320,Missouri,22886.6,Marketing/Product
+321,Pennsylvania,37450.799999999996,Customer Support/Client Care
+322,Wisconsin,43692.6,Customer Support/Client Care
+323,Texas,39531.4,IT/Software Development
+324,Florida,27047.8,Customer Support/Client Care
+325,Tennessee,27047.8,Sales/Retail/Business Development
+326,California,34132.243,Entry Level
+327,Washington,31209.0,Experienced (Non-Manager)
+328,Colorado,62418.0,Building Construction/Skilled Trades
+329,Illinois,54095.6,Human Resources
+330,California,64498.6,Accounting/Finance/Insurance
+331,Texas,29128.399999999998,Biotech/R&D/Science
+332,Florida,37450.799999999996,Human Resources
+333,California,55135.899999999994,Human Resources
+334,Texas,68659.8,Experienced (Non-Manager)
+335,South carolina,151883.8,IT/Software Development
+336,Ohio,28608.25,Experienced (Non-Manager)
+337,Missouri,56176.2,IT/Software Development
+338,California,119634.5,Experienced (Non-Manager)
+339,Pennsylvania,41612.0,Human Resources
+340,North Carolina,88425.5,IT/Software Development
+341,Pennsylvania,40176.386,Legal
+342,Rhode island,46667.858,Legal
+343,New York,45606.752,Legal
+344,Maine,37180.322,Legal
+345,Illinois,24967.199999999997,Logistics/Transportation
+346,Ohio,69700100.0,Accounting/Finance/Insurance
+347,Ohio,104030.0,Database Development/Administration
+348,Ohio,62418.0,IT/Software Development
+349,Texas,41612.0,Experienced (Non-Manager)
+350,Tennessee,31209.0,Quality Assurance/Safety
+351,Michigan,44732.9,Experienced (Non-Manager)
+352,Minnesota,140440.5,Project/Program Management
+353,Iowa,48894.1,Project/Program Management
+354,Arkansas,109231.5,Experienced (Non-Manager)
+355,Ohio,48894.1,Experienced (Non-Manager)
+356,Louisiana,31209.0,Quality Assurance/Safety
+357,Wisconsin,31209.0,Quality Assurance/Safety
+358,Colorado,31209.0,Quality Assurance/Safety
+359,Ohio,33289.6,Experienced (Non-Manager)
+360,Missouri,41612.0,Experienced (Non-Manager)
+361,Missouri,52015.0,Manager (Manager/Supervisor of Staff)
+362,Ohio,145642.0,Experienced (Non-Manager)
+363,Nebraska,37242.74,Quality Assurance/Safety
+364,Rhode island,34329.9,Experienced (Non-Manager)
+365,California,140440.5,Experienced (Non-Manager)
+366,New jersey,31209.0,Quality Assurance/Safety
+367,Oregon,31209.0,Quality Assurance/Safety
+368,Massachusetts,109231.5,Experienced (Non-Manager)
+369,California,27047.8,Experienced (Non-Manager)
+370,Illinois,31209.0,Project/Program Management
+371,Texas,83224.0,Experienced (Non-Manager)
+372,Massachusetts,48894.1,Experienced (Non-Manager)
+373,California,31209.0,Quality Assurance/Safety
+374,Arizona,31209.0,Quality Assurance/Safety
+375,Kansas,88425.5,Experienced (Non-Manager)
+376,Massachusetts,48894.1,Experienced (Non-Manager)
+377,Massachusetts,46813.5,Experienced (Non-Manager)
+378,Ohio,31209.0,Experienced (Non-Manager)
+379,Illinois,57216.5,Experienced (Non-Manager)
+380,Pennsylvania,33289.6,Project/Program Management
+381,Massachusetts,52015.0,Experienced (Non-Manager)
+382,Connecticut,46813.5,Experienced (Non-Manager)
+383,California,52015.0,Quality Assurance/Safety
+384,Massachusetts,66579.2,Experienced (Non-Manager)
+385,Michigan,29128.399999999998,Experienced (Non-Manager)
+386,California,75941.9,Experienced (Non-Manager)
+387,Kentucky,40571.7,Manager (Manager/Supervisor of Staff)
+388,Illinois,35370.2,Student (High School)
+389,California,28088.1,Student (Undergraduate/Graduate)
+390,Kansas,31209.0,Entry Level
+391,Washington,130037.5,Experienced (Non-Manager)
+392,Connecticut,47853.799999999996,Entry Level
+393,Illinois,33289.6,Experienced (Non-Manager)
+394,Texas,26028.305999999997,Quality Assurance/Safety
+395,California,31209.0,Quality Assurance/Safety
+396,Tennessee,31209.0,Entry Level
+397,Massachusetts,46813.5,Experienced (Non-Manager)
+398,Massachusetts,35370.2,Experienced (Non-Manager)
+399,Ohio,31209.0,Quality Assurance/Safety
+400,Florida,45741.990999999995,Entry Level
+401,California,37450.799999999996,Experienced (Non-Manager)
+402,California,28088.1,Quality Assurance/Safety
+403,Texas,107150.9,Quality Assurance/Safety
+404,California,31209.0,Entry Level
+405,Ohio,30168.699999999997,Experienced (Non-Manager)
+406,Florida,31209.0,Experienced (Non-Manager)
+407,North Carolina,28088.1,Accounting/Finance/Insurance
+408,New York,72821.0,Experienced (Non-Manager)
+409,Louisiana,31323.432999999997,Entry Level
+410,Minnesota,32457.359999999997,Accounting/Finance/Insurance
+411,Massachusetts,52015.0,Accounting/Finance/Insurance
+412,Georgia,26007.5,Experienced (Non-Manager)
+413,Georgia,63458.299999999996,Medical/Health
+414,Ohio,19765.7,Entry Level
+415,California,22886.6,Logistics/Transportation
+416,Georgia,41612.0,Engineering
+417,Georgia,18725.399999999998,Entry Level
+418,Minnesota,58256.799999999996,Installation/Maintenance/Repair
+419,Wisconsin,52015.0,Installation/Maintenance/Repair
+420,Massachusetts,26506.844,Installation/Maintenance/Repair
+421,Kentucky,31209.0,Installation/Maintenance/Repair
+422,California,59401.13,Installation/Maintenance/Repair
+423,Ohio,22886.6,Entry Level
+424,Florida,15604.5,Manager (Manager/Supervisor of Staff)
+425,Kansas,31209.0,Entry Level
+426,Louisiana,15604.5,Entry Level
+427,California,46813.5,Food Services/Hospitality
+428,Colorado,24707.125,Student (High School)
+429,California,62418.0,Entry Level
+430,Delaware,18725.399999999998,Entry Level
+431,Louisiana,31323.432999999997,Entry Level
+432,California,50974.7,Accounting/Finance/Insurance
+433,Washington,22335.240999999998,Career Level Entry Level
+434,Washington,28088.1,Entry Level
+435,Texas,27047.8,Manufacturing/Production/Operations
+436,Maryland,32249.3,Manufacturing/Production/Operations
+437,Florida,17685.1,Entry Level
+438,California,34329.9,Installation/Maintenance/Repair
+439,Pennsylvania,43692.6,Experienced (Non-Manager)
+440,Michigan,17685.1,Entry Level
+441,Pennsylvania,21638.24,Manufacturing/Production/Operations
+442,Pennsylvania,43692.6,Experienced (Non-Manager)
+443,Texas,27047.8,Manufacturing/Production/Operations
+444,Wisconsin,42652.299999999996,Experienced (Non-Manager)
+445,Massachusetts,34329.9,Accounting/Finance/Insurance
+446,Massachusetts,46813.5,Medical/Health
+447,Massachusetts,34329.9,Accounting/Finance/Insurance
+448,Massachusetts,93627.0,Medical/Health
+449,Massachusetts,34329.9,Accounting/Finance/Insurance
+450,Ohio,30168.699999999997,Accounting/Finance/Insurance
+451,New jersey,40571.7,Accounting/Finance/Insurance
+452,Texas,48894.1,Accounting/Finance/Insurance
+453,Ohio,32249.3,Accounting/Finance/Insurance
+454,Florida,37450.799999999996,Experienced (Non-Manager)
+455,Florida,28088.1,Accounting/Finance/Insurance
+456,Michigan,32249.3,Accounting/Finance/Insurance
+457,Texas,38491.1,Experienced (Non-Manager)
+458,Texas,20806.0,Installation/Maintenance/Repair
+459,California,57216.5,Installation/Maintenance/Repair
+460,Georgia,27047.8,Sales/Retail/Business Development
+461,Texas,33289.6,Experienced (Non-Manager)
+462,Texas,38491.1,Customer Support/Client Care
+463,Texas,48894.1,Entry Level
+464,Texas,22366.45,Experienced (Non-Manager)
+465,Texas,29128.399999999998,Entry Level
+466,Texas,46813.5,Experienced (Non-Manager)
+467,Texas,52015.0,Experienced (Non-Manager)
+468,Texas,46813.5,Experienced (Non-Manager)
+469,Texas,24967.199999999997,Experienced (Non-Manager)
+470,Texas,83224.0,IT/Software Development
+471,Texas,46813.5,Experienced (Non-Manager)
+472,Texas,22886.6,Logistics/Transportation
+473,Texas,27047.8,Customer Support/Client Care
+474,Texas,29128.399999999998,Experienced (Non-Manager)
+475,Texas,29128.399999999998,Experienced (Non-Manager)
+476,Texas,27047.8,Entry Level
+477,Texas,57216.5,Experienced (Non-Manager)
+478,Texas,43172.45,Logistics/Transportation
+479,Texas,33289.6,Manager (Manager/Supervisor of Staff)
+480,Texas,145642.0,IT/Software Development
+481,Texas,24967.199999999997,Sales/Retail/Business Development
+482,Texas,130037.5,IT/Software Development
+483,Texas,57216.5,Experienced (Non-Manager)
+484,Texas,62418.0,Systems Analysis - IT
+485,Texas,104030.0,IT/Software Development
+486,Texas,28088.1,Experienced (Non-Manager)
+487,Texas,21846.3,Entry Level
+488,Texas,36410.5,Experienced (Non-Manager)
+489,Texas,119634.5,Experienced (Non-Manager)
+490,Texas,156045.0,Experienced (Non-Manager)
+491,Ohio,26007.5,Manager (Manager/Supervisor of Staff)
+492,Ohio,34329.9,Manager (Manager/Supervisor of Staff)
+493,Texas,30168.699999999997,Entry Level
+494,Texas,40571.7,Experienced (Non-Manager)
+495,Texas,43692.6,Experienced (Non-Manager)
+496,Texas,93627.0,IT/Software Development
+497,Texas,30168.699999999997,Experienced (Non-Manager)
+498,Texas,26007.5,Experienced (Non-Manager)
+499,Texas,28088.1,Medical/Health
+500,Texas,26007.5,Experienced (Non-Manager)
+501,Ohio,26007.5,Experienced (Non-Manager)
+502,Texas,27734.397999999997,Quality Assurance/Safety
+503,Texas,27047.8,Experienced (Non-Manager)
+504,Texas,34329.9,Experienced (Non-Manager)
+505,Ohio,14564.199999999999,Customer Support/Client Care
+506,Texas,27047.8,Entry Level
+507,Texas,46813.5,IT/Software Development
+508,Texas,52015.0,Logistics/Transportation
+509,Texas,113392.7,Experienced (Non-Manager)
+510,Texas,37450.799999999996,Experienced (Non-Manager)
+511,Texas,29128.399999999998,Experienced (Non-Manager)
+512,California,33289.6,Logistics/Transportation
+513,Washington,32249.3,Career Level Experienced (Non-Manager)
+514,Texas,32249.3,Experienced (Non-Manager)
+515,New York,32249.3,Entry Level
+516,Texas,31729.149999999998,Medical/Health
+517,Ohio,83224.0,Experienced (Non-Manager)
+518,South carolina,29648.55,Medical/Health
+519,Massachusetts,100909.09999999999,Experienced (Non-Manager)
+520,Oklahoma,33289.6,Entry Level
+521,Florida,24967.199999999997,Student (High School)
+522,Washington,40571.7,Experienced (Non-Manager)
+523,Ohio,46813.5,Experienced (Non-Manager)
+524,California,28941.146,Experienced (Non-Manager)
+525,California,46813.5,Experienced (Non-Manager)
+526,South carolina,41612.0,Experienced (Non-Manager)
+527,California,114433.0,Experienced (Non-Manager)
+528,Kansas,24738.334,Entry Level
+529,California,33289.6,Experienced (Non-Manager)
+530,Ohio,19765.7,Experienced (Non-Manager)
+531,Missouri,18205.25,Entry Level
+532,Maryland,33289.6,Medical/Health
+533,South carolina,33289.6,Experienced (Non-Manager)
+534,Iowa,19245.55,Student (Undergraduate/Graduate)
+535,California,60337.399999999994,Experienced (Non-Manager)
+536,New York,46813.5,Manager (Manager/Supervisor of Staff)
+537,Pennsylvania,38491.1,Experienced (Non-Manager)
+538,Wisconsin,14761.856999999998,General/Other: Food Services
+539,Massachusetts,20806.0,Medical/Health
+540,New York,109231.5,Manager (Manager/Supervisor of Staff)
+541,Texas,102500.0,Experienced (Non-Manager)
+542,Colorado,42500.0,Experienced (Non-Manager)
+543,Texas,85000.0,Building Construction/Skilled Trades
+544,Texas,75000.0,Building Construction/Skilled Trades
+545,Colorado,77500.0,Accounting/Finance/Insurance
+546,Colorado,125000.0,Accounting/Finance/Insurance
+547,Nevada,92500.0,Accounting/Finance/Insurance
+548,Nevada,75000.0,Accounting/Finance/Insurance
+549,Nevada,55000.0,Accounting/Finance/Insurance
+550,Massachusetts,45000.0,Accounting/Finance/Insurance
+551,New jersey,42500.0,Sales/Retail/Business Development
+552,Colorado,50000.0,Building Construction/Skilled Trades
+553,Texas,115000.0,Medical/Health
+554,Colorado,60000.0,Experienced (Non-Manager)
+555,Texas,65000.0,Building Construction/Skilled Trades
+556,Texas,65000.0,Human Resources
+557,Colorado,85000.0,"Executive (SVP, VP, Department Head, etc)"
+558,Florida,66616.0,Experienced (Non-Manager)
+559,Colorado,45000.0,Building Construction/Skilled Trades
+560,Texas,60000.0,Manager (Manager/Supervisor of Staff)
+561,Tennessee,73500.0,IT/Software Development
+562,New jersey,185000.0,IT/Software Development
+563,Tennessee,80000.0,IT/Software Development
+564,Wisconsin,155000.0,"Executive (SVP, VP, Department Head, etc)"
+565,Texas,110000.0,Experienced (Non-Manager)
+566,New jersey,150000.0,Biotech/R&D/Science
+567,Illinois,90000.0,Quality Assurance/Safety
+568,Illinois,75000.0,Quality Assurance/Safety
+569,Illinois,100000.0,Quality Assurance/Safety
+570,Kentucky,90000.0,Experienced (Non-Manager)
+571,Georgia,130000.0,"Executive (SVP, VP, Department Head, etc)"
+572,Wisconsin,77500.0,Quality Assurance/Safety
+573,Texas,57500.0,Quality Assurance/Safety
+574,Missouri,77500.0,Quality Assurance/Safety
+575,Ohio,50000.0,Quality Assurance/Safety
+576,Kentucky,82500.0,Quality Assurance/Safety
+577,Texas,80000.0,Quality Assurance/Safety
+578,Alabama,65000.0,General/Other: Food Services
+579,North Carolina,57500.0,Food Services/Hospitality
+580,Georgia,75000.0,Experienced (Non-Manager)
+581,Georgia,55000.0,Sales/Retail/Business Development
+582,Texas,175000.0,IT/Software Development
+583,Georgia,65000.0,Accounting/Finance/Insurance
+584,Georgia,65000.0,Food Services/Hospitality
+585,Georgia,20500.0,Manufacturing/Production/Operations
+586,Texas,100000.0,Project/Program Management
+587,Tennessee,105000.0,Manager (Manager/Supervisor of Staff)
+588,California,80000.0,Manager (Manager/Supervisor of Staff)
+589,Pennsylvania,55000.0,Manager (Manager/Supervisor of Staff)
+590,Pennsylvania,37500.0,Entry Level
+591,Wyoming,62500.0,Project/Program Management
+592,Florida,45000.0,Marketing/Product
+593,Illinois,105000.0,Manager (Manager/Supervisor of Staff)
+594,Florida,70000.0,Manager (Manager/Supervisor of Staff)
+595,Texas,100000.0,Building Construction/Skilled Trades
+596,Texas,119750.0,IT/Software Development
+597,Texas,97500.0,Building Construction/Skilled Trades
+598,Texas,67500.0,Building Construction/Skilled Trades
+599,Missouri,60000.0,Business/Strategic Management
+600,Kansas,65000.0,Engineering
+601,Missouri,85000.0,Experienced (Non-Manager)
+602,California,37500.0,Accounting/Finance/Insurance
+603,New York,100000.0,Accounting/Finance/Insurance
+604,New York,62500.0,Accounting/Finance/Insurance
+605,New York,85000.0,Accounting/Finance/Insurance
+606,New mexico,67500.0,Accounting/Finance/Insurance
+607,Florida,27500.0,Accounting/Finance/Insurance
+608,New jersey,70000.0,Accounting/Finance/Insurance
+609,New jersey,90000.0,Human Resources
+610,New York,82500.0,Accounting/Finance/Insurance
+611,Massachusetts,55000.0,Human Resources
+612,New York,152500.0,Accounting/Finance/Insurance
+613,New York,57500.0,Accounting/Finance/Insurance
+614,Illinois,31500.0,Accounting/Finance/Insurance
+615,Florida,47500.0,Accounting/Finance/Insurance
+616,California,52500.0,Accounting/Finance/Insurance
+617,New York,70000.0,Accounting/Finance/Insurance
+618,New jersey,117500.0,Accounting/Finance/Insurance
+619,California,45000.0,Accounting/Finance/Insurance
+620,Illinois,70000.0,Accounting/Finance/Insurance
+621,Wisconsin,95000.0,Accounting/Finance/Insurance
+622,Texas,90000.0,Accounting/Finance/Insurance
+623,California,115000.0,Accounting/Finance/Insurance
+624,California,62500.0,Accounting/Finance/Insurance
+625,Florida,30500.0,Accounting/Finance/Insurance
+626,Florida,55000.0,Accounting/Finance/Insurance
+627,New jersey,75000.0,Accounting/Finance/Insurance
+628,Georgia,70000.0,Sales/Retail/Business Development
+629,Delaware,82500.0,Sales/Retail/Business Development
+630,Colorado,100000.0,Sales/Retail/Business Development
+631,Maryland,35000.0,Sales/Retail/Business Development
+632,Iowa,70000.0,Sales/Retail/Business Development
+633,Illinois,82500.0,Sales/Retail/Business Development
+634,Massachusetts,105000.0,Accounting/Finance/Insurance
+635,Wisconsin,47500.0,Food Services/Hospitality
+636,Iowa,72500.0,Food Services/Hospitality
+637,Texas,67500.0,Manager (Manager/Supervisor of Staff)
+638,Texas,102500.0,Manager (Manager/Supervisor of Staff)
+639,Texas,80000.0,Manager (Manager/Supervisor of Staff)
+640,Texas,67500.0,Manager (Manager/Supervisor of Staff)
+641,California,87500.0,Experienced (Non-Manager)
+642,Indiana,27500.0,Experienced (Non-Manager)
+643,Florida,35000.0,Experienced (Non-Manager)
+644,Alabama,47500.0,Experienced (Non-Manager)
+645,Tennessee,92500.0,IT/Software Development
+646,Tennessee,55000.0,IT/Software Development
+647,Oklahoma,32500.0,Experienced (Non-Manager)
+648,Virginia,165000.0,Manager (Manager/Supervisor of Staff)
+649,Florida,37000.0,Experienced (Non-Manager)
+650,Minnesota,37000.0,Experienced (Non-Manager)
+651,New York,97500.0,Experienced (Non-Manager)
+652,Florida,66592.13500000001,Experienced (Non-Manager)
+653,California,133889.5,Manager (Manager/Supervisor of Staff)
+654,Ohio,80000.0,IT/Software Development
+655,Missouri,117500.0,Experienced (Non-Manager)
+656,California,108493.0,Experienced (Non-Manager)
+657,Florida,77500.0,IT/Software Development
+658,Texas,57500.0,IT/Software Development
+659,Texas,60000.0,Medical/Health
+660,Connecticut,52500.0,Experienced (Non-Manager)
+661,California,107500.0,Experienced (Non-Manager)
+662,Maryland,115000.0,IT/Software Development
+663,Florida,92500.0,Experienced (Non-Manager)
+664,Texas,70000.0,Manager (Manager/Supervisor of Staff)
+665,North Carolina,85000.0,Experienced (Non-Manager)
+666,New hampshire,80000.0,Medical/Health
+667,New jersey,40000.0,Experienced (Non-Manager)
+668,Texas,62500.0,Medical/Health
+669,Ohio,45000.0,Entry Level
+670,Minnesota,33150.0,Entry Level
+671,Ohio,68500.0,Manager (Manager/Supervisor of Staff)
+672,California,87500.0,Experienced (Non-Manager)
+673,Ohio,62500.0,Entry Level
+674,Ohio,110000.0,IT/Software Development
+675,Virginia,72500.0,Experienced (Non-Manager)
+676,New York,43500.0,Experienced (Non-Manager)
+677,Missouri,80000.0,Experienced (Non-Manager)
+678,Georgia,90000.0,Experienced (Non-Manager)
+679,Texas,190000.0,"Executive (SVP, VP, Department Head, etc)"
+680,Massachusetts,94000.0,Experienced (Non-Manager)
+681,Tennessee,30000.0,Other
+682,Tennessee,92500.0,IT/Software Development
+683,Texas,64500.0,Manager (Manager/Supervisor of Staff)
+684,Texas,77000.0,Manager (Manager/Supervisor of Staff)
+685,Tennessee,82500.0,IT/Software Development
+686,New hampshire,65000.0,Experienced (Non-Manager)
+687,Illinois,70000.0,Sales/Retail/Business Development
+688,Virginia,70000.0,Sales/Retail/Business Development
+689,Indiana,35000.0,Manager (Manager/Supervisor of Staff)
+690,Florida,80000.0,Experienced (Non-Manager)
+691,Missouri,70000.0,Sales/Retail/Business Development
+692,California,90000.0,Experienced (Non-Manager)
+693,Massachusetts,18000.0,Accounting/Finance/Insurance
+694,Indiana,45000.0,Accounting/Finance/Insurance
+695,Kentucky,52500.0,Food Services/Hospitality
+696,Ohio,92500.0,IT/Software Development
+697,Ohio,37500.0,Customer Support/Client Care
+698,Ohio,60000.0,Account Management (Commissioned)Insurance Agent/BrokerFinancial Products Sales/Brokerage
+699,Florida,92500.0,Medical/Health
+700,Illinois,70000.0,Sales/Retail/Business Development
+701,Georgia,70000.0,Sales/Retail/Business Development
+702,Illinois,85000.0,Experienced (Non-Manager)
+703,Missouri,45000.0,Experienced (Non-Manager)
+704,Illinois,41000.0,Experienced (Non-Manager)
+705,Ohio,43000.0,Experienced (Non-Manager)
+706,Ohio,43500.0,Sales/Retail/Business Development
+707,Ohio,43500.0,Sales/Retail/Business Development
+708,Ohio,57500.0,Entry Level
+709,Ohio,152500.0,Experienced (Non-Manager)
+710,Ohio,82500.0,Experienced (Non-Manager)
+711,Ohio,43500.0,Sales/Retail/Business Development
+712,Ohio,94373.5,Manager (Manager/Supervisor of Staff)
+713,Ohio,42500.0,Installation/Maintenance/Repair
+714,Ohio,65000.0,Experienced (Non-Manager)
+715,Ohio,43500.0,Sales/Retail/Business Development
+716,Ohio,31500.0,Entry Level
+717,Ohio,50000.0,Sales/Retail/Business Development
+718,Ohio,47500.0,Experienced (Non-Manager)
+719,Ohio,57500.0,Experienced (Non-Manager)
+720,Ohio,40000.0,Experienced (Non-Manager)
+721,Ohio,47500.0,Experienced (Non-Manager)
+722,Ohio,45000.0,Experienced (Non-Manager)
+723,Ohio,100000.0,Manager (Manager/Supervisor of Staff)
+724,Ohio,30000.0,Experienced (Non-Manager)
+725,Ohio,55000.0,Manager (Manager/Supervisor of Staff)
+726,Ohio,80000.0,IT/Software Development
+727,Ohio,43500.0,Sales/Retail/Business Development
+728,Ohio,43500.0,Sales/Retail/Business Development
+729,Ohio,51000.0,Customer Support/Client Care
+730,Ohio,57500.0,Entry Level
+731,Ohio,52500.0,Experienced (Non-Manager)
+732,Ohio,25000.0,Experienced (Non-Manager)
+733,Ohio,100000.0,Sales/Retail/Business Development
+734,Ohio,16000.0,Experienced (Non-Manager)
+735,Ohio,43500.0,Sales/Retail/Business Development
+736,Ohio,51000.0,Engineering
+737,Ohio,37500.0,Experienced (Non-Manager)
+738,Ohio,35000.0,Experienced (Non-Manager)
+739,Ohio,37500.0,Experienced (Non-Manager)
+740,Ohio,52500.0,Manager (Manager/Supervisor of Staff)
+741,Ohio,60000.0,Marketing/Product
+742,Ohio,150500.0,Experienced (Non-Manager)
+743,Ohio,43500.0,Sales/Retail/Business Development
+744,Ohio,120000.0,IT/Software Development
+745,Ohio,42500.0,Experienced (Non-Manager)
+746,Ohio,37500.0,Sales/Retail/Business Development
+747,Ohio,43500.0,Sales/Retail/Business Development
+748,Ohio,60000.0,Experienced (Non-Manager)
+749,Ohio,45000.0,Manager (Manager/Supervisor of Staff)
+750,Ohio,42500.0,Entry Level
+751,Ohio,40000.0,Manager (Manager/Supervisor of Staff)
+752,Ohio,87500.0,IT/Software Development
+753,Ohio,43500.0,Sales/Retail/Business Development
+754,New York,72500.0,Experienced (Non-Manager)
+755,California,105000.0,Experienced (Non-Manager)
+756,New York,140000.0,Manager (Manager/Supervisor of Staff)
+757,Texas,27500.0,Experienced (Non-Manager)
+758,Massachusetts,72500.0,Legal
+759,New York,67500.0,Experienced (Non-Manager)
+760,Pennsylvania,110000.0,Legal
+761,Colorado,57500.0,Experienced (Non-Manager)
+762,California,42500.0,Experienced (Non-Manager)
+763,New York,120000.0,Manager (Manager/Supervisor of Staff)
+764,Florida,37500.0,Entry Level
+765,New York,85000.0,Experienced (Non-Manager)
+766,New York,142500.0,Manager (Manager/Supervisor of Staff)
+767,New York,65000.0,Experienced (Non-Manager)
+768,Connecticut,90000.0,Experienced (Non-Manager)
+769,New York,150000.0,Manager (Manager/Supervisor of Staff)
+770,Massachusetts,45000.0,Legal
+771,New York,60000.0,Experienced (Non-Manager)
+772,California,65000.0,Experienced (Non-Manager)
+773,Florida,57500.0,Experienced (Non-Manager)
+774,New York,97500.0,Experienced (Non-Manager)
+775,Ohio,29500.0,Experienced (Non-Manager)
+776,New jersey,48500.0,Experienced (Non-Manager)
+777,California,42500.0,Entry Level
+778,Florida,34250.0,Experienced (Non-Manager)
+779,Florida,80000.0,Experienced (Non-Manager)
+780,California,37000.0,Entry Level
+781,Arizona,31000.0,Experienced (Non-Manager)
+782,Colorado,70000.0,Entry Level
+783,New jersey,157500.0,Experienced (Non-Manager)
+784,Texas,225000.0,Experienced (Non-Manager)
+785,New York,132500.0,Manager (Manager/Supervisor of Staff)
+786,Virginia,47500.0,Experienced (Non-Manager)
+787,New York,65000.0,Experienced (Non-Manager)
+788,New jersey,70000.0,Experienced (Non-Manager)
+789,Florida,51000.0,Experienced (Non-Manager)
+790,Michigan,50000.0,Experienced (Non-Manager)
+791,New York,45000.0,Experienced (Non-Manager)
+792,New jersey,35000.0,Experienced (Non-Manager)
+793,New York,47500.0,Experienced (Non-Manager)
+794,Texas,45000.0,Experienced (Non-Manager)
+795,New York,150000.0,Manager (Manager/Supervisor of Staff)
+796,Florida,45000.0,Experienced (Non-Manager)
+797,New York,92500.0,Experienced (Non-Manager)
+798,New York,80000.0,Experienced (Non-Manager)
+799,Texas,125000.0,Manager (Manager/Supervisor of Staff)
+800,Texas,80000.0,Accounting/Finance/Insurance
+801,Texas,35000.0,Manager (Manager/Supervisor of Staff)
+802,Texas,55000.0,Accounting/Finance/Insurance
+803,Texas,35000.0,Entry Level
+804,Texas,80000.0,Accounting/Finance/Insurance
+805,Texas,107500.0,Medical/Health
+806,Texas,67500.0,Accounting/Finance/Insurance
+807,Arkansas,105000.0,Manufacturing/Production/Operations
+808,Illinois,82500.0,Sales/Retail/Business Development
+809,Tennessee,80000.0,Accounting/Finance/Insurance
+810,California,26000.0,Accounting/Finance/Insurance
+811,Illinois,110000.0,Manager (Manager/Supervisor of Staff)
+812,Colorado,90000.0,"Executive (SVP, VP, Department Head, etc)"
+813,California,90000.0,Business/Strategic Management
+814,Illinois,105000.0,Experienced (Non-Manager)
+815,Ohio,70000.0,Engineering
+816,Indiana,52500.0,Experienced (Non-Manager)
+817,Massachusetts,37500.0,Other
+818,Texas,130000.0,"Executive (SVP, VP, Department Head, etc)"
+819,Massachusetts,135000.0,Accounting/Finance/Insurance
+820,Minnesota,105000.0,IT/Software Development
+821,Massachusetts,60000.0,Engineering
+822,Massachusetts,135000.0,Marketing/Product
+823,Massachusetts,142500.0,Accounting/Finance/Insurance
+824,Massachusetts,90000.0,Experienced (Non-Manager)
+825,Illinois,97500.0,Manager (Manager/Supervisor of Staff)
+826,Florida,95000.0,Project/Program Management
+827,Pennsylvania,77500.0,Experienced (Non-Manager)
+828,California,117500.0,Food Services/Hospitality
+829,Georgia,65000.0,Accounting/Finance/Insurance
+830,Nevada,112500.0,Experienced (Non-Manager)
+831,Nevada,85000.0,Accounting/Finance/Insurance
+832,Nevada,59800.0,Manager (Manager/Supervisor of Staff)
+833,Nevada,67500.0,Accounting/Finance/Insurance
+834,Nevada,67500.0,Accounting/Finance/Insurance
+835,Nevada,75000.0,Entry Level
+836,Nevada,41500.0,Accounting/Finance/Insurance
+837,Nevada,117500.0,Accounting/Finance/Insurance
+838,Tennessee,28000.0,Administrative/Clerical
+839,Nevada,55000.0,Logistics/Transportation
+840,Nevada,150000.0,Entry Level
+841,Nevada,62500.0,Manager (Manager/Supervisor of Staff)
+842,Nevada,47000.0,Entry Level
+843,Nevada,57500.0,Experienced (Non-Manager)
+844,Wisconsin,90000.0,Experienced (Non-Manager)
+845,Wisconsin,225000.0,"Executive (SVP, VP, Department Head, etc)"
+846,Tennessee,25000.0,Student (High School)
+847,Wisconsin,65000.0,Experienced (Non-Manager)
+848,Nevada,65000.0,Experienced (Non-Manager)
+849,Wisconsin,51000.0,Entry Level
+850,Wisconsin,32500.0,Experienced (Non-Manager)
+851,Nevada,41500.0,Accounting/Finance/Insurance
+852,Wisconsin,82500.0,Manager (Manager/Supervisor of Staff)
+853,Nevada,50000.0,Accounting/Finance/Insurance
+854,Nevada,40000.0,Sales/Retail/Business Development
+855,Nevada,102500.0,Medical/Health
+856,Nevada,62500.0,Experienced (Non-Manager)
+857,Nevada,85000.0,Accounting/Finance/Insurance
+858,Nevada,100000.0,Manager (Manager/Supervisor of Staff)
+859,Wisconsin,42500.0,Experienced (Non-Manager)
+860,Nevada,67500.0,Manager (Manager/Supervisor of Staff)
+861,Nevada,32500.0,Entry Level
+862,South carolina,275000.0,Entry Level
+863,Florida,87500.0,Manager (Manager/Supervisor of Staff)
+864,Washington,137500.0,"Executive (SVP, VP, Department Head, etc)"
+865,Maryland,62500.0,Experienced (Non-Manager)
+866,California,167500.0,Manager (Manager/Supervisor of Staff)
+867,Texas,57500.0,Manager (Manager/Supervisor of Staff)
+868,Ohio,97500.0,Experienced (Non-Manager)
+869,Colorado,75129.0,Accounting/Finance/Insurance
+870,Colorado,100000.0,Medical/Health
+871,Colorado,100000.0,Sales/Retail/Business Development
+872,California,125000.0,Sales/Retail/Business Development
+873,California,43000.0,Sales/Retail/Business Development
+874,Massachusetts,47500.0,Experienced (Non-Manager)
+875,Arkansas,80000.0,Manufacturing/Production/Operations
+876,Kansas,55000.0,Manager (Manager/Supervisor of Staff)
+877,Texas,90000.0,Building Construction/Skilled Trades
+878,Texas,105000.0,Building Construction/Skilled Trades
+879,Texas,95000.0,Building Construction/Skilled Trades
+880,Colorado,54100.0,Experienced (Non-Manager)
+881,Colorado,45000.0,Building Construction/Skilled Trades
+882,Colorado,40000.0,Manager (Manager/Supervisor of Staff)
+883,Colorado,39520.0,Accounting/Finance/Insurance
+884,Texas,90000.0,Building Construction/Skilled Trades
+885,Texas,92500.0,Building Construction/Skilled Trades
+886,Texas,95000.0,Building Construction/Skilled Trades
+887,Colorado,43750.0,Experienced (Non-Manager)
+888,Colorado,42000.0,Accounting/Finance/Insurance
+889,New York,22500.0,Installation/Maintenance/Repair
+890,Texas,115000.0,Manager (Manager/Supervisor of Staff)
+891,Texas,57500.0,Accounting/Finance/Insurance
+892,Texas,62500.0,Accounting/Finance/Insurance
+893,Texas,60000.0,Manager (Manager/Supervisor of Staff)
+894,Texas,67500.0,Experienced (Non-Manager)
+895,Texas,35000.0,Sales/Retail/Business Development
+896,Texas,90000.0,Building Construction/Skilled Trades
+897,Texas,77500.0,Building Construction/Skilled Trades
+898,Nevada,80000.0,Accounting/Finance/Insurance
+899,North Carolina,87500.0,"Executive (SVP, VP, Department Head, etc)"
+900,Missouri,38000.0,Installation/Maintenance/Repair
+901,Florida,45000.0,Installation/Maintenance/Repair
+902,Louisiana,50000.0,Entry Level
+903,New jersey,40000.0,Manager (Manager/Supervisor of Staff)
+904,Virginia,32500.0,Entry Level
+905,Illinois,50000.0,Experienced (Non-Manager)
+906,Texas,34000.0,Installation/Maintenance/Repair
+907,California,90078.0,Experienced (Non-Manager)
+908,New jersey,42500.0,Experienced (Non-Manager)
+909,Iowa,117500.0,Manager (Manager/Supervisor of Staff)
+910,Florida,90000.0,Experienced (Non-Manager)
+911,Pennsylvania,37500.0,Entry Level
+912,Illinois,65000.0,Entry Level
+913,New jersey,95000.0,Experienced (Non-Manager)
+914,Ohio,32500.0,Experienced (Non-Manager)
+915,New jersey,52500.0,Experienced (Non-Manager)
+916,Ohio,47500.0,Manager (Manager/Supervisor of Staff)
+917,North Carolina,70000.0,Manager (Manager/Supervisor of Staff)
+918,Virginia,66500.0,Experienced (Non-Manager)
+919,Indiana,40000.0,Entry Level
+920,Tennessee,31500.0,Entry Level
+921,Illinois,35000.0,Experienced (Non-Manager)
+922,New jersey,57000.0,Experienced (Non-Manager)
+923,Kansas,82500.0,Manager (Manager/Supervisor of Staff)
+924,Florida,40000.0,Experienced (Non-Manager)
+925,North Carolina,55000.0,Manager (Manager/Supervisor of Staff)
+926,Indiana,50000.0,Experienced (Non-Manager)
+927,New jersey,50000.0,Manager (Manager/Supervisor of Staff)
+928,Illinois,80000.0,Experienced (Non-Manager)
+929,New York,67500.0,Experienced (Non-Manager)
+930,New jersey,57000.0,Experienced (Non-Manager)
+931,Virginia,60000.0,Experienced (Non-Manager)
+932,Virginia,50000.0,Manager (Manager/Supervisor of Staff)
+933,New jersey,70000.0,Experienced (Non-Manager)
+934,South carolina,70000.0,Experienced (Non-Manager)
+935,Arkansas,65000.0,Experienced (Non-Manager)
+936,North Dakota,92500.0,Experienced (Non-Manager)
+937,Iowa,55000.0,Experienced (Non-Manager)
+938,Texas,52500.0,Installation/Maintenance/Repair
+939,Texas,47800.0,Experienced (Non-Manager)
+940,California,77664.0,Experienced (Non-Manager)
+941,New jersey,55000.0,Installation/Maintenance/Repair
+942,Massachusetts,50000.0,Experienced (Non-Manager)
+943,Massachusetts,55000.0,Experienced (Non-Manager)
+944,Minnesota,56000.0,Experienced (Non-Manager)
+945,Massachusetts,54000.0,Experienced (Non-Manager)
+946,Ohio,115000.0,Manager (Manager/Supervisor of Staff)
+947,Illinois,36000.0,Entry Level
+948,Florida,45000.0,Manager (Manager/Supervisor of Staff)
+949,California,62500.0,Experienced (Non-Manager)
+950,Texas,36000.0,Manager (Manager/Supervisor of Staff)
+951,New York,60000.0,Manager (Manager/Supervisor of Staff)
+952,Pennsylvania,72500.0,Manager (Manager/Supervisor of Staff)
+953,Kentucky,77500.0,Manufacturing/Production/Operations
+954,North Carolina,57500.0,Experienced (Non-Manager)
+955,North Carolina,47500.0,Manager (Manager/Supervisor of Staff)
+956,Missouri,80000.0,Manager (Manager/Supervisor of Staff)
+957,Missouri,125000.0,Manager (Manager/Supervisor of Staff)
+958,Arizona,67500.0,Manager (Manager/Supervisor of Staff)
+959,California,175000.0,"Executive (SVP, VP, Department Head, etc)"
+960,Pennsylvania,27500.0,Entry Level
+961,New jersey,39000.0,Experienced (Non-Manager)
+962,Illinois,67500.0,Experienced (Non-Manager)
+963,Indiana,72500.0,Experienced (Non-Manager)
+964,Mississippi,57500.0,Manufacturing/Production/Operations
+965,Mississippi,47500.0,Manager (Manager/Supervisor of Staff)
+966,Ohio,57500.0,Manufacturing/Production/Operations
+967,Wisconsin,45000.0,Experienced (Non-Manager)
+968,Missouri,92500.0,Manager (Manager/Supervisor of Staff)
+969,Iowa,85000.0,Manager (Manager/Supervisor of Staff)
+970,Florida,37500.0,Manager (Manager/Supervisor of Staff)
+971,Florida,72500.0,Manager (Manager/Supervisor of Staff)
+972,Kentucky,63000.0,Experienced (Non-Manager)
+973,Minnesota,77000.0,Manager (Manager/Supervisor of Staff)
+974,Ohio,110000.0,Manufacturing/Production/Operations
+975,Ohio,95000.0,Experienced (Non-Manager)
+976,Kentucky,38500.0,Experienced (Non-Manager)
+977,North Carolina,47500.0,Manager (Manager/Supervisor of Staff)
+978,Georgia,80000.0,IT/Software Development
+979,Wisconsin,62500.0,Experienced (Non-Manager)
+980,Missouri,85000.0,Experienced (Non-Manager)
+981,Wisconsin,55000.0,Experienced (Non-Manager)
+982,Wisconsin,83500.0,Experienced (Non-Manager)
+983,Illinois,41000.0,Experienced (Non-Manager)
+984,Illinois,40000.0,Quality Assurance/Safety
+985,Illinois,85000.0,Experienced (Non-Manager)
+986,Texas,97500.0,Quality Assurance/Safety
+987,Alabama,87500.0,Manager (Manager/Supervisor of Staff)
+988,Michigan,125000.0,Experienced (Non-Manager)
+989,Alabama,72500.0,Project/Program Management
+990,Pennsylvania,85000.0,Quality Assurance/Safety
+991,Texas,36500.0,Experienced (Non-Manager)
+992,Texas,112500.0,Manager (Manager/Supervisor of Staff)
+993,California,28500.0,Accounting/Finance/Insurance
+994,California,55000.0,Accounting/Finance/Insurance
+995,California,70000.0,Accounting/Finance/Insurance
+996,California,27500.0,Accounting/Finance/Insurance
+997,Illinois,70000.0,Sales/Retail/Business Development
+998,North Carolina,250000.0,Medical/Health
+999,Illinois,70000.0,Sales/Retail/Business Development
+1000,West Virginia,70000.0,Sales/Retail/Business Development
+1001,Maryland,70000.0,Sales/Retail/Business Development
+1002,California,125000.0,Experienced (Non-Manager)
+1003,Pennsylvania,70000.0,Sales/Retail/Business Development
+1004,Mississippi,70000.0,Sales/Retail/Business Development
+1005,Georgia,70000.0,Sales/Retail/Business Development
+1006,Indiana,70000.0,Sales/Retail/Business Development
+1007,Illinois,70000.0,Sales/Retail/Business Development
+1008,Pennsylvania,70000.0,Sales/Retail/Business Development
+1009,Georgia,70000.0,Sales/Retail/Business Development
+1010,Mississippi,70000.0,Sales/Retail/Business Development
+1011,Maryland,70000.0,Sales/Retail/Business Development
+1012,Illinois,70000.0,Sales/Retail/Business Development
+1013,Missouri,70000.0,Sales/Retail/Business Development
+1014,Missouri,70000.0,Sales/Retail/Business Development
+1015,Wisconsin,35000.0,Customer Support/Client Care
+1016,Texas,70000.0,Sales/Retail/Business Development
+1017,Texas,90000.0,Manager (Manager/Supervisor of Staff)
+1018,Texas,87500.0,Medical/Health
+1019,California,70000.0,Experienced (Non-Manager)
+1020,California,65000.0,Accounting/Finance/Insurance
+1021,Kentucky,70000.0,Sales/Retail/Business Development
+1022,Indiana,28655.0,Customer Support/Client Care
+1023,Texas,57782.399999999994,Customer Support/Client Care
+1024,Ohio,48500.0,Manager (Manager/Supervisor of Staff)
+1025,North Carolina,21500.0,Entry Level
+1026,Massachusetts,92500.0,Accounting/Finance/Insurance
+1027,Massachusetts,82500.0,Experienced (Non-Manager)
+1028,Rhode island,75000.0,Experienced (Non-Manager)
+1029,Massachusetts,57500.0,Experienced (Non-Manager)
+1030,Florida,60000.0,Accounting/Finance/Insurance
+1031,Tennessee,70000.0,Sales/Retail/Business Development
+1032,Illinois,70000.0,Sales/Retail/Business Development
+1033,California,50000.0,Administrative/Clerical
+1034,California,55000.0,Accounting/Finance/Insurance
+1035,Wisconsin,67500.0,Human Resources
+1036,Texas,95000.0,Experienced (Non-Manager)
+1037,California,60000.0,Accounting/Finance/Insurance
+1038,Indiana,92500.0,Experienced (Non-Manager)
+1039,California,130000.0,Business/Strategic Management
+1040,California,125000.0,Sales/Retail/Business Development
+1041,Massachusetts,109000.0,Manager (Manager/Supervisor of Staff)
+1042,Massachusetts,80000.0,Experienced (Non-Manager)
+1043,New jersey,150000.0,Biotech/R&D/Science
+1044,Virginia,72500.0,Biotech/R&D/Science
+1045,New jersey,150000.0,Biotech/R&D/Science
+1046,New jersey,150000.0,Biotech/R&D/Science
+1047,Minnesota,79500.0,Experienced (Non-Manager)
+1048,Texas,72500.0,Experienced (Non-Manager)
+1049,Tennessee,70000.0,Human Resources
+1050,Pennsylvania,55000.0,Experienced (Non-Manager)
+1051,New York,65000.0,Experienced (Non-Manager)
+1052,New jersey,110000.0,Human Resources
+1053,Virginia,40000.0,Experienced (Non-Manager)
+1054,California,57500.0,Experienced (Non-Manager)
+1055,Ohio,85000.0,Experienced (Non-Manager)
+1056,Pennsylvania,27500.0,Legal
+1057,Utah,80000.0,Experienced (Non-Manager)
+1058,Massachusetts,76500.0,Legal
+1059,New York,47500.0,Experienced (Non-Manager)
+1060,Massachusetts,80000.0,Legal
+1061,Tennessee,95000.0,Experienced (Non-Manager)
+1062,Illinois,82500.0,Sales/Retail/Business Development
+1063,Illinois,105000.0,Experienced (Non-Manager)
+1064,Illinois,76000.0,Desktop Service and Support
+1065,Illinois,82500.0,Sales/Retail/Business Development
+1066,Illinois,32500.0,Sales/Retail/Business Development
+1067,Ohio,70000.0,Insurance Agent/BrokerGeneral/Other: Sales/Business DevelopmentFinancial Products Sales/Brokerage
+1068,Ohio,90000.0,IT/Software Development
+1069,Ohio,110000.0,Sales/Retail/Business Development
+1070,Ohio,70000.0,Sales/Retail/Business Development
+1071,Ohio,60000.0,Engineering
+1072,Ohio,102500.0,Project/Program Management
+1073,Ohio,85000.0,IT/Software Development
+1074,Ohio,112500.0,Experienced (Non-Manager)
+1075,Ohio,77500.0,IT/Software Development
+1076,Ohio,75000.0,Insurance Agent/BrokerGeneral/Other: Sales/Business DevelopmentFinancial Products Sales/Brokerage
+1077,Ohio,57500.0,Engineering
+1078,Ohio,70000.0,Insurance Agent/BrokerGeneral/Other: Sales/Business DevelopmentFinancial Products Sales/Brokerage
+1079,Indiana,70000.0,Sales/Retail/Business Development
+1080,Texas,97500.0,Marketing/Product
+1081,North Carolina,92500.0,Engineering
+1082,North Carolina,95042.5,Manager (Manager/Supervisor of Staff)
+1083,Indiana,28250.0,Manager (Manager/Supervisor of Staff)
+1084,Wisconsin,115000.0,Quality Assurance/Safety
+1085,Ohio,72500.0,Experienced (Non-Manager)
+1086,Michigan,56000.0,Project/Program Management
+1087,Georgia,50000.0,Entry Level
+1088,Maine,70000.0,Entry Level
+1089,Pennsylvania,60000.0,Experienced (Non-Manager)
+1090,Pennsylvania,82500.0,Experienced (Non-Manager)
+1091,Utah,65000.0,Experienced (Non-Manager)
+1092,California,77500.0,Manager (Manager/Supervisor of Staff)
+1093,Texas,110000.0,Project/Program Management
+1094,Massachusetts,45000.0,Experienced (Non-Manager)
+1095,West Virginia,37500.0,Experienced (Non-Manager)
+1096,Ohio,85000.0,Manager (Manager/Supervisor of Staff)
+1097,California,80000.0,Project/Program Management
+1098,Texas,67500.0,Manager (Manager/Supervisor of Staff)
+1099,Michigan,57500.0,Experienced (Non-Manager)
+1100,Connecticut,85000.0,"Executive (SVP, VP, Department Head, etc)"
+1101,Florida,60000.0,Experienced (Non-Manager)
+1102,Michigan,130000.0,Experienced (Non-Manager)
+1103,California,115000.0,Manager (Manager/Supervisor of Staff)
+1104,Iowa,36000.0,Experienced (Non-Manager)
+1105,Kansas,65000.0,Quality Assurance/Safety
+1106,New jersey,75000.0,Manager (Manager/Supervisor of Staff)
+1107,California,50000.0,Manager (Manager/Supervisor of Staff)
+1108,Pennsylvania,102500.0,Manager (Manager/Supervisor of Staff)
+1109,Alabama,110000.0,Quality Assurance/Safety
+1110,Minnesota,42500.0,Experienced (Non-Manager)
+1111,Florida,40000.0,Manager (Manager/Supervisor of Staff)
+1112,Kentucky,90000.0,Manager (Manager/Supervisor of Staff)
+1113,North Carolina,62500.0,Project/Program Management
+1114,Florida,90459.0,Manager (Manager/Supervisor of Staff)
+1115,Montana,55000.0,"Executive (SVP, VP, Department Head, etc)"
+1116,Pennsylvania,55000.0,Manager (Manager/Supervisor of Staff)
+1117,Louisiana,95000.0,Experienced (Non-Manager)
+1118,Montana,55000.0,"Executive (SVP, VP, Department Head, etc)"
+1119,Iowa,75000.0,Manager (Manager/Supervisor of Staff)
+1120,South carolina,70000.0,IT Project ManagementGeneral/Other: Project/Program ManagementProject Management
+1121,Minnesota,52500.0,Entry Level
+1122,New jersey,32500.0,Entry Level
+1123,Mississippi,81000.0,Experienced (Non-Manager)
+1124,California,90000.0,Experienced (Non-Manager)
+1125,Connecticut,100000.0,Experienced (Non-Manager)
+1126,New jersey,100000.0,Manager (Manager/Supervisor of Staff)
+1127,Ohio,62500.0,Manager (Manager/Supervisor of Staff)
+1128,Massachusetts,65000.0,Experienced (Non-Manager)
+1129,Illinois,100000.0,Experienced (Non-Manager)
+1130,Kentucky,80000.0,Manager (Manager/Supervisor of Staff)
+1131,Washington,50000.0,Experienced (Non-Manager)
+1132,Alabama,102500.0,Manager (Manager/Supervisor of Staff)
+1133,Florida,50000.0,Manager (Manager/Supervisor of Staff)
+1134,California,65000.0,Experienced (Non-Manager)
+1135,Utah,65000.0,Manager (Manager/Supervisor of Staff)
+1136,Florida,52500.0,Manager (Manager/Supervisor of Staff)
+1137,Georgia,90000.0,Manager (Manager/Supervisor of Staff)
+1138,Louisiana,100000.0,Project/Program Management
+1139,South carolina,91900.0,Experienced (Non-Manager)
+1140,New jersey,57500.0,Experienced (Non-Manager)
+1141,New jersey,47500.0,Experienced (Non-Manager)
+1142,Missouri,77500.0,Manager (Manager/Supervisor of Staff)
+1143,Colorado,37500.0,Experienced (Non-Manager)
+1144,Illinois,90000.0,Experienced (Non-Manager)
+1145,Missouri,65000.0,Quality Assurance/Safety
+1146,Texas,110000.0,Project/Program Management
+1147,Virginia,21250.0,Entry Level
+1148,Montana,55000.0,"Executive (SVP, VP, Department Head, etc)"
+1149,Massachusetts,180000.0,Project/Program Management
+1150,Pennsylvania,77500.0,Manager (Manager/Supervisor of Staff)
+1151,New jersey,195000.0,Experienced (Non-Manager)
+1152,California,75000.0,Manager (Manager/Supervisor of Staff)
+1153,North Carolina,67500.0,Manager (Manager/Supervisor of Staff)
+1154,Ohio,52500.0,Manager (Manager/Supervisor of Staff)
+1155,Illinois,95000.0,"Executive (SVP, VP, Department Head, etc)"
+1156,Michigan,80000.0,Experienced (Non-Manager)
+1157,Iowa,74000.0,Experienced (Non-Manager)
+1158,Illinois,52500.0,Experienced (Non-Manager)
+1159,Virginia,57500.0,Biotech/R&D/Science
+1160,Maryland,66500.0,Experienced (Non-Manager)
+1161,Illinois,65000.0,Manager (Manager/Supervisor of Staff)
+1162,Utah,67500.0,"Executive (SVP, VP, Department Head, etc)"
+1163,Wisconsin,75000.0,Experienced (Non-Manager)
+1164,New jersey,30000.0,Experienced (Non-Manager)
+1165,Connecticut,110000.0,Manager (Manager/Supervisor of Staff)
+1166,California,37500.0,Manager (Manager/Supervisor of Staff)
+1167,Tennessee,117500.0,Quality Assurance/Safety
+1168,Kansas,62500.0,Experienced (Non-Manager)
+1169,Pennsylvania,50000.0,Entry Level
+1170,Massachusetts,92500.0,Experienced (Non-Manager)
+1171,Illinois,267500.0,"Executive (SVP, VP, Department Head, etc)"
+1172,Florida,36500.0,Software Quality Assurance
+1173,Pennsylvania,41000.0,Entry Level
+1174,New York,92500.0,Experienced (Non-Manager)
+1175,Washington,41500.0,Entry Level
+1176,Missouri,71000.0,Quality Assurance/Safety
+1177,Kentucky,65000.0,Experienced (Non-Manager)
+1178,Utah,100000.0,Experienced (Non-Manager)
+1179,New jersey,42500.0,Experienced (Non-Manager)
+1180,Ohio,75000.0,Experienced (Non-Manager)
+1181,West Virginia,69000.0,Quality Assurance/Safety
+1182,Colorado,70000.0,Manager (Manager/Supervisor of Staff)
+1183,California,100000.0,Experienced (Non-Manager)
+1184,Tennessee,37500.0,Manager (Manager/Supervisor of Staff)
+1185,Texas,50000.0,Experienced (Non-Manager)
+1186,Georgia,87500.0,Quality Assurance/Safety
+1187,New York,85000.0,Manager (Manager/Supervisor of Staff)
+1188,Indiana,85000.0,Experienced (Non-Manager)
+1189,California,70000.0,Experienced (Non-Manager)
+1190,Kansas,113800.0,Experienced (Non-Manager)
+1191,Massachusetts,152500.0,Manager (Manager/Supervisor of Staff)
+1192,Massachusetts,60000.0,Manager (Manager/Supervisor of Staff)
+1193,Virginia,70000.0,Manager (Manager/Supervisor of Staff)
+1194,California,65000.0,Accounting/Finance/Insurance
+1195,New jersey,60000.0,Accounting/Finance/Insurance
+1196,Georgia,52500.0,Experienced (Non-Manager)
+1197,New jersey,32500.0,Logistics/Transportation
+1198,Georgia,100000.0,Experienced (Non-Manager)
+1199,Georgia,82500.0,Sales/Retail/Business Development
+1200,Georgia,82500.0,Sales/Retail/Business Development
+1201,Georgia,112500.0,Experienced (Non-Manager)
+1202,Massachusetts,100000.0,Accounting/Finance/Insurance
+1203,Massachusetts,47500.0,Accounting/Finance/Insurance
+1204,Massachusetts,70000.0,Experienced (Non-Manager)
+1205,North Carolina,21500.0,Entry Level
+1206,California,121000.0,Accounting/Finance/Insurance
+1207,Massachusetts,55000.0,Accounting/Finance/Insurance
+1208,Maryland,47500.0,Manager (Manager/Supervisor of Staff)
+1209,Maryland,47500.0,Manager (Manager/Supervisor of Staff)
+1210,Texas,100000.0,Accounting/Finance/Insurance
+1211,Massachusetts,90000.0,Experienced (Non-Manager)
+1212,Indiana,42000.0,Entry Level
+1213,Tennessee,90000.0,Quality Assurance/Safety
+1214,Florida,42500.0,Experienced (Non-Manager)
+1215,Washington,115569.0,Biotech/R&D/Science
+1216,Texas,120000.0,Building Construction/Skilled Trades
+1217,Florida,45000.0,Manager (Manager/Supervisor of Staff)
+1218,Illinois,102500.0,Manager (Manager/Supervisor of Staff)
+1219,Ohio,38000.0,Manager (Manager/Supervisor of Staff)
+1220,Texas,46500.0,Manager (Manager/Supervisor of Staff)
+1221,Massachusetts,27000.0,Manager (Manager/Supervisor of Staff)
+1222,Colorado,42500.0,"Executive (SVP, VP, Department Head, etc)"
+1223,North Carolina,482500.0,Manager (Manager/Supervisor of Staff)
+1224,Colorado,82500.0,Student (High School)
+1225,Texas,35000.0,Manager (Manager/Supervisor of Staff)
+1226,Pennsylvania,68000.0,Manager (Manager/Supervisor of Staff)
+1227,Florida,48000.0,Manager (Manager/Supervisor of Staff)
+1228,Ohio,38500.0,Manager (Manager/Supervisor of Staff)
+1229,Missouri,37500.0,Experienced (Non-Manager)
+1230,Texas,52500.0,Manager (Manager/Supervisor of Staff)
+1231,California,67500.0,Food Services/Hospitality
+1232,Pennsylvania,50000.0,Food Services/Hospitality
+1233,Ohio,38000.0,Manager (Manager/Supervisor of Staff)
+1234,South carolina,62500.0,Manager (Manager/Supervisor of Staff)
+1235,Virginia,55000.0,Manager (Manager/Supervisor of Staff)
+1236,California,52500.0,Food Services/Hospitality
+1237,Pennsylvania,70000.0,Manager (Manager/Supervisor of Staff)
+1238,Florida,53500.0,Food Services/Hospitality
+1239,Pennsylvania,62500.0,Manager (Manager/Supervisor of Staff)
+1240,Kansas,40000.0,Food Services/Hospitality
+1241,North Carolina,482500.0,Manager (Manager/Supervisor of Staff)
+1242,Pennsylvania,41500.0,Manager (Manager/Supervisor of Staff)
+1243,Missouri,37500.0,Manager (Manager/Supervisor of Staff)
+1244,Massachusetts,52500.0,Food Services/Hospitality
+1245,Florida,47500.0,Manager (Manager/Supervisor of Staff)
+1246,Florida,60000.0,Manager (Manager/Supervisor of Staff)
+1247,Tennessee,35500.0,Manager (Manager/Supervisor of Staff)
+1248,California,72500.0,Manager (Manager/Supervisor of Staff)
+1249,Rhode island,95000.0,Manager (Manager/Supervisor of Staff)
+1250,Massachusetts,120000.0,Manager (Manager/Supervisor of Staff)
+1251,Ohio,50000.0,Quality Assurance/Safety
+1252,Maryland,67500.0,IT/Software Development
+1253,North Carolina,80000.0,Installation/Maintenance/Repair
+1254,Ohio,57500.0,Manufacturing/Production/Operations
+1255,Texas,32500.0,Manufacturing/Production/Operations
+1256,Virginia,55000.0,Manufacturing/Production/Operations
+1257,Pennsylvania,57500.0,Manufacturing/Production/Operations
+1258,New jersey,82500.0,Manufacturing/Production/Operations
+1259,Texas,32500.0,Manufacturing/Production/Operations
+1260,Florida,60000.0,Manager (Manager/Supervisor of Staff)
+1261,Massachusetts,85000.0,Experienced (Non-Manager)
+1262,Massachusetts,65000.0,Experienced (Non-Manager)
+1263,Massachusetts,72500.0,Experienced (Non-Manager)
+1264,Massachusetts,70000.0,Accounting/Finance/Insurance
+1265,Massachusetts,55000.0,Manager (Manager/Supervisor of Staff)
+1266,Massachusetts,85000.0,Experienced (Non-Manager)
+1267,Massachusetts,62500.0,Experienced (Non-Manager)
+1268,Massachusetts,137500.0,Manager (Manager/Supervisor of Staff)
+1269,Massachusetts,122500.0,Manager (Manager/Supervisor of Staff)
+1270,Massachusetts,52500.0,Accounting/Finance/Insurance
+1271,Massachusetts,62500.0,Experienced (Non-Manager)
+1272,Massachusetts,52500.0,Experienced (Non-Manager)
+1273,Massachusetts,55000.0,Accounting/Finance/Insurance
+1274,Massachusetts,102500.0,Experienced (Non-Manager)
+1275,Massachusetts,62500.0,Accounting/Finance/Insurance
+1276,Massachusetts,95000.0,Experienced (Non-Manager)
+1277,Massachusetts,72500.0,Experienced (Non-Manager)
+1278,Massachusetts,120000.0,Manager (Manager/Supervisor of Staff)
+1279,Massachusetts,72500.0,Experienced (Non-Manager)
+1280,Massachusetts,80000.0,Manager (Manager/Supervisor of Staff)
+1281,Massachusetts,60000.0,Experienced (Non-Manager)
+1282,Massachusetts,125000.0,Experienced (Non-Manager)
+1283,Illinois,87500.0,Building Construction/Skilled Trades
+1284,Illinois,90000.0,Building Construction/Skilled Trades
+1285,Ohio,75000.0,Manager (Manager/Supervisor of Staff)
+1286,Ohio,37500.0,Sales/Retail/Business Development
+1287,Ohio,35360.0,Experienced (Non-Manager)
+1288,Virginia,65000.0,Experienced (Non-Manager)
+1289,Massachusetts,140000.0,Accounting/Finance/Insurance
+1290,Massachusetts,87500.0,Experienced (Non-Manager)
+1291,Massachusetts,112500.0,Manager (Manager/Supervisor of Staff)
+1292,Rhode island,95000.0,Manager (Manager/Supervisor of Staff)
+1293,Florida,55000.0,Accounting/Finance/Insurance
+1294,Ohio,42500.0,Accounting/Finance/Insurance
+1295,Massachusetts,77500.0,Experienced (Non-Manager)
+1296,Massachusetts,152500.0,Accounting/Finance/Insurance
+1297,Illinois,130000.0,Accounting/Finance/Insurance
+1298,New jersey,90000.0,Accounting/Finance/Insurance
+1299,Massachusetts,80000.0,Accounting/Finance/Insurance
+1300,Florida,45000.0,Experienced (Non-Manager)
+1301,Maryland,75000.0,Experienced (Non-Manager)
+1302,Massachusetts,57500.0,Accounting/Finance/Insurance
+1303,Massachusetts,150000.0,Accounting/Finance/Insurance
+1304,Florida,45000.0,Experienced (Non-Manager)
+1305,Massachusetts,38500.0,Experienced (Non-Manager)
+1306,Massachusetts,77500.0,Experienced (Non-Manager)
+1307,Florida,52500.0,Experienced (Non-Manager)
+1308,Texas,70000.0,Manager (Manager/Supervisor of Staff)
+1309,Massachusetts,72500.0,Experienced (Non-Manager)
+1310,Florida,46000.0,Experienced (Non-Manager)
+1311,Florida,70000.0,Experienced (Non-Manager)
+1312,Michigan,34500.0,Entry Level
+1313,Virginia,90000.0,Manager (Manager/Supervisor of Staff)
+1314,Ohio,55919.5,Experienced (Non-Manager)
+1315,Virginia,92500.0,Experienced (Non-Manager)
+1316,Massachusetts,53500.0,Accounting/Finance/Insurance
+1317,Virginia,95000.0,Experienced (Non-Manager)
+1318,Virginia,95000.0,Experienced (Non-Manager)
+1319,Massachusetts,55000.0,Accounting/Finance/Insurance
+1320,Massachusetts,53500.0,Experienced (Non-Manager)
+1321,Massachusetts,72500.0,Experienced (Non-Manager)
+1322,Texas,95000.0,Accounting/Finance/Insurance
+1323,Kansas,62500.0,Accounting/Finance/Insurance
+1324,Texas,95000.0,Accounting/Finance/Insurance
+1325,Texas,65000.0,Accounting/Finance/Insurance
+1326,Texas,100000.0,Marketing/Product
+1327,Texas,67500.0,Accounting/Finance/Insurance
+1328,Florida,75000.0,IT/Software Development
+1329,Florida,82500.0,Experienced (Non-Manager)
+1330,Texas,100000.0,IT/Software Development
+1331,Texas,42500.0,Sales/Retail/Business Development
+1332,California,50000.0,Project/Program Management
+1333,Illinois,70000.0,Sales/Retail/Business Development
+1334,North Carolina,70000.0,Sales/Retail/Business Development
+1335,Texas,95000.0,Manager (Manager/Supervisor of Staff)
+1336,Alabama,70000.0,Sales/Retail/Business Development
+1337,North Carolina,70000.0,Sales/Retail/Business Development
+1338,Tennessee,70000.0,Sales/Retail/Business Development
+1339,Indiana,70000.0,Sales/Retail/Business Development
+1340,Alabama,70000.0,Sales/Retail/Business Development
+1341,Virginia,70000.0,Sales/Retail/Business Development
+1342,Alabama,70000.0,Sales/Retail/Business Development
+1343,Mississippi,70000.0,Sales/Retail/Business Development
+1344,Mississippi,70000.0,Sales/Retail/Business Development
+1345,North Carolina,70000.0,Sales/Retail/Business Development
+1346,Alabama,70000.0,Sales/Retail/Business Development
+1347,Mississippi,70000.0,Sales/Retail/Business Development
+1348,Virginia,70000.0,Sales/Retail/Business Development
+1349,Tennessee,70000.0,Sales/Retail/Business Development
+1350,North Carolina,70000.0,Sales/Retail/Business Development
+1351,Texas,80000.0,Accounting/Finance/Insurance
+1352,Texas,62500.0,Legal
+1353,Texas,23500.0,Accounting/Finance/Insurance
+1354,Texas,70000.0,Accounting/Finance/Insurance
+1355,Texas,100000.0,Systems Analysis - IT
+1356,Texas,60000.0,Manager (Manager/Supervisor of Staff)
+1357,Texas,150000.0,Experienced (Non-Manager)
+1358,Texas,70000.0,Experienced (Non-Manager)
+1359,Texas,55000.0,Accounting/Finance/Insurance
+1360,Texas,42500.0,Accounting/Finance/Insurance
+1361,Texas,67500.0,Manager (Manager/Supervisor of Staff)
+1362,Texas,45000.0,Experienced (Non-Manager)
+1363,Ohio,65000.0,Experienced (Non-Manager)
+1364,Texas,70000.0,Accounting/Finance/Insurance
+1365,Texas,55000.0,Entry Level
+1366,Texas,70000.0,Experienced (Non-Manager)
+1367,Texas,44000.0,Experienced (Non-Manager)
+1368,Texas,60000.0,Accounting/Finance/Insurance
+1369,Texas,77500.0,Accounting/Finance/Insurance
+1370,Texas,67500.0,Accounting/Finance/Insurance
+1371,Texas,50000.0,Entry Level
+1372,Texas,35000.0,Experienced (Non-Manager)
+1373,Texas,60000.0,Accounting/Finance/Insurance
+1374,Texas,110000.0,Sales/Retail/Business Development
+1375,Texas,85000.0,Manager (Manager/Supervisor of Staff)
+1376,Texas,67500.0,Accounting/Finance/Insurance
+1377,Texas,45000.0,Experienced (Non-Manager)
+1378,Texas,50000.0,Experienced (Non-Manager)
+1379,Texas,50000.0,Manager (Manager/Supervisor of Staff)
+1380,Texas,100000.0,IT/Software Development
+1381,Texas,92500.0,Experienced (Non-Manager)
+1382,Texas,115000.0,Experienced (Non-Manager)
+1383,Texas,100000.0,Experienced (Non-Manager)
+1384,Texas,82500.0,Accounting/Finance/Insurance
+1385,Texas,70000.0,Accounting/Finance/Insurance
+1386,Texas,62500.0,Accounting/Finance/Insurance
+1387,Texas,67500.0,Manager (Manager/Supervisor of Staff)
+1388,Texas,65000.0,Manager (Manager/Supervisor of Staff)
+1389,Texas,70000.0,Accounting/Finance/Insurance
+1390,Texas,82500.0,Accounting/Finance/Insurance
+1391,Texas,75000.0,Manager (Manager/Supervisor of Staff)
+1392,Texas,102500.0,Experienced (Non-Manager)
+1393,Texas,140500.0,Sales/Retail/Business Development
+1394,Texas,80000.0,Accounting/Finance/Insurance
+1395,Texas,70000.0,Insurance Agent/BrokerGeneral/Other: Sales/Business DevelopmentFinancial Products Sales/Brokerage
+1396,Texas,80000.0,Accounting/Finance/Insurance
+1397,Texas,57500.0,Accounting/Finance/Insurance
+1398,Texas,60000.0,Accounting/Finance/Insurance
+1399,Texas,85000.0,Experienced (Non-Manager)
+1400,Texas,110000.0,Manager (Manager/Supervisor of Staff)
+1401,Texas,52500.0,Accounting/Finance/Insurance
+1402,Texas,37500.0,Entry Level
+1403,Texas,102500.0,Manager (Manager/Supervisor of Staff)
+1404,Texas,62500.0,Accounting/Finance/Insurance
+1405,Texas,57500.0,Accounting/Finance/Insurance
+1406,Texas,90000.0,Accounting/Finance/Insurance
+1407,Ohio,42500.0,Entry Level
+1408,Texas,70000.0,Accounting/Finance/Insurance
+1409,Ohio,40500.0,Experienced (Non-Manager)
+1410,Texas,95000.0,Experienced (Non-Manager)
+1411,Texas,45000.0,Business/Strategic Management
+1412,Texas,65000.0,Manager (Manager/Supervisor of Staff)
+1413,Texas,50000.0,Entry Level
+1414,Texas,95000.0,Accounting/Finance/Insurance
+1415,Texas,62500.0,Manager (Manager/Supervisor of Staff)
+1416,Texas,67500.0,Accounting/Finance/Insurance
+1417,Texas,65000.0,Accounting/Finance/Insurance
+1418,Texas,42500.0,Accounting/Finance/Insurance
+1419,Texas,45000.0,Experienced (Non-Manager)
+1420,Texas,45500.0,Food Services/Hospitality
+1421,Texas,85000.0,Accounting/Finance/Insurance
+1422,Texas,80000.0,Accounting/Finance/Insurance
+1423,Texas,77500.0,Experienced (Non-Manager)
+1424,Texas,42500.0,Experienced (Non-Manager)
+1425,Texas,95000.0,Experienced (Non-Manager)
+1426,Texas,80000.0,Accounting/Finance/Insurance
+1427,Texas,70000.0,Accounting/Finance/Insurance
+1428,Texas,107500.0,IT/Software Development
+1429,Texas,67500.0,Manager (Manager/Supervisor of Staff)
+1430,Texas,75000.0,Experienced (Non-Manager)
+1431,Texas,37500.0,Experienced (Non-Manager)
+1432,Texas,90000.0,Experienced (Non-Manager)
+1433,Texas,75000.0,Accounting/Finance/Insurance
+1434,Texas,37500.0,Experienced (Non-Manager)
+1435,Texas,107500.0,Medical/Health
+1436,Texas,45000.0,Sales/Retail/Business Development
+1437,Texas,40000.0,Experienced (Non-Manager)
+1438,Ohio,40000.0,Entry Level
+1439,Texas,48000.0,Experienced (Non-Manager)
+1440,Texas,34140.0,Manager (Manager/Supervisor of Staff)
+1441,Texas,82500.0,Manager (Manager/Supervisor of Staff)
+1442,Texas,32500.0,Accounting/Finance/Insurance
+1443,Texas,70000.0,Experienced (Non-Manager)
+1444,Texas,75000.0,Experienced (Non-Manager)
+1445,Texas,60000.0,Experienced (Non-Manager)
+1446,Texas,77500.0,Experienced (Non-Manager)
+1447,Texas,67500.0,Accounting/Finance/Insurance
+1448,Texas,50000.0,Entry Level
+1449,Texas,62500.0,Experienced (Non-Manager)
+1450,Texas,55000.0,Accounting/Finance/Insurance
+1451,Texas,45000.0,Business/Strategic Management
+1452,Texas,40000.0,Experienced (Non-Manager)
+1453,Texas,38200.0,Sales/Retail/Business Development
+1454,Ohio,40000.0,Entry Level
+1455,Texas,80000.0,Accounting/Finance/Insurance
+1456,Texas,84750.0,Experienced (Non-Manager)
+1457,Texas,57500.0,Accounting/Finance/Insurance
+1458,Texas,55000.0,Accounting/Finance/Insurance
+1459,Texas,35000.0,Entry Level
+1460,Texas,72500.0,Experienced (Non-Manager)
+1461,Texas,65000.0,Accounting/Finance/Insurance
+1462,Texas,82500.0,General/Other: Accounting/Finance
+1463,Texas,92500.0,Accounting/Finance/Insurance
+1464,Texas,70000.0,Experienced (Non-Manager)
+1465,Texas,110000.0,IT/Software Development
+1466,Texas,67500.0,Accounting/Finance/Insurance
+1467,Texas,120000.0,IT/Software Development
+1468,Texas,57500.0,Accounting/Finance/Insurance
+1469,Texas,92500.0,Accounting/Finance/Insurance
+1470,Texas,40000.0,Accounting/Finance/Insurance
+1471,Texas,55000.0,Accounting/Finance/Insurance
+1472,Texas,55000.0,Manager (Manager/Supervisor of Staff)
+1473,Texas,40000.0,Experienced (Non-Manager)
+1474,Texas,107500.0,Accounting/Finance/Insurance
+1475,Texas,85000.0,Experienced (Non-Manager)
+1476,Texas,82500.0,Accounting/Finance/Insurance
+1477,Tennessee,65000.0,Insurance Agent/BrokerGeneral/Other: Sales/Business DevelopmentFinancial Products Sales/Brokerage
+1478,Tennessee,55000.0,Experienced (Non-Manager)
+1479,Tennessee,70000.0,Sales/Retail/Business Development
+1480,North Carolina,95000.0,Manager (Manager/Supervisor of Staff)
+1481,Pennsylvania,75000.0,Experienced (Non-Manager)
+1482,Illinois,77500.0,Manager (Manager/Supervisor of Staff)
+1483,Massachusetts,65000.0,Food Services/Hospitality
+1484,Wisconsin,42500.0,Food Services/Hospitality
+1485,Missouri,110000.0,Manager (Manager/Supervisor of Staff)
+1486,Pennsylvania,40000.0,Manager (Manager/Supervisor of Staff)
+1487,Arkansas,53000.0,Manager (Manager/Supervisor of Staff)
+1488,North Carolina,55000.0,Manager (Manager/Supervisor of Staff)
+1489,North Carolina,50000.0,Manager (Manager/Supervisor of Staff)
+1490,Florida,107500.0,Manager (Manager/Supervisor of Staff)
+1491,Texas,52500.0,Manager (Manager/Supervisor of Staff)
+1492,Texas,125000.0,Medical/Health
+1493,New York,135000.0,Student (High School)
+1494,Florida,48500.0,Manager (Manager/Supervisor of Staff)
+1495,Indiana,42500.0,Manager (Manager/Supervisor of Staff)
+1496,California,125000.0,Manager (Manager/Supervisor of Staff)
+1497,Iowa,55000.0,Manager (Manager/Supervisor of Staff)
+1498,Florida,48000.0,Manager (Manager/Supervisor of Staff)
+1499,Missouri,37500.0,Manager (Manager/Supervisor of Staff)
+1500,Missouri,52500.0,Manager (Manager/Supervisor of Staff)
+1501,Louisiana,50000.0,Manager (Manager/Supervisor of Staff)
+1502,Florida,37500.0,Manager (Manager/Supervisor of Staff)
+1503,Louisiana,51500.0,Food Services/Hospitality
+1504,California,147500.0,Medical/Health
+1505,Idaho,125000.0,Experienced (Non-Manager)
+1506,Missouri,37500.0,Manager (Manager/Supervisor of Staff)
+1507,Pennsylvania,36000.0,Food Services/Hospitality
+1508,Illinois,80000.0,Experienced (Non-Manager)
+1509,California,90000.0,Food Services/Hospitality
+1510,Louisiana,60000.0,Manager (Manager/Supervisor of Staff)
+1511,North Carolina,46000.0,Manager (Manager/Supervisor of Staff)
+1512,California,80000.0,Food Services/Hospitality
+1513,Colorado,47500.0,Manager (Manager/Supervisor of Staff)
+1514,Missouri,52500.0,Manager (Manager/Supervisor of Staff)
+1515,Louisiana,42000.0,Manager (Manager/Supervisor of Staff)
+1516,California,72500.0,Manager (Manager/Supervisor of Staff)
+1517,Pennsylvania,50000.0,Food Services/Hospitality
+1518,Florida,46000.0,Food Services/Hospitality
+1519,Pennsylvania,62500.0,Manager (Manager/Supervisor of Staff)
+1520,Florida,87500.0,Medical/Health
+1521,North Carolina,57500.0,Manager (Manager/Supervisor of Staff)
+1522,Illinois,80000.0,Manager (Manager/Supervisor of Staff)
+1523,Texas,47500.0,Manager (Manager/Supervisor of Staff)
+1524,Texas,52000.0,Medical/Health
+1525,Arizona,51500.0,Manager (Manager/Supervisor of Staff)
+1526,Wisconsin,42500.0,Food Services/Hospitality
+1527,Wisconsin,65000.0,Manager (Manager/Supervisor of Staff)
+1528,Florida,47500.0,Manager (Manager/Supervisor of Staff)
+1529,South carolina,40500.0,Manager (Manager/Supervisor of Staff)
+1530,California,73000.0,Experienced (Non-Manager)
+1531,California,45000.0,Experienced (Non-Manager)
+1532,Florida,50000.0,Manager (Manager/Supervisor of Staff)
+1533,Florida,49500.0,Manager (Manager/Supervisor of Staff)
+1534,California,27000.0,Manager (Manager/Supervisor of Staff)
+1535,Missouri,110000.0,Manager (Manager/Supervisor of Staff)
+1536,Florida,45000.0,Manager (Manager/Supervisor of Staff)
+1537,California,52500.0,Manager (Manager/Supervisor of Staff)
+1538,Florida,48000.0,Manager (Manager/Supervisor of Staff)
+1539,California,74000.0,Experienced (Non-Manager)
+1540,Kansas,60000.0,Manager (Manager/Supervisor of Staff)
+1541,Texas,65000.0,Manager (Manager/Supervisor of Staff)
+1542,California,41500.0,Experienced (Non-Manager)
+1543,California,52197.5,Experienced (Non-Manager)
+1544,Florida,51500.0,Manager (Manager/Supervisor of Staff)
+1545,Illinois,33500.0,Manager (Manager/Supervisor of Staff)
+1546,Kansas,46000.0,Manager (Manager/Supervisor of Staff)
+1547,Wisconsin,42500.0,Food Services/Hospitality
+1548,Pennsylvania,38000.0,Manager (Manager/Supervisor of Staff)
+1549,Maryland,130154.79999999999,Experienced (Non-Manager)
+1550,Georgia,42500.0,Food Services/Hospitality
+1551,Kansas,55000.0,Manager (Manager/Supervisor of Staff)
+1552,Missouri,49500.0,Food Services/Hospitality
+1553,Missouri,38000.0,Food Services/Hospitality
+1554,Arkansas,110000.0,Manager (Manager/Supervisor of Staff)
+1555,Florida,50000.0,Manager (Manager/Supervisor of Staff)
+1556,North Carolina,34000.0,Manager (Manager/Supervisor of Staff)
+1557,Illinois,85000.0,Manager (Manager/Supervisor of Staff)
+1558,Wisconsin,50500.0,Food Services/Hospitality
+1559,Florida,45000.0,Manager (Manager/Supervisor of Staff)
+1560,Virginia,46000.0,Manager (Manager/Supervisor of Staff)
+1561,Florida,57500.0,Manager (Manager/Supervisor of Staff)
+1562,Florida,42500.0,Manager (Manager/Supervisor of Staff)
+1563,Wisconsin,42500.0,Food Services/Hospitality
+1564,Wisconsin,42500.0,Food Services/Hospitality
+1565,Texas,32500.0,Manager (Manager/Supervisor of Staff)
+1566,Ohio,55000.0,Manager (Manager/Supervisor of Staff)
+1567,California,60220.0,Experienced (Non-Manager)
+1568,Florida,45000.0,Manager (Manager/Supervisor of Staff)
+1569,Michigan,37500.0,Manager (Manager/Supervisor of Staff)
+1570,Louisiana,47500.0,Food Services/Hospitality
+1571,California,52500.0,Manager (Manager/Supervisor of Staff)
+1572,Louisiana,45000.0,Food Services/Hospitality
+1573,Wisconsin,42500.0,Food Services/Hospitality
+1574,California,45000.0,Manager (Manager/Supervisor of Staff)
+1575,Pennsylvania,46500.0,Experienced (Non-Manager)
+1576,Texas,34000.0,Manager (Manager/Supervisor of Staff)
+1577,Indiana,45000.0,Manager (Manager/Supervisor of Staff)
+1578,North Carolina,46000.0,Manager (Manager/Supervisor of Staff)
+1579,California,52500.0,Manager (Manager/Supervisor of Staff)
+1580,Nevada,52500.0,Food Services/Hospitality
+1581,California,41000.0,Experienced (Non-Manager)

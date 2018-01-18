@@ -1,0 +1,1883 @@
+,location,salary,sector
+0,Houston,22886.492622020432,Entry Level
+1,Denver,31729.00113507378,Experienced (Non-Manager)
+2,Clutch City,119633.93870601589,Experienced (Non-Manager)
+3,Willoughby Hills,40571.50964812713,Experienced (Non-Manager)
+4,Telecommute,98828.03632236096,Experienced (Non-Manager)
+5,Margate,24967.082860385926,Customer Support/Client Care
+6,Denver,147721.90692395007,IT/Software Development
+7,Anaheim,35370.03405221339,Administrative/Clerical
+8,Eden Prairie,37450.62429057889,Accounting/Finance/Insurance
+9,Minneapolis,35370.03405221339,Business/Strategic Management
+10,Las Vegas,39531.21452894439,Experienced (Non-Manager)
+11,Irvine,83223.60953461975,Experienced (Non-Manager)
+12,San Diego,20805.90238365494,Accounting/Finance/Insurance
+13,Boston,40571.50964812713,Accounting/Finance/Insurance
+14,Grand Rapids,34329.73893303065,Accounting/Finance/Insurance
+15,Grand Rapids,47853.57548240636,Accounting/Finance/Insurance
+16,Cherry Hill,27047.67309875142,Experienced (Non-Manager)
+17,Orlando,24654.9943246311,Security/Protective Services
+18,Newark,29128.263337116914,Experienced (Non-Manager)
+19,New York,64352.65607264473,Security/Protective Services
+20,N Springfld,33289.4438138479,Security/Protective Services
+21,Columbia,44732.69012485812,Security/Protective Services
+22,Saint Petersburg,12743.61520998865,Experienced (Non-Manager)
+23,Dallas,124835.41430192963,IT/Software Development
+24,Parma,22886.492622020432,Entry Level
+25,Palm Bay,24967.082860385926,Security/Protective Services
+26,Port Canaveral,27047.67309875142,Security/Protective Services
+27,Dallas,28087.96821793417,Experienced (Non-Manager)
+28,Dallas,27047.67309875142,Administrative/Clerical
+29,Newark,29128.263337116914,Experienced (Non-Manager)
+30,Dallas,124835.41430192963,IT/Software Development
+31,New York,56009.4892167991,Security/Protective Services
+32,Seattle,38386.88989784336,Experienced (Non-Manager)
+33,Centennial,35370.03405221339,Customer Support/Client Care
+34,Indianapolis,21326.04994324631,Entry Level
+35,Cedar Rapids,40571.50964812713,Security/Protective Services
+36,Arlington,30168.55845629966,Administrative/Clerical
+37,Dallas,88425.0851305335,IT/Software Development
+38,Akron,62417.707150964816,IT/Software Development
+39,Dallas,228864.92622020433,IT/Software Development
+40,Keswick,67619.18274687855,IT/Software Development
+41,Sioux City,41611.80476730988,Experienced (Non-Manager)
+42,Irving,20805.90238365494,IT/Software Development
+43,Irving,182051.6458569807,IT/Software Development
+44,Memphis,62417.707150964816,IT/Software Development
+45,Columbia,62417.707150964816,IT/Software Development
+46,Dallas,135238.3654937571,IT/Software Development
+47,Green Bay,62417.707150964816,IT/Software Development
+48,East Durham,60337.11691259932,Biotech/R&D/Science
+49,Brandon,22886.492622020432,Sales/Retail/Business Development
+50,San Diego,39531.21452894439,Experienced (Non-Manager)
+51,Davenport,41445.35754824064,Entry Level
+52,Altoona,60337.11691259932,Medical/Health
+53,Dallas,49934.16572077185,Human Resources
+54,Travis Heights,28608.11577752554,Customer Support/Client Care
+55,Columbus,15604.426787741204,Marketing/Product
+56,San Francisco,161245.74347332577,Experienced (Non-Manager)
+57,Salisbury,78022.13393870601,Project/Program Management
+58,Knoxville,38490.919409761635,Legal
+59,Carlsbad,20805.90238365494,Accounting/Finance/Insurance
+60,Smyrna,32769.29625425653,Experienced (Non-Manager)
+61,Denver,45772.985244040865,Human Resources
+62,Valencia,57216.23155505108,Human Resources
+63,San Diego,30168.55845629966,Accounting/Finance/Insurance
+64,Pleasanton,41611.80476730988,Accounting/Finance/Insurance
+65,San Marcos,21846.197502837684,Accounting/Finance/Insurance
+66,Fletcher,39531.21452894439,Experienced (Non-Manager)
+67,Raleigh,92586.26560726447,IT/Software Development
+68,Spartanburg,43692.39500567537,Medical/Health
+69,Chapel Hill,35370.03405221339,Entry Level
+70,Akron,28608.11577752554,Experienced (Non-Manager)
+71,Greer,43692.39500567537,Medical/Health
+72,Sevierville,36410.329171396144,Entry Level
+73,Miami,109230.98751418843,IT/Software Development
+74,Rancho Cordova,140439.84108967084,Experienced (Non-Manager)
+75,Saint Charles,29128.263337116914,Experienced (Non-Manager)
+76,Princeton Township,178410.61293984108,Experienced (Non-Manager)
+77,Mount Prospect,32207.536889897845,Medical/Health
+78,Greer,92586.26560726447,IT/Software Development
+79,Mcqueeny,39531.21452894439,Experienced (Non-Manager)
+80,Cleveland,47853.57548240636,Experienced (Non-Manager)
+81,Santa Clara,119633.93870601589,Experienced (Non-Manager)
+82,Washington,85304.19977298524,Experienced (Non-Manager)
+83,Good Morning,88425.0851305335,IT/Software Development
+84,Field Service Technician,2080.590238365494,IT/Software Development
+85,Lexington,39531.21452894439,Experienced (Non-Manager)
+86,Orlando,65538.59250851306,IT/Software Development
+87,Boca Raton,104029.51191827469,IT/Software Development
+88,Heathrow,67619.18274687855,Entry Level
+89,Fairfax,40571.50964812713,Experienced (Non-Manager)
+90,Knoxville,98828.03632236096,IT/Software Development
+91,Knoxville,41653.416572077185,Legal
+92,St. Petersburg,26007.37797956867,Experienced (Non-Manager)
+93,Kansas City,24967.082860385926,Experienced (Non-Manager)
+94,Richardson,29128.263337116914,Medical/Health
+95,Circleville,47853.57548240636,Medical/Health
+96,West Chester,93626.56072644722,Systems Analysis - ITWeb/UI/UX Design
+97,West Chester,62417.707150964816,Experienced (Non-Manager)
+98,Analyst,35370.03405221339,IT/Software Development
+99,Business Analyst,78022.13393870601,IT/Software Development
+100,Temple Terrace,62417.707150964816,Quality Assurance/Safety
+101,Pennsauken,33809.591373439274,Experienced (Non-Manager)
+102,Environmental,2080.590238365494,Quality Assurance/Safety
+103,Dublin,33289.4438138479,Experienced (Non-Manager)
+104,Columbus,21180.408626560726,Entry Level
+105,Columbus,18725.312145289445,Medical/Health
+106,Columbus,26007.37797956867,Entry Level
+107,Columbus,31208.853575482408,Experienced (Non-Manager)
+108,Columbus,47198.189557321224,Installation/Maintenance/Repair
+109,Columbus,43692.39500567537,Engineering
+110,Columbus,135238.3654937571,IT/Software Development
+111,Columbus,20805.90238365494,Entry Level
+112,Columbus,46813.28036322361,Experienced (Non-Manager)
+113,Columbus,45273.64358683314,Entry Level
+114,Columbus,28087.96821793417,Entry Level
+115,Columbus,223663.4506242906,Experienced (Non-Manager)
+116,Columbus,23926.78774120318,Student (High School)
+117,Columbus,36087.837684449485,Experienced (Non-Manager)
+118,Columbus,33289.4438138479,Entry Level
+119,Columbus,23926.78774120318,Entry Level
+120,Columbus,24967.082860385926,Student (High School)
+121,Columbus,26007.37797956867,Entry Level
+122,Columbus,23926.78774120318,Medical/Health
+123,Columbus,23926.78774120318,Entry Level
+124,Columbus,32249.148694665157,Experienced (Non-Manager)
+125,Rancho Cucamonga,34329.73893303065,Experienced (Non-Manager)
+126,Irvine,72820.65834279229,Experienced (Non-Manager)
+127,Washington,67327.90011350738,Legal
+128,Columbus,26007.37797956867,Experienced (Non-Manager)
+129,Oklahoma City,75941.54370034052,Experienced (Non-Manager)
+130,Southfield,28087.96821793417,Experienced (Non-Manager)
+131,Tampa,24967.082860385926,Experienced (Non-Manager)
+132,Tampa,39531.21452894439,Experienced (Non-Manager)
+133,Roseland,62937.85471055619,Experienced (Non-Manager)
+134,Denver,36410.329171396144,Experienced (Non-Manager)
+135,Westbury,39531.21452894439,Experienced (Non-Manager)
+136,Louisville,31208.853575482408,Experienced (Non-Manager)
+137,Daytona Beach,24967.082860385926,Experienced (Non-Manager)
+138,Flushing,31208.853575482408,Entry Level
+139,Seattle,15604.426787741204,Experienced (Non-Manager)
+140,Armonk,43692.39500567537,Entry Level
+141,Auburn,28087.96821793417,Experienced (Non-Manager)
+142,San Diego,35370.03405221339,Experienced (Non-Manager)
+143,Denver,67619.18274687855,Experienced (Non-Manager)
+144,Dallas,114432.46311010217,IT/Software Development
+145,DallasTX,20805.90238365494,Accounting/Finance/Insurance
+146,Dallas,124835.41430192963,Experienced (Non-Manager)
+147,Dallas,41611.80476730988,Experienced (Non-Manager)
+148,Wheeling,44732.69012485812,Manufacturing/Production/Operations
+149,Orlando,29128.263337116914,Entry Level
+150,East Chicago,19037.40068104427,Food Services/Hospitality
+151,Camden,65538.59250851306,Food Services/Hospitality
+152,San Juan,30667.90011350738,Legal
+153,Edison,45772.985244040865,Experienced (Non-Manager)
+154,Malden,36410.329171396144,Installation/Maintenance/Repair
+155,Buffalo,31208.853575482408,Experienced (Non-Manager)
+156,Atlanta,52014.75595913734,IT/Software Development
+157,Orlando,14564.131668558457,Accounting/Finance/Insurance
+158,Atlanta,45772.985244040865,Marketing/Product
+159,Atlanta,68659.4778660613,Medical/Health
+160,Las Vegas,31208.853575482408,Sales/Retail/Business Development
+161,Madison,56550.442678774125,Experienced (Non-Manager)
+162,Las Vegas,33289.4438138479,Experienced (Non-Manager)
+163,Madison,31812.2247446084,Administrative/Clerical
+164,Las Vegas,78022.13393870601,Medical/Health
+165,Madison,36410.329171396144,Accounting/Finance/Insurance
+166,Madison,24967.082860385926,Entry Level
+167,Las Vegas,40571.50964812713,Experienced (Non-Manager)
+168,Madison,22886.492622020432,Experienced (Non-Manager)
+169,Madison,59192.79228149829,General/Other: Medical/HealthVeterinary/Animal Care
+170,Knoxville,27047.67309875142,Accounting/Finance/Insurance
+171,Las Vegas,22366.34506242906,Customer Support/Client Care
+172,MadisonWI,84263.9046538025,IT/Software Development
+173,Las Vegas,52014.75595913734,Human Resources
+174,Madison,42485.65266742339,Veterinary/Animal Care
+175,Madison,31604.165720771853,Banking/Real Estate/Mortgage Professionals
+176,Madison,31812.2247446084,Administrative/Clerical
+177,Las Vegas,31208.853575482408,Customer Support/Client Care
+178,Delaware,23042.53688989784,Experienced (Non-Manager)
+179,San Antonio,69699.77298524404,Entry Level
+180,El Paso,68659.4778660613,Experienced (Non-Manager)
+181,Frisco,102989.21679909194,Medical/Health
+182,Rockville,72820.65834279229,Experienced (Non-Manager)
+183,Saint Charles,29128.263337116914,Experienced (Non-Manager)
+184,Bethesda,23042.53688989784,Experienced (Non-Manager)
+185,Aurora,26007.37797956867,Entry Level
+186,Clinton,21846.197502837684,Security/Protective Services
+187,San Diego,21846.197502837684,Accounting/Finance/Insurance
+188,Irvine,18725.312145289445,Manufacturing/Production/Operations
+189,Woodinville,25944.96027241771,Career Level Entry Level
+190,Sioux Falls,33289.4438138479,Experienced (Non-Manager)
+191,Tacoma,32249.148694665157,Career Level Experienced (Non-Manager)
+192,Denver,28087.96821793417,Logistics/Transportation
+193,San Francisco,75941.54370034052,Experienced (Non-Manager)
+194,Austin,31208.853575482408,Customer Support/Client Care
+195,Atlanta,32249.148694665157,Human Resources
+196,Rogers,43692.39500567537,Experienced (Non-Manager)
+197,Canyon Crest,37450.62429057889,Experienced (Non-Manager)
+198,Miami Gardens,23406.640181611805,Entry Level
+199,Souderton,33289.4438138479,Experienced (Non-Manager)
+200,Twin Falls,36410.329171396144,Installation/Maintenance/Repair
+201,Birmingham,34329.73893303065,Entry Level
+202,Kenilworth,29128.263337116914,Entry Level
+203,Colorado Springs,8842.508513053348,Entry Level
+204,Belmar,27047.67309875142,Manufacturing/Production/Operations
+205,Woodinville,26007.37797956867,Installation/Maintenance/Repair
+206,Jacksonville,35370.03405221339,Experienced (Non-Manager)
+207,Englewood,31729.00113507378,Experienced (Non-Manager)
+208,Spring Grove,30168.55845629966,Entry Level
+209,Kent,41611.80476730988,Experienced (Non-Manager)
+210,Greer,53055.051078320095,Experienced (Non-Manager)
+211,Bedford,44732.69012485812,Experienced (Non-Manager)
+212,Denver,41611.80476730988,Student (High School)
+213,New Brighton,57216.23155505108,Experienced (Non-Manager)
+214,Jacksonville,34069.665153234964,Experienced (Non-Manager)
+215,Brockport,56862.53121452894,Installation/Maintenance/Repair
+216,Manchester,24967.082860385926,Manufacturing/Production/Operations
+217,Raymond,23614.699205448356,Manufacturing/Production/Operations
+218,La Mesa,52014.75595913734,Experienced (Non-Manager)
+219,Golden,30168.55845629966,Manufacturing/Production/Operations
+220,Shrewsbury,28087.96821793417,Entry Level
+221,Sterling Heights,29128.263337116914,Student (Undergraduate/Graduate)
+222,Santa Clara,39531.21452894439,Entry Level
+223,Evansville,44732.69012485812,Experienced (Non-Manager)
+224,Schaumburg,32249.148694665157,Experienced (Non-Manager)
+225,Huntington Station,47853.57548240636,Experienced (Non-Manager)
+226,Chicago,44732.69012485812,Student (Undergraduate/Graduate)
+227,Newark,23406.640181611805,Entry Level
+228,Energy,28087.96821793417,Experienced (Non-Manager)
+229,Billerica,30168.55845629966,Experienced (Non-Manager)
+230,Cincinnati,36410.329171396144,Entry Level
+231,Little Falls,45772.985244040865,Experienced (Non-Manager)
+232,Nashville,46813.28036322361,Experienced (Non-Manager)
+233,Schertz,41611.80476730988,Experienced (Non-Manager)
+234,Fresno,22886.492622020432,Entry Level
+235,Fremont,22886.492622020432,Manufacturing/Production/Operations
+236,Smyrna,39489.60272417707,Experienced (Non-Manager)
+237,Denver,36410.329171396144,Manufacturing/Production/Operations
+238,Raymond,38803.00794551646,Manufacturing/Production/Operations
+239,West Windsor,35370.03405221339,Experienced (Non-Manager)
+240,King Of Prussia,23406.640181611805,Experienced (Non-Manager)
+241,Romeoville,35370.03405221339,Entry Level
+242,Columbus,47198.189557321224,Installation/Maintenance/Repair
+243,Omaha,12483.541430192963,Entry Level
+244,Twin Falls,45637.74687854711,Experienced (Non-Manager)
+245,El Paso,23926.78774120318,Manufacturing/Production/Operations
+246,Cleveland,39531.21452894439,Manager (Manager/Supervisor of Staff)
+247,Leetonia,34329.73893303065,Experienced (Non-Manager)
+248,Katy,47687.12826333712,Experienced (Non-Manager)
+249,Multiple locations,62417.707150964816,Experienced (Non-Manager)
+250,China Lake Nwc,30688.706015891035,Installation/Maintenance/Repair
+251,Salt Lake City,24218.07037457435,Entry Level
+252,Milwaukee,40571.50964812713,Installation/Maintenance/Repair
+253,North Ridgeville,50974.4608399546,Experienced (Non-Manager)
+254,Eden Prairie,24967.082860385926,Manufacturing/Production/Operations
+255,Neenah,26007.37797956867,Entry Level
+256,Athens,45637.74687854711,Experienced (Non-Manager)
+257,Ames,32041.089670828605,Experienced (Non-Manager)
+258,Katy,41580.595913734396,Experienced (Non-Manager)
+259,Gainesville,26007.37797956867,Experienced (Non-Manager)
+260,Nashville,13284.568671963678,Entry Level
+261,Schererville,22886.492622020432,Manufacturing/Production/Operations
+262,Milpitas,35370.03405221339,Entry Level
+263,Bremerton,40571.50964812713,Installation/Maintenance/Repair
+264,Raymond,26007.37797956867,Entry Level
+265,San Leandro,29128.263337116914,Entry Level
+266,Manchester,49934.16572077185,Experienced (Non-Manager)
+267,Little Rock,46813.28036322361,Experienced (Non-Manager)
+268,Stockton,42652.09988649262,Experienced (Non-Manager)
+269,Raymond,41923.893303064695,Manufacturing/Production/Operations
+270,Franklin,28348.041997729855,Manufacturing/Production/Operations
+271,Akron,44732.69012485812,Experienced (Non-Manager)
+272,Rogers,46813.28036322361,Experienced (Non-Manager)
+273,Freeport 16229,37450.62429057889,Experienced (Non-Manager)
+274,Aurora,52014.75595913734,Experienced (Non-Manager)
+275,Machesney Park,33289.4438138479,Experienced (Non-Manager)
+276,Vancouver,28087.96821793417,Manufacturing/Production/Operations
+277,Chardon,43692.39500567537,Installation/Maintenance/Repair
+278,Kings Bay,34475.38024971623,Experienced (Non-Manager)
+279,Ayer,36618.38819523269,Experienced (Non-Manager)
+280,Batesville,24967.082860385926,Experienced (Non-Manager)
+281,Richmond,35370.03405221339,Experienced (Non-Manager)
+282,Mount Pleasant,20805.90238365494,Manufacturing/Production/Operations
+283,Levittown,33809.591373439274,Experienced (Non-Manager)
+284,Statesville,25487.2304199773,Experienced (Non-Manager)
+285,Cleveland,20805.90238365494,Entry Level
+286,Monrovia,50974.4608399546,Experienced (Non-Manager)
+287,Brockport,56862.53121452894,Manufacturing/Production/Operations
+288,Mount Juliet,27047.67309875142,Student (High School)
+289,Troy,27047.67309875142,Entry Level
+290,Julian,26007.37797956867,Entry Level
+291,Greer,53055.051078320095,Experienced (Non-Manager)
+292,Kings Mountain,20805.90238365494,Entry Level
+293,Neptune City,41611.80476730988,Manufacturing/Production/Operations
+294,Long Beach,39531.21452894439,Entry Level
+295,Wausau,29128.263337116914,Manufacturing/Production/Operations
+296,Northampton,46813.28036322361,Entry Level
+297,Hudson,33289.4438138479,Experienced (Non-Manager)
+298,Alameda,23978.802497162316,Entry Level
+299,Hudson,32249.148694665157,Experienced (Non-Manager)
+300,Riverside,37450.62429057889,Manufacturing/Production/Operations
+301,Oak Lawn,26007.37797956867,Manufacturing/Production/Operations
+302,Cleveland,37450.62429057889,Experienced (Non-Manager)
+303,Cleveland,36410.329171396144,Experienced (Non-Manager)
+304,Tool & Die Maker,42652.09988649262,Manufacturing/Production/Operations
+305,Ellet,33289.4438138479,Manufacturing/Production/Operations
+306,Elizabethtown,43692.39500567537,Manufacturing/Production/Operations
+307,Ames,32041.089670828605,Experienced (Non-Manager)
+308,Auburn,46813.28036322361,Experienced (Non-Manager)
+309,Cleveland,35370.03405221339,Experienced (Non-Manager)
+310,Centennial,30688.706015891035,Experienced (Non-Manager)
+311,Valley City,28087.96821793417,Experienced (Non-Manager)
+312,Kansas City,48893.87060158911,Manufacturing/Production/Operations
+313,Michigan City,20805.90238365494,Experienced (Non-Manager)
+314,St. Louis,30480.64699205448,Manufacturing/Production/Operations
+315,Gurnee,32249.148694665157,Experienced (Non-Manager)
+316,Salem,51879.51759364359,Experienced (Non-Manager)
+317,Warwick,23926.78774120318,Experienced (Non-Manager)
+318,Milwaukee,43172.247446083995,Logistics/Transportation
+319,Madison,75306.96367763905,Experienced (Non-Manager)
+320,Environmental,2080.590238365494,Quality Assurance/Safety
+321,Dallas,109230.98751418843,Project/Program Management
+322,Austin,28087.96821793417,Entry Level
+323,Austin,30168.55845629966,Experienced (Non-Manager)
+324,Waterbury,83223.60953461975,Editorial/Writing
+325,San Diego,19765.607264472193,Accounting/Finance/Insurance
+326,San Diego,18725.312145289445,Accounting/Finance/Insurance
+327,San Diego,16644.72190692395,Accounting/Finance/Insurance
+328,San Diego,29128.263337116914,Experienced (Non-Manager)
+329,San Diego,27047.67309875142,Accounting/Finance/Insurance
+330,San Diego,17685.017026106696,Accounting/Finance/Insurance
+331,San Diego,29128.263337116914,Experienced (Non-Manager)
+332,San Diego,22886.492622020432,Accounting/Finance/Insurance
+333,San Diego,20805.90238365494,Accounting/Finance/Insurance
+334,Saint Louis,22886.492622020432,Marketing/Product
+335,Breinigsville,37450.62429057889,Customer Support/Client Care
+336,Hudson,43692.39500567537,Customer Support/Client Care
+337,Dallas,39531.21452894439,IT/Software Development
+338,Saint Petersburg,27047.67309875142,Customer Support/Client Care
+339,Springfield,27047.67309875142,Sales/Retail/Business Development
+340,Sacramento,34132.082860385926,Entry Level
+341,Arlington,31208.853575482408,Experienced (Non-Manager)
+342,Denver,62417.707150964816,Building Construction/Skilled Trades
+343,Chicago,54095.34619750284,Human Resources
+344,San Francisco,64498.29738933031,Accounting/Finance/Insurance
+345,BostonMA,26007.37797956867,Administrative/Clerical
+346,Fort Worth,29128.263337116914,Biotech/R&D/Science
+347,Associate Scientist,44732.69012485812,Biotech/R&D/Science
+348,Chemist III,67619.18274687855,Biotech/R&D/Science
+349,Jacksonville,37450.62429057889,Human Resources
+350,San Leandro,55135.641316685585,Human Resources
+351,San Antonio,68659.4778660613,Experienced (Non-Manager)
+352,Greer,151883.08740068105,IT/Software Development
+353,Akron,28608.11577752554,Experienced (Non-Manager)
+354,Technical Writer (Junior),2080.590238365494,IT/Software Development
+355,Kansas City,56175.93643586834,IT/Software Development
+356,Santa Clara,119633.93870601589,Experienced (Non-Manager)
+357,Chesterbrook,41611.80476730988,Human Resources
+358,Asheville,88425.0851305335,IT/Software Development
+359,Pittsburgh,40176.197502837684,Legal
+360,Providence,46667.639046538025,Legal
+361,Syracuse,45606.538024971625,Legal
+362,Portland,37180.14755959138,Legal
+363,Melrose Park,24967.082860385926,Logistics/Transportation
+364,ChicagoIL,39531.21452894439,Administrative/Clerical
+365,Cincinnati,104029.51191827469,Database Development/Administration
+366,Cincinnati,62417.707150964816,IT/Software Development
+367,Addison,41611.80476730988,Experienced (Non-Manager)
+368,Nashville,31208.853575482408,Quality Assurance/Safety
+369,Taylor,44732.69012485812,Experienced (Non-Manager)
+370,Saint Paul,140439.84108967084,Project/Program Management
+371,Des Moines,48893.87060158911,Project/Program Management
+372,Little Rock,109230.98751418843,Experienced (Non-Manager)
+373,Columbus,48893.87060158911,Experienced (Non-Manager)
+374,Baton Rouge,31208.853575482408,Quality Assurance/Safety
+375,Project Coordinator,42652.09988649262,Project/Program Management
+376,Horn LakeMS,36410.329171396144,Project/Program Management
+377,Project Coordinator,63458.00227014756,Project/Program Management
+378,Aston 19014,89465.38024971624,Project/Program Management
+379,Milwaukee,31208.853575482408,Quality Assurance/Safety
+380,Denver,31208.853575482408,Quality Assurance/Safety
+381,Cleveland,33289.4438138479,Experienced (Non-Manager)
+382,Belton,41611.80476730988,Experienced (Non-Manager)
+383,Washington,52014.75595913734,Manager (Manager/Supervisor of Staff)
+384,Cleveland,145641.31668558458,Experienced (Non-Manager)
+385,Omaha,37242.565266742335,Quality Assurance/Safety
+386,Warwick,34329.73893303065,Experienced (Non-Manager)
+387,Thousand Oaks,140439.84108967084,Experienced (Non-Manager)
+388,Newark,31208.853575482408,Quality Assurance/Safety
+389,Portland,31208.853575482408,Quality Assurance/Safety
+390,Wilmington,109230.98751418843,Experienced (Non-Manager)
+391,Spanish Flat,27047.67309875142,Experienced (Non-Manager)
+392,Chicago,31208.853575482408,Project/Program Management
+393,Plano,83223.60953461975,Experienced (Non-Manager)
+394,Peabody,48893.87060158911,Experienced (Non-Manager)
+395,Sacramento,31208.853575482408,Quality Assurance/Safety
+396,Phoenix,31208.853575482408,Quality Assurance/Safety
+397,Overland Park,88425.0851305335,Experienced (Non-Manager)
+398,Peabody,48893.87060158911,Experienced (Non-Manager)
+399,Franklin,46813.28036322361,Experienced (Non-Manager)
+400,Grove City,31208.853575482408,Experienced (Non-Manager)
+401,Glenview,57216.23155505108,Experienced (Non-Manager)
+402,Harrisburg,33289.4438138479,Project/Program Management
+403,Project Manager,104029.51191827469,Project/Program Management
+404,Oak Grove,52014.75595913734,Experienced (Non-Manager)
+405,Wallingford,46813.28036322361,Experienced (Non-Manager)
+406,Valencia,52014.75595913734,Quality Assurance/Safety
+407,Peabody,66578.8876276958,Experienced (Non-Manager)
+408,Plano 75024,80882.94551645857,Experienced (Non-Manager)
+409,Jackson,29128.263337116914,Experienced (Non-Manager)
+410,Irvine,75941.54370034052,Experienced (Non-Manager)
+411,Hodgenville,40571.50964812713,Manager (Manager/Supervisor of Staff)
+412,Rockford,35370.03405221339,Student (High School)
+413,Riverside,28087.96821793417,Student (Undergraduate/Graduate)
+414,Leawood,31208.853575482408,Entry Level
+415,Seattle,130036.88989784337,Experienced (Non-Manager)
+416,New Haven,47853.57548240636,Entry Level
+417,Mount Prospect,33289.4438138479,Experienced (Non-Manager)
+418,Dallas,26028.18388195233,Quality Assurance/Safety
+419,Los Angeles,31208.853575482408,Quality Assurance/Safety
+420,Loudon,31208.853575482408,Entry Level
+421,Bedford,46813.28036322361,Experienced (Non-Manager)
+422,Bedford,35370.03405221339,Experienced (Non-Manager)
+423,Middletown,31208.853575482408,Quality Assurance/Safety
+424,Palm Beach,45741.776390465384,Entry Level
+425,Azusa,37450.62429057889,Experienced (Non-Manager)
+426,Moreno Valley,28087.96821793417,Quality Assurance/Safety
+427,Plano,107150.39727582294,Quality Assurance/Safety
+428,City Of Industry,31208.853575482408,Entry Level
+429,Cleveland,30168.55845629966,Experienced (Non-Manager)
+430,Tampa,31208.853575482408,Experienced (Non-Manager)
+431,High Point,28087.96821793417,Accounting/Finance/Insurance
+432,Buffalo,72820.65834279229,Experienced (Non-Manager)
+433,West Monroe,31323.28603859251,Entry Level
+434,Minneapolis,32457.207718501704,Accounting/Finance/Insurance
+435,Boston,52014.75595913734,Accounting/Finance/Insurance
+436,Atlanta,26007.37797956867,Experienced (Non-Manager)
+437,Atlanta,63458.00227014756,Medical/Health
+438,Marysville,19765.607264472193,Entry Level
+439,Sacramento,22886.492622020432,Logistics/Transportation
+440,Atlanta,41611.80476730988,Engineering
+441,East Point,18725.312145289445,Entry Level
+442,Minneapolis,58256.52667423383,Installation/Maintenance/Repair
+443,Prescott,52014.75595913734,Installation/Maintenance/Repair
+444,Middleton,26506.719636776394,Installation/Maintenance/Repair
+445,Louisville,31208.853575482408,Installation/Maintenance/Repair
+446,San Diego,59400.85130533485,Installation/Maintenance/Repair
+447,Painesville,22886.492622020432,Entry Level
+448,Fort Lauderdale,15604.426787741204,Manager (Manager/Supervisor of Staff)
+449,Shawnee,31208.853575482408,Entry Level
+450,Baton Rouge,15604.426787741204,Entry Level
+451,Palo Alto,46813.28036322361,Food Services/Hospitality
+452,Colorado Springs,24707.00908059024,Student (High School)
+453,Los Altos,62417.707150964816,Entry Level
+454,Newark,18725.312145289445,Entry Level
+455,NashvilleTN,39531.21452894439,Accounting/Finance/Insurance
+456,West Monroe,31323.28603859251,Entry Level
+457,San Leandro,50974.4608399546,Accounting/Finance/Insurance
+458,Longview,22335.136208853575,Career Level Entry Level
+459,Redmond,28087.96821793417,Entry Level
+460,Conroe,27047.67309875142,Manufacturing/Production/Operations
+461,Havre De Grace,32249.148694665157,Manufacturing/Production/Operations
+462,Gainesville,17685.017026106696,Entry Level
+463,Santa Rosa,34329.73893303065,Installation/Maintenance/Repair
+464,Clifton Heights,43692.39500567537,Experienced (Non-Manager)
+465,Wyoming,17685.017026106696,Entry Level
+466,New Oxford,21638.138479001136,Manufacturing/Production/Operations
+467,Clifton Heights,43692.39500567537,Experienced (Non-Manager)
+468,Conroe,27047.67309875142,Manufacturing/Production/Operations
+469,De Pere,42652.09988649262,Experienced (Non-Manager)
+470,Boston,34329.73893303065,Accounting/Finance/Insurance
+471,Peabody,46813.28036322361,Medical/Health
+472,Boston,34329.73893303065,Accounting/Finance/Insurance
+473,Peabody,93626.56072644722,Medical/Health
+474,Boston,34329.73893303065,Accounting/Finance/Insurance
+475,BostonMA,16644.72190692395,Administrative/Clerical
+476,Columbus,30168.55845629966,Accounting/Finance/Insurance
+477,Ramsey,40571.50964812713,Accounting/Finance/Insurance
+478,Fort Worth,48893.87060158911,Accounting/Finance/Insurance
+479,Cleveland,32249.148694665157,Accounting/Finance/Insurance
+480,Miami,37450.62429057889,Experienced (Non-Manager)
+481,Jacksonville,28087.96821793417,Accounting/Finance/Insurance
+482,Grand Rapids,32249.148694665157,Accounting/Finance/Insurance
+483,San Antonio,38490.919409761635,Experienced (Non-Manager)
+484,Dallas,20805.90238365494,Installation/Maintenance/Repair
+485,Rocklin,57216.23155505108,Installation/Maintenance/Repair
+486,Alpharetta,27047.67309875142,Sales/Retail/Business Development
+487,Dallas,33289.4438138479,Experienced (Non-Manager)
+488,DallasTX,26007.37797956867,Accounting/Finance/Insurance
+489,Dallas,38490.919409761635,Customer Support/Client Care
+490,Dallas,48893.87060158911,Entry Level
+491,Irving,22366.34506242906,Experienced (Non-Manager)
+492,Dallas,29128.263337116914,Entry Level
+493,Dallas,46813.28036322361,Experienced (Non-Manager)
+494,Irving,52014.75595913734,Experienced (Non-Manager)
+495,DallasTX,20805.90238365494,Accounting/Finance/Insurance
+496,Dallas,46813.28036322361,Experienced (Non-Manager)
+497,Irving,24967.082860385926,Experienced (Non-Manager)
+498,Irving,83223.60953461975,IT/Software Development
+499,Dallas,46813.28036322361,Experienced (Non-Manager)
+500,Dallas,22886.492622020432,Logistics/Transportation
+501,Dallas,27047.67309875142,Customer Support/Client Care
+502,Dallas,29128.263337116914,Experienced (Non-Manager)
+503,Dallas,29128.263337116914,Experienced (Non-Manager)
+504,Dallas,27047.67309875142,Entry Level
+505,Dallas,57216.23155505108,Experienced (Non-Manager)
+506,DallasTX,50974.4608399546,Accounting/Finance/Insurance
+507,Dallas,43172.247446083995,Logistics/Transportation
+508,DallasTX,21846.197502837684,Accounting/Finance/Insurance
+509,IrvingTX,30168.55845629966,Accounting/Finance/Insurance
+510,DallasTX,19765.607264472193,Accounting/Finance/Insurance
+511,Dallas,33289.4438138479,Manager (Manager/Supervisor of Staff)
+512,Dallas,145641.31668558458,IT/Software Development
+513,Dallas,24967.082860385926,Sales/Retail/Business Development
+514,Dallas,130036.88989784337,IT/Software Development
+515,Dallas,57216.23155505108,Experienced (Non-Manager)
+516,Dallas,62417.707150964816,Systems Analysis - IT
+517,Dallas,104029.51191827469,IT/Software Development
+518,Dallas,28087.96821793417,Experienced (Non-Manager)
+519,DallasTX,18725.312145289445,Accounting/Finance/Insurance
+520,DallasTX,18205.164585698072,Accounting/Finance/Insurance
+521,Dallas,21846.197502837684,Entry Level
+522,Dallas,36410.329171396144,Experienced (Non-Manager)
+523,Cloud Engineer,161245.74347332577,IT/Software Development
+524,Dallas,119633.93870601589,Experienced (Non-Manager)
+525,Dallas,156044.26787741203,Experienced (Non-Manager)
+526,DallasTX,33809.591373439274,Accounting/Finance/Insurance
+527,Columbus,26007.37797956867,Manager (Manager/Supervisor of Staff)
+528,Columbus,34329.73893303065,Manager (Manager/Supervisor of Staff)
+529,Dallas,30168.55845629966,Entry Level
+530,Dallas,40571.50964812713,Experienced (Non-Manager)
+531,Dallas,43692.39500567537,Experienced (Non-Manager)
+532,Dallas,93626.56072644722,IT/Software Development
+533,Dallas,30168.55845629966,Experienced (Non-Manager)
+534,Dallas,26007.37797956867,Experienced (Non-Manager)
+535,Richardson,28087.96821793417,Medical/Health
+536,Dallas,26007.37797956867,Experienced (Non-Manager)
+537,Columbus,26007.37797956867,Experienced (Non-Manager)
+538,Dallas,27734.267877412032,Quality Assurance/Safety
+539,Dallas,27047.67309875142,Experienced (Non-Manager)
+540,Dallas,34329.73893303065,Experienced (Non-Manager)
+541,Columbus,14564.131668558457,Customer Support/Client Care
+542,Dallas,27047.67309875142,Entry Level
+543,Irving,46813.28036322361,IT/Software Development
+544,Dallas,52014.75595913734,Logistics/Transportation
+545,Dallas,113392.16799091942,Experienced (Non-Manager)
+546,Irving,37450.62429057889,Experienced (Non-Manager)
+547,Dallas,29128.263337116914,Experienced (Non-Manager)
+548,Carson,33289.4438138479,Logistics/Transportation
+549,Bothell,32249.148694665157,Career Level Experienced (Non-Manager)
+550,Carrollton,32249.148694665157,Experienced (Non-Manager)
+551,Pomona,32249.148694665157,Entry Level
+552,Corpus Christi,31729.00113507378,Medical/Health
+553,Uhrichsville,83223.60953461975,Experienced (Non-Manager)
+554,Fort Mill,29648.410896708287,Medical/Health
+555,Westfield,100908.62656072645,Experienced (Non-Manager)
+556,Moore,33289.4438138479,Entry Level
+557,Miami,24967.082860385926,Student (High School)
+558,Bellingham,40571.50964812713,Experienced (Non-Manager)
+559,Columbus,46813.28036322361,Experienced (Non-Manager)
+560,Ukiah,28941.01021566402,Experienced (Non-Manager)
+561,Irvine,46813.28036322361,Experienced (Non-Manager)
+562,Greer,41611.80476730988,Experienced (Non-Manager)
+563,San Francisco,114432.46311010217,Experienced (Non-Manager)
+564,Olathe,24738.217934165725,Entry Level
+565,San Jose,33289.4438138479,Experienced (Non-Manager)
+566,Geneva,19765.607264472193,Experienced (Non-Manager)
+567,Maryland Heights,18205.164585698072,Entry Level
+568,Rockville,33289.4438138479,Medical/Health
+569,Bluffton,33289.4438138479,Experienced (Non-Manager)
+570,Pleasant Hill,19245.459704880817,Student (Undergraduate/Graduate)
+571,San Francisco,60337.11691259932,Experienced (Non-Manager)
+572,Victor,46813.28036322361,Manager (Manager/Supervisor of Staff)
+573,Indiana,38490.919409761635,Experienced (Non-Manager)
+574,Madison,14761.787741203178,General/Other: Food Services
+575,Boston,20805.90238365494,Medical/Health
+576,Brooklyn,109230.98751418843,Manager (Manager/Supervisor of Staff)
+577,Newark,18725.312145289445,Entry Level
+578,Plantation,29128.263337116914,Experienced (Non-Manager)
+579,Mount Prospect,32207.536889897845,Medical/Health
+580,Indiana,38490.919409761635,Experienced (Non-Manager)
+581,Carmel,19765.607264472193,Student (Undergraduate/Graduate)
+582,Columbus,223663.4506242906,Experienced (Non-Manager)
+583,Marlborough,54095.34619750284,Experienced (Non-Manager)
+584,Spartanburg,43692.39500567537,Medical/Health
+585,King Of Prussia,60337.11691259932,Experienced (Non-Manager)
+586,Company: Select Staffing,22886.492622020432,Manufacturing/Production/Operations
+587,Austin,27047.67309875142,Logistics/Transportation
+588,Saint Clair Shores,47853.57548240636,Accounting/Finance/Insurance
+589,Troy,20805.90238365494,Experienced (Non-Manager)
+590,Austin,67099.03518728718,Medical/Health
+591,BostonMA,14564.131668558457,Customer Support/Client Care
+592,BostonMA,14564.131668558457,Customer Support/Client Care
+593,Carmel,28087.96821793417,Sales/Retail/Business Development
+594,Beaverton,28087.96821793417,Sales/Retail/Business Development
+595,Washington,55073.22360953462,Administrative/Clerical
+596,Stockton,29533.978433598186,Administrative/Clerical
+597,Beltsville,31208.853575482408,Experienced (Non-Manager)
+598,Mount Vernon,27463.79114642452,Education Level Associate Degree
+599,Mountain Top,462868.91032917146,Entry Level
+600,Cleveland,41611.80476730988,Customer Support/Client Care
+601,Whittier,33809.591373439274,Experienced (Non-Manager)
+602,Phoenix,31208.853575482408,Human Resources
+603,Overland Park,26007.37797956867,Entry Level
+604,Alpharetta,41362.133938706014,Human Resources
+605,Cincinnati,15344.353007945518,Entry Level
+606,Chicago,46813.28036322361,Accounting/Finance/Insurance
+607,Cincinnati,49934.16572077185,Experienced (Non-Manager)
+608,Chicago,33289.4438138479,Accounting/Finance/Insurance
+609,Milford,34329.73893303065,Entry Level
+610,Cincinnati,10402.95119182747,Entry Level
+611,West Chester,22886.492622020432,Entry Level
+612,Cincinnati,31208.853575482408,Experienced (Non-Manager)
+613,Chicago,63458.00227014756,Accounting/Finance/Insurance
+614,Cincinnati,22886.492622020432,Entry Level
+615,Chicago,46813.28036322361,Accounting/Finance/Insurance
+616,Cherry Grove,26527.525539160048,Manufacturing/Production/Operations
+617,Cincinnati,44732.69012485812,Entry Level
+618,Chicago,49934.16572077185,Accounting/Finance/Insurance
+619,Chicago,52014.75595913734,Accounting/Finance/Insurance
+620,Cincinnati,29128.263337116914,Experienced (Non-Manager)
+621,Chicago,42652.09988649262,Accounting/Finance/Insurance
+622,Cincinnati,36410.329171396144,Entry Level
+623,Newport,24967.082860385926,Entry Level
+624,Newport,24446.935300794554,Entry Level
+625,Cincinnati,34329.73893303065,Experienced (Non-Manager)
+626,Chicago,72820.65834279229,Accounting/Finance/Insurance
+627,Cincinnati,36930.47673098752,Experienced (Non-Manager)
+628,Chicago,37450.62429057889,Accounting/Finance/Insurance
+629,Cincinnati,29128.263337116914,Customer Support/Client Care
+630,Chicago,47853.57548240636,Accounting/Finance/Insurance
+631,Cincinnati,34329.73893303065,Experienced (Non-Manager)
+632,Chicago,39531.21452894439,Accounting/Finance/Insurance
+633,Cincinnati,48893.87060158911,Accounting/Finance/Insurance
+634,Cincinnati,30168.55845629966,Experienced (Non-Manager)
+635,Cincinnati,31208.853575482408,Quality Assurance/Safety
+636,Covington,32249.148694665157,Experienced (Non-Manager)
+637,Cincinnati,25487.2304199773,Entry Level
+638,Cincinnati,50412.70147559592,Engineering
+639,Chicago,41611.80476730988,Accounting/Finance/Insurance
+640,Chicago,166447.2190692395,Experienced (Non-Manager)
+641,Chicago,39531.21452894439,Accounting/Finance/Insurance
+642,Cincinnati,43692.39500567537,Experienced (Non-Manager)
+643,Houston,87500.0,Building Construction/Skilled Trades
+644,Carter Lake,66000.0,Experienced (Non-Manager)
+645,Sr. Process Engineer,85000.0,Engineering
+646,Aurora,87500.0,Experienced (Non-Manager)
+647,RF System Technician,70000.0,Engineering
+648,Charleston,61500.0,Experienced (Non-Manager)
+649,Houston,72500.0,Manager (Manager/Supervisor of Staff)
+650,Ocean,45000.0,Experienced (Non-Manager)
+651,Bethlehem,40000.0,Experienced (Non-Manager)
+652,Denver,32000.0,Experienced (Non-Manager)
+653,Sacramento,110000.0,Experienced (Non-Manager)
+654,Denver,60000.0,Manager (Manager/Supervisor of Staff)
+655,Houston,102500.0,Experienced (Non-Manager)
+656,Englewood,42500.0,Experienced (Non-Manager)
+657,Houston,85000.0,Building Construction/Skilled Trades
+658,Houston,75000.0,Building Construction/Skilled Trades
+659,Denver,77500.0,Accounting/Finance/Insurance
+660,Denver,125000.0,Accounting/Finance/Insurance
+661,Packaging Engineer,85000.0,Engineering
+662,Bojangles’ is expanding and opening new locations across the Southeast!  Currently located in over 715 locations in 12 states throughout the Eastern U. S. with new locations coming to the middle Tennessee area! At Bojangles’ we are proud to be Growing Great Leaders........One Biscuit at a Time!  We are Opening New Locations in the Charlotte Area soon and have opportunities for Experienced Restaurant Managers (Unit Directors,41000.0,Food Services/Hospitality
+663,Las Vegas,92500.0,Accounting/Finance/Insurance
+664,Las Vegas,75000.0,Accounting/Finance/Insurance
+665,Las Vegas,55000.0,Accounting/Finance/Insurance
+666,Boston,45000.0,Accounting/Finance/Insurance
+667,Camden,42500.0,Sales/Retail/Business Development
+668,Centennial,50000.0,Building Construction/Skilled Trades
+669,Dallas,115000.0,Medical/Health
+670,Aurora,60000.0,Experienced (Non-Manager)
+671,Dallas,65000.0,Building Construction/Skilled Trades
+672,Dallas,65000.0,Human Resources
+673,Aurora,85000.0,"Executive (SVP, VP, Department Head, etc)"
+674,Miami,66616.0,Experienced (Non-Manager)
+675,Denver,45000.0,Building Construction/Skilled Trades
+676,Dallas,60000.0,Manager (Manager/Supervisor of Staff)
+677,Knoxville,73500.0,IT/Software Development
+678,Bridgewater,185000.0,IT/Software Development
+679,Knoxville,80000.0,IT/Software Development
+680,Onalaska,155000.0,"Executive (SVP, VP, Department Head, etc)"
+681,San Antonio,110000.0,Experienced (Non-Manager)
+682,Bridgewater,150000.0,Biotech/R&D/Science
+683,Buffalo Grove,90000.0,Quality Assurance/Safety
+684,Chicago,75000.0,Quality Assurance/Safety
+685,Chicago,100000.0,Quality Assurance/Safety
+686,Louisville,90000.0,Experienced (Non-Manager)
+687,Augusta,130000.0,"Executive (SVP, VP, Department Head, etc)"
+688,Monroe,77500.0,Quality Assurance/Safety
+689,Wichita Falls,57500.0,Quality Assurance/Safety
+690,Sikeston,77500.0,Quality Assurance/Safety
+691,Glendale,50000.0,Quality Assurance/Safety
+692,Lexington,82500.0,Quality Assurance/Safety
+693,Temple,80000.0,Quality Assurance/Safety
+694,4060BER Three Six Sigma Black Belts AND a MBB – Transactional Location: Baltimore,115000.0,Quality Assurance/Safety
+695,Birmingham,65000.0,General/Other: Food Services
+696,Gastonia,57500.0,Food Services/Hospitality
+697,Atlanta,75000.0,Experienced (Non-Manager)
+698,Atlanta,55000.0,Sales/Retail/Business Development
+699,West Lake Hills,175000.0,IT/Software Development
+700,Atlanta,65000.0,Accounting/Finance/Insurance
+701,Atlanta,65000.0,Food Services/Hospitality
+702,Norcross,20500.0,Manufacturing/Production/Operations
+703,Austin,100000.0,Project/Program Management
+704,Entry Level Sales ManagerAre you ready to begin your last career?Training:In the classroom,98000.0,Sales/Retail/Business Development
+705,Greeneville,105000.0,Manager (Manager/Supervisor of Staff)
+706,Sylmar,80000.0,Manager (Manager/Supervisor of Staff)
+707,Crafton,55000.0,Manager (Manager/Supervisor of Staff)
+708,Crafton,37500.0,Entry Level
+709,Cheyenne,62500.0,Project/Program Management
+710,West Palm Beach,45000.0,Marketing/Product
+711,Joliet,105000.0,Manager (Manager/Supervisor of Staff)
+712,Deerfield Beach,70000.0,Manager (Manager/Supervisor of Staff)
+713,Houston,100000.0,Building Construction/Skilled Trades
+714,Houston,119750.0,IT/Software Development
+715,Houston,97500.0,Building Construction/Skilled Trades
+716,Houston,67500.0,Building Construction/Skilled Trades
+717,St. Charles,60000.0,Business/Strategic Management
+718,Overland Park,65000.0,Engineering
+719,Kansas City,85000.0,Experienced (Non-Manager)
+720,Project Manager - Construction,92500.0,Engineering
+721,Oakland,37500.0,Accounting/Finance/Insurance
+722,New York,100000.0,Accounting/Finance/Insurance
+723,New York,62500.0,Accounting/Finance/Insurance
+724,New York,85000.0,Accounting/Finance/Insurance
+725,Albuquerque,67500.0,Accounting/Finance/Insurance
+726,Miami,27500.0,Accounting/Finance/Insurance
+727,Chester,70000.0,Accounting/Finance/Insurance
+728,Menlo Park,90000.0,Human Resources
+729,Hauppauge,82500.0,Accounting/Finance/Insurance
+730,Boston,55000.0,Human Resources
+731,Melville,152500.0,Accounting/Finance/Insurance
+732,Melville,57500.0,Accounting/Finance/Insurance
+733,Deerfield,31500.0,Accounting/Finance/Insurance
+734,Boca Raton,47500.0,Accounting/Finance/Insurance
+735,Los Angeles,52500.0,Accounting/Finance/Insurance
+736,New York,70000.0,Accounting/Finance/Insurance
+737,Clifton,117500.0,Accounting/Finance/Insurance
+738,Walnut Creek,45000.0,Accounting/Finance/Insurance
+739,Schaumburg,70000.0,Accounting/Finance/Insurance
+740,Saukville,95000.0,Accounting/Finance/Insurance
+741,Irving,90000.0,Accounting/Finance/Insurance
+742,Northridge,115000.0,Accounting/Finance/Insurance
+743,San Diego,62500.0,Accounting/Finance/Insurance
+744,West Palm Beach,30500.0,Accounting/Finance/Insurance
+745,Boca Raton,55000.0,Accounting/Finance/Insurance
+746,Livingston,75000.0,Accounting/Finance/Insurance
+747,Columbus,70000.0,Sales/Retail/Business Development
+748,Wilmington,82500.0,Sales/Retail/Business Development
+749,Denver,100000.0,Sales/Retail/Business Development
+750,Frederick,35000.0,Sales/Retail/Business Development
+751,Des Moines,70000.0,Sales/Retail/Business Development
+752,Chicago,82500.0,Sales/Retail/Business Development
+753,Waltham,105000.0,Accounting/Finance/Insurance
+754,Milwaukee,47500.0,Food Services/Hospitality
+755,Davenport,72500.0,Food Services/Hospitality
+756,Houston,67500.0,Manager (Manager/Supervisor of Staff)
+757,Houston,102500.0,Manager (Manager/Supervisor of Staff)
+758,Houston,80000.0,Manager (Manager/Supervisor of Staff)
+759,Houston,67500.0,Manager (Manager/Supervisor of Staff)
+760,Roseville,87500.0,Experienced (Non-Manager)
+761,Mishawaka,27500.0,Experienced (Non-Manager)
+762,Coral Gables,35000.0,Experienced (Non-Manager)
+763,Centreville,47500.0,Experienced (Non-Manager)
+764,Knoxville,92500.0,IT/Software Development
+765,Knoxville,55000.0,IT/Software Development
+766,Oklahoma City,32500.0,Experienced (Non-Manager)
+767,West Mclean,165000.0,Manager (Manager/Supervisor of Staff)
+768,Jacksonville,37000.0,Experienced (Non-Manager)
+769,Robbinsdale,37000.0,Experienced (Non-Manager)
+770,Brooklyn,97500.0,Experienced (Non-Manager)
+771,Clearwater,66592.13500000001,Experienced (Non-Manager)
+772,Santa Cruz,133889.5,Manager (Manager/Supervisor of Staff)
+773,Cincinnati,80000.0,IT/Software Development
+774,Saint Louis,117500.0,Experienced (Non-Manager)
+775,Milpitas,108493.0,Experienced (Non-Manager)
+776,Apopka,77500.0,IT/Software Development
+777,San Antonio,57500.0,IT/Software Development
+778,Houston,60000.0,Medical/Health
+779,Stamford,52500.0,Experienced (Non-Manager)
+780,Washington,107500.0,Experienced (Non-Manager)
+781,Suitland,115000.0,IT/Software Development
+782,Jupiter,92500.0,Experienced (Non-Manager)
+783,El Paso,70000.0,Manager (Manager/Supervisor of Staff)
+784,Charlotte,85000.0,Experienced (Non-Manager)
+785,Manchester,80000.0,Medical/Health
+786,Cinnaminson,40000.0,Experienced (Non-Manager)
+787,Houston,62500.0,Medical/Health
+788,Cincinnati,45000.0,Entry Level
+789,Minneapolis,33150.0,Entry Level
+790,Dayton,68500.0,Manager (Manager/Supervisor of Staff)
+791,Santa Clara,87500.0,Experienced (Non-Manager)
+792,Cleveland,62500.0,Entry Level
+793,Cincinnati,110000.0,IT/Software Development
+794,Newport News,72500.0,Experienced (Non-Manager)
+795,New Rochelle,43500.0,Experienced (Non-Manager)
+796,Kansas City,80000.0,Experienced (Non-Manager)
+797,Alpharetta,90000.0,Experienced (Non-Manager)
+798,Dallas,190000.0,"Executive (SVP, VP, Department Head, etc)"
+799,Worcester,94000.0,Experienced (Non-Manager)
+800,Knoxville,30000.0,Other
+801,Knoxville,92500.0,IT/Software Development
+802,Houston,64500.0,Manager (Manager/Supervisor of Staff)
+803,Houston,77000.0,Manager (Manager/Supervisor of Staff)
+804,Knoxville,82500.0,IT/Software Development
+805,Concord,65000.0,Experienced (Non-Manager)
+806,St. LouisMO,37500.0,Accounting/Finance/Insurance
+807,Normal,70000.0,Sales/Retail/Business Development
+808,Winchester,70000.0,Sales/Retail/Business Development
+809,East Chicago,35000.0,Manager (Manager/Supervisor of Staff)
+810,Miami Gardens,80000.0,Experienced (Non-Manager)
+811,Jefferson City,70000.0,Sales/Retail/Business Development
+812,Sylmar,90000.0,Experienced (Non-Manager)
+813,Boston,18000.0,Accounting/Finance/Insurance
+814,Indianapolis,45000.0,Accounting/Finance/Insurance
+815,Florence,52500.0,Food Services/Hospitality
+816,Cincinnati,92500.0,IT/Software Development
+817,Wyoming,37500.0,Customer Support/Client Care
+818,Columbus,60000.0,Account Management (Commissioned)Insurance Agent/BrokerFinancial Products Sales/Brokerage
+819,West Palm Beach,92500.0,Medical/Health
+820,Springfield,70000.0,Sales/Retail/Business Development
+821,Atlanta,70000.0,Sales/Retail/Business Development
+822,Hazel Crest,85000.0,Experienced (Non-Manager)
+823,Saint Louis,45000.0,Experienced (Non-Manager)
+824,Schiller Park,41000.0,Experienced (Non-Manager)
+825,Columbus,43000.0,Experienced (Non-Manager)
+826,Columbus,43500.0,Sales/Retail/Business Development
+827,Columbus,43500.0,Sales/Retail/Business Development
+828,Reynoldsburg,57500.0,Entry Level
+829,Columbus,152500.0,Experienced (Non-Manager)
+830,Columbus,82500.0,Experienced (Non-Manager)
+831,Columbus,43500.0,Sales/Retail/Business Development
+832,Columbus,94373.5,Manager (Manager/Supervisor of Staff)
+833,Dublin,42500.0,Installation/Maintenance/Repair
+834,Columbus,65000.0,Experienced (Non-Manager)
+835,Columbus,43500.0,Sales/Retail/Business Development
+836,Columbus,31500.0,Entry Level
+837,Columbus,50000.0,Sales/Retail/Business Development
+838,Columbus,47500.0,Experienced (Non-Manager)
+839,Columbus,57500.0,Experienced (Non-Manager)
+840,Columbus,40000.0,Experienced (Non-Manager)
+841,Westerville,47500.0,Experienced (Non-Manager)
+842,Columbus,45000.0,Experienced (Non-Manager)
+843,Columbus,100000.0,Manager (Manager/Supervisor of Staff)
+844,Columbus,30000.0,Experienced (Non-Manager)
+845,Columbus,55000.0,Manager (Manager/Supervisor of Staff)
+846,Columbus,80000.0,IT/Software Development
+847,Columbus,43500.0,Sales/Retail/Business Development
+848,Columbus,43500.0,Sales/Retail/Business Development
+849,Columbus,51000.0,Customer Support/Client Care
+850,Reynoldsburg,57500.0,Entry Level
+851,Columbus,52500.0,Experienced (Non-Manager)
+852,Location Manager/ Funeral Dire...,62500.0,Other
+853,Columbus,25000.0,Experienced (Non-Manager)
+854,Columbus,100000.0,Sales/Retail/Business Development
+855,Columbus,16000.0,Experienced (Non-Manager)
+856,Columbus,43500.0,Sales/Retail/Business Development
+857,Columbus,51000.0,Engineering
+858,Columbus,37500.0,Experienced (Non-Manager)
+859,Columbus,35000.0,Experienced (Non-Manager)
+860,Columbus,37500.0,Experienced (Non-Manager)
+861,Blacklick,52500.0,Manager (Manager/Supervisor of Staff)
+862,Westerville,60000.0,Marketing/Product
+863,Columbus,150500.0,Experienced (Non-Manager)
+864,Columbus,43500.0,Sales/Retail/Business Development
+865,Groveport,120000.0,IT/Software Development
+866,Columbus,42500.0,Experienced (Non-Manager)
+867,Columbus,37500.0,Sales/Retail/Business Development
+868,Columbus,43500.0,Sales/Retail/Business Development
+869,Columbus,60000.0,Experienced (Non-Manager)
+870,Columbus,45000.0,Manager (Manager/Supervisor of Staff)
+871,Columbus,42500.0,Entry Level
+872,Columbus,40000.0,Manager (Manager/Supervisor of Staff)
+873,Columbus,87500.0,IT/Software Development
+874,Columbus,43500.0,Sales/Retail/Business Development
+875,43215,14000.0,Entry Level
+876,New York City,72500.0,Experienced (Non-Manager)
+877,Palo Alto,105000.0,Experienced (Non-Manager)
+878,New York City,140000.0,Manager (Manager/Supervisor of Staff)
+879,Dallas,27500.0,Experienced (Non-Manager)
+880,Boston,72500.0,Legal
+881,New York City,67500.0,Experienced (Non-Manager)
+882,Wilkes Barre,110000.0,Legal
+883,Boulder,57500.0,Experienced (Non-Manager)
+884,Folsom,42500.0,Experienced (Non-Manager)
+885,New York City,120000.0,Manager (Manager/Supervisor of Staff)
+886,Washington,37500.0,Entry Level
+887,New York City,85000.0,Experienced (Non-Manager)
+888,New York City,142500.0,Manager (Manager/Supervisor of Staff)
+889,New York City,65000.0,Experienced (Non-Manager)
+890,Saugatuck,90000.0,Experienced (Non-Manager)
+891,New York City,150000.0,Manager (Manager/Supervisor of Staff)
+892,Boston,45000.0,Legal
+893,Great Neck,60000.0,Experienced (Non-Manager)
+894,Los Angeles,65000.0,Experienced (Non-Manager)
+895,Ft. Lauderdale,57500.0,Experienced (Non-Manager)
+896,New York City,97500.0,Experienced (Non-Manager)
+897,Toledo,29500.0,Experienced (Non-Manager)
+898,Roseland,48500.0,Experienced (Non-Manager)
+899,Washington,42500.0,Entry Level
+900,Brandon,34250.0,Experienced (Non-Manager)
+901,Washington,80000.0,Experienced (Non-Manager)
+902,Irvine,37000.0,Entry Level
+903,Tucson,31000.0,Experienced (Non-Manager)
+904,Washington,70000.0,Entry Level
+905,Newark,157500.0,Experienced (Non-Manager)
+906,Austin,225000.0,Experienced (Non-Manager)
+907,New York City,132500.0,Manager (Manager/Supervisor of Staff)
+908,Alexandria,47500.0,Experienced (Non-Manager)
+909,New York City,65000.0,Experienced (Non-Manager)
+910,Washington,70000.0,Experienced (Non-Manager)
+911,Miami,51000.0,Experienced (Non-Manager)
+912,Royal Oak,50000.0,Experienced (Non-Manager)
+913,Sandy SpringsGA,49500.0,Legal
+914,Great Neck,45000.0,Experienced (Non-Manager)
+915,Newark,35000.0,Experienced (Non-Manager)
+916,New York City,47500.0,Experienced (Non-Manager)
+917,Deer Park,45000.0,Experienced (Non-Manager)
+918,New York City,150000.0,Manager (Manager/Supervisor of Staff)
+919,Gainesville,45000.0,Experienced (Non-Manager)
+920,New York,92500.0,Experienced (Non-Manager)
+921,New York City,80000.0,Experienced (Non-Manager)
+922,DallasTX,65000.0,Accounting/Finance/Insurance
+923,Dallas,125000.0,Manager (Manager/Supervisor of Staff)
+924,Dallas,80000.0,Accounting/Finance/Insurance
+925,Dallas,35000.0,Manager (Manager/Supervisor of Staff)
+926,Dallas,55000.0,Accounting/Finance/Insurance
+927,Dallas,35000.0,Entry Level
+928,Dallas,80000.0,Accounting/Finance/Insurance
+929,Dallas,107500.0,Medical/Health
+930,Dallas,67500.0,Accounting/Finance/Insurance
+931,Fort Smith,105000.0,Manufacturing/Production/Operations
+932,Chicago,82500.0,Sales/Retail/Business Development
+933,Franklin,80000.0,Accounting/Finance/Insurance
+934,San Diego,26000.0,Accounting/Finance/Insurance
+935,Chicago,110000.0,Manager (Manager/Supervisor of Staff)
+936,Denver,90000.0,"Executive (SVP, VP, Department Head, etc)"
+937,El Monte,90000.0,Business/Strategic Management
+938,Chicago,105000.0,Experienced (Non-Manager)
+939,Miamisburg,70000.0,Engineering
+940,Fishers,52500.0,Experienced (Non-Manager)
+941,Boston,37500.0,Other
+942,Austin,130000.0,"Executive (SVP, VP, Department Head, etc)"
+943,BostonMA,22500.0,Administrative/Clerical
+944,Cambridge,135000.0,Accounting/Finance/Insurance
+945,Bloomington,105000.0,IT/Software Development
+946,Boston,60000.0,Engineering
+947,Boston,135000.0,Marketing/Product
+948,Boston,142500.0,Accounting/Finance/Insurance
+949,Cambridge,90000.0,Experienced (Non-Manager)
+950,Dekalb,97500.0,Manager (Manager/Supervisor of Staff)
+951,Boca Raton,95000.0,Project/Program Management
+952,Radnor,77500.0,Experienced (Non-Manager)
+953,Riverside,117500.0,Food Services/Hospitality
+954,Atlanta,65000.0,Accounting/Finance/Insurance
+955,Las Vegas,112500.0,Experienced (Non-Manager)
+956,Las Vegas,85000.0,Accounting/Finance/Insurance
+957,College Park,59800.0,Manager (Manager/Supervisor of Staff)
+958,Las Vegas,67500.0,Accounting/Finance/Insurance
+959,Las Vegas,67500.0,Accounting/Finance/Insurance
+960,Las Vegas,75000.0,Entry Level
+961,Las Vegas,41500.0,Accounting/Finance/Insurance
+962,Las Vegas,117500.0,Accounting/Finance/Insurance
+963,Knoxville,28000.0,Administrative/Clerical
+964,Las Vegas,55000.0,Logistics/Transportation
+965,Las Vegas,150000.0,Entry Level
+966,Las Vegas,62500.0,Manager (Manager/Supervisor of Staff)
+967,North Las Vegas,47000.0,Entry Level
+968,Henderson,57500.0,Experienced (Non-Manager)
+969,Madison,90000.0,Experienced (Non-Manager)
+970,Madison,225000.0,"Executive (SVP, VP, Department Head, etc)"
+971,Maryville,25000.0,Student (High School)
+972,Madison,65000.0,Experienced (Non-Manager)
+973,Las Vegas,65000.0,Experienced (Non-Manager)
+974,Middleton,51000.0,Entry Level
+975,Madison,32500.0,Experienced (Non-Manager)
+976,Las Vegas,41500.0,Accounting/Finance/Insurance
+977,Madison,82500.0,Manager (Manager/Supervisor of Staff)
+978,Las Vegas,50000.0,Accounting/Finance/Insurance
+979,Las Vegas,40000.0,Sales/Retail/Business Development
+980,North Las Vegas,102500.0,Medical/Health
+981,Las Vegas,62500.0,Experienced (Non-Manager)
+982,Las Vegas,85000.0,Accounting/Finance/Insurance
+983,Las Vegas,100000.0,Manager (Manager/Supervisor of Staff)
+984,Madison,42500.0,Experienced (Non-Manager)
+985,Las Vegas,67500.0,Manager (Manager/Supervisor of Staff)
+986,Las Vegas,32500.0,Entry Level
+987,Greenville,275000.0,Entry Level
+988,Pompano Beach,87500.0,Manager (Manager/Supervisor of Staff)
+989,Walla Walla,137500.0,"Executive (SVP, VP, Department Head, etc)"
+990,Bel Air,62500.0,Experienced (Non-Manager)
+991,San Francisco,167500.0,Manager (Manager/Supervisor of Staff)
+992,Houston,57500.0,Manager (Manager/Supervisor of Staff)
+993,Washington,97500.0,Experienced (Non-Manager)
+994,Denver,75129.0,Accounting/Finance/Insurance
+995,Denver,100000.0,Medical/Health
+996,Denver,100000.0,Sales/Retail/Business Development
+997,San Francisco,125000.0,Sales/Retail/Business Development
+998,Brisbane,43000.0,Sales/Retail/Business Development
+999,Boston,47500.0,Experienced (Non-Manager)
+1000,Little Rock,80000.0,Manufacturing/Production/Operations
+1001,Olathe,55000.0,Manager (Manager/Supervisor of Staff)
+1002,Houston,90000.0,Building Construction/Skilled Trades
+1003,Houston,105000.0,Building Construction/Skilled Trades
+1004,Houston,95000.0,Building Construction/Skilled Trades
+1005,Denver,54100.0,Experienced (Non-Manager)
+1006,Denver,45000.0,Building Construction/Skilled Trades
+1007,Aurora,40000.0,Manager (Manager/Supervisor of Staff)
+1008,Denver,39520.0,Accounting/Finance/Insurance
+1009,Houston,90000.0,Building Construction/Skilled Trades
+1010,Houston,92500.0,Building Construction/Skilled Trades
+1011,Houston,95000.0,Building Construction/Skilled Trades
+1012,Denver,43750.0,Experienced (Non-Manager)
+1013,Denver,42000.0,Accounting/Finance/Insurance
+1014,New York City,22500.0,Installation/Maintenance/Repair
+1015,Dallas,115000.0,Manager (Manager/Supervisor of Staff)
+1016,Dallas,57500.0,Accounting/Finance/Insurance
+1017,Dallas,62500.0,Accounting/Finance/Insurance
+1018,Dallas,60000.0,Manager (Manager/Supervisor of Staff)
+1019,Dallas,67500.0,Experienced (Non-Manager)
+1020,Austin,35000.0,Sales/Retail/Business Development
+1021,Austin,90000.0,Building Construction/Skilled Trades
+1022,Austin,77500.0,Building Construction/Skilled Trades
+1023,Las Vegas,80000.0,Accounting/Finance/Insurance
+1024,Kinston,87500.0,"Executive (SVP, VP, Department Head, etc)"
+1025,Multiple locations,42500.0,Manager (Manager/Supervisor of Staff)
+1026,St. Louis,38000.0,Installation/Maintenance/Repair
+1027,Fort Lauderdale,45000.0,Installation/Maintenance/Repair
+1028,Broussard,50000.0,Entry Level
+1029,Summit,40000.0,Manager (Manager/Supervisor of Staff)
+1030,Winchester,32500.0,Entry Level
+1031,Downers Grove,50000.0,Experienced (Non-Manager)
+1032,Coordinate,60000.0,Installation/Maintenance/Repair
+1033,Austin,34000.0,Installation/Maintenance/Repair
+1034,Oakland,90078.0,Experienced (Non-Manager)
+1035,East Orange,42500.0,Experienced (Non-Manager)
+1036,Sioux City,117500.0,Manager (Manager/Supervisor of Staff)
+1037,Tallahassee,90000.0,Experienced (Non-Manager)
+1038,Altoona,37500.0,Entry Level
+1039,Peoria,65000.0,Entry Level
+1040,Ringwood,95000.0,Experienced (Non-Manager)
+1041,Akron,32500.0,Experienced (Non-Manager)
+1042,Jackson,52500.0,Experienced (Non-Manager)
+1043,Dayton,47500.0,Manager (Manager/Supervisor of Staff)
+1044,Lillington,70000.0,Manager (Manager/Supervisor of Staff)
+1045,Alexandria,66500.0,Experienced (Non-Manager)
+1046,Mishawaka,40000.0,Entry Level
+1047,Pigeon Forge,31500.0,Entry Level
+1048,TrentonNJ,50000.0,Manufacturing/Production/Operations
+1049,Arlington Heights,35000.0,Experienced (Non-Manager)
+1050,Franklin Lakes,57000.0,Experienced (Non-Manager)
+1051,Overland Park,82500.0,Manager (Manager/Supervisor of Staff)
+1052,Lutz,40000.0,Experienced (Non-Manager)
+1053,Albemarle,55000.0,Manager (Manager/Supervisor of Staff)
+1054,Fishers,50000.0,Experienced (Non-Manager)
+1055,West Berlin,50000.0,Manager (Manager/Supervisor of Staff)
+1056,Lake Bluff,80000.0,Experienced (Non-Manager)
+1057,Field Tech,62500.0,Installation/Maintenance/Repair
+1058,New York City,67500.0,Experienced (Non-Manager)
+1059,Mahwah,57000.0,Experienced (Non-Manager)
+1060,Hampton,60000.0,Experienced (Non-Manager)
+1061,Fairfax,50000.0,Manager (Manager/Supervisor of Staff)
+1062,Neptune City,70000.0,Experienced (Non-Manager)
+1063,Greenville,70000.0,Experienced (Non-Manager)
+1064,El Dorado,65000.0,Experienced (Non-Manager)
+1065,New Town,92500.0,Experienced (Non-Manager)
+1066,Davenport,55000.0,Experienced (Non-Manager)
+1067,Conroe,52500.0,Installation/Maintenance/Repair
+1068,Denton,47800.0,Experienced (Non-Manager)
+1069,Oakland,77664.0,Experienced (Non-Manager)
+1070,Morris Plains,55000.0,Installation/Maintenance/Repair
+1071,Beverly,50000.0,Experienced (Non-Manager)
+1072,Newburyport,55000.0,Experienced (Non-Manager)
+1073,Minneapolis,56000.0,Experienced (Non-Manager)
+1074,Worcester,54000.0,Experienced (Non-Manager)
+1075,Mentor,115000.0,Manager (Manager/Supervisor of Staff)
+1076,Elk Grove Village,36000.0,Entry Level
+1077,North Palm Beach,45000.0,Manager (Manager/Supervisor of Staff)
+1078,Anaheim,62500.0,Experienced (Non-Manager)
+1079,Plantersville,36000.0,Manager (Manager/Supervisor of Staff)
+1080,Halfmoon,60000.0,Manager (Manager/Supervisor of Staff)
+1081,New Kensington,72500.0,Manager (Manager/Supervisor of Staff)
+1082,Louisville,77500.0,Manufacturing/Production/Operations
+1083,Grifton,57500.0,Experienced (Non-Manager)
+1084,Wake Forest,47500.0,Manager (Manager/Supervisor of Staff)
+1085,Saint Louis,80000.0,Manager (Manager/Supervisor of Staff)
+1086,ChicagoIL,125000.0,Marketing/Product
+1087,Saint Louis,125000.0,Manager (Manager/Supervisor of Staff)
+1088,Tempe,67500.0,Manager (Manager/Supervisor of Staff)
+1089,Los Angeles,175000.0,"Executive (SVP, VP, Department Head, etc)"
+1090,Philadelphia,27500.0,Entry Level
+1091,Bridgewater,39000.0,Experienced (Non-Manager)
+1092,Buffalo Grove,67500.0,Experienced (Non-Manager)
+1093,Noblesville,72500.0,Experienced (Non-Manager)
+1094,Grenada,57500.0,Manufacturing/Production/Operations
+1095,Yazoo,47500.0,Manager (Manager/Supervisor of Staff)
+1096,Dayton,57500.0,Manufacturing/Production/Operations
+1097,Sun Prairie,45000.0,Experienced (Non-Manager)
+1098,Saint Louis,92500.0,Manager (Manager/Supervisor of Staff)
+1099,Shenandoah,85000.0,Manager (Manager/Supervisor of Staff)
+1100,Opa Locka,37500.0,Manager (Manager/Supervisor of Staff)
+1101,Jupiter,72500.0,Manager (Manager/Supervisor of Staff)
+1102,Lexington,63000.0,Experienced (Non-Manager)
+1103,Minneapolis,77000.0,Manager (Manager/Supervisor of Staff)
+1104,Cincinnati,110000.0,Manufacturing/Production/Operations
+1105,Dayton,95000.0,Experienced (Non-Manager)
+1106,Louisville,38500.0,Experienced (Non-Manager)
+1107,Aberdeen,47500.0,Manager (Manager/Supervisor of Staff)
+1108,Atlanta,80000.0,IT/Software Development
+1109,Madison,62500.0,Experienced (Non-Manager)
+1110,Saint Louis,85000.0,Experienced (Non-Manager)
+1111,Milwaukee,55000.0,Experienced (Non-Manager)
+1112,Madison,83500.0,Experienced (Non-Manager)
+1113,Schiller Park,41000.0,Experienced (Non-Manager)
+1114,Washington,40000.0,Quality Assurance/Safety
+1115,Hazel Crest,85000.0,Experienced (Non-Manager)
+1116,Dallas,97500.0,Quality Assurance/Safety
+1117,Sylacauga,87500.0,Manager (Manager/Supervisor of Staff)
+1118,Lansing,125000.0,Experienced (Non-Manager)
+1119,Auburn,72500.0,Project/Program Management
+1120,Charleroi,85000.0,Quality Assurance/Safety
+1121,Sr Quality Engineer,104500.0,Quality Assurance/Safety
+1122,Austin,36500.0,Experienced (Non-Manager)
+1123,Austin,112500.0,Manager (Manager/Supervisor of Staff)
+1124,San Diego,28500.0,Accounting/Finance/Insurance
+1125,San Diego,55000.0,Accounting/Finance/Insurance
+1126,San Diego,70000.0,Accounting/Finance/Insurance
+1127,San Diego,27500.0,Accounting/Finance/Insurance
+1128,Peoria,70000.0,Sales/Retail/Business Development
+1129,Fort Bragg,250000.0,Medical/Health
+1130,Bloomington,70000.0,Sales/Retail/Business Development
+1131,Parkersburg,70000.0,Sales/Retail/Business Development
+1132,Hagerstown,70000.0,Sales/Retail/Business Development
+1133,San Diego,125000.0,Experienced (Non-Manager)
+1134,Lancaster,70000.0,Sales/Retail/Business Development
+1135,Jackson,70000.0,Sales/Retail/Business Development
+1136,Macon,70000.0,Sales/Retail/Business Development
+1137,Fort Wayne,70000.0,Sales/Retail/Business Development
+1138,Peoria,70000.0,Sales/Retail/Business Development
+1139,Lancaster,70000.0,Sales/Retail/Business Development
+1140,Macon,70000.0,Sales/Retail/Business Development
+1141,Jackson,70000.0,Sales/Retail/Business Development
+1142,Hagerstown,70000.0,Sales/Retail/Business Development
+1143,Bloomington,70000.0,Sales/Retail/Business Development
+1144,Saint Louis,70000.0,Sales/Retail/Business Development
+1145,Saint Louis,70000.0,Sales/Retail/Business Development
+1146,Milwaukee,35000.0,Customer Support/Client Care
+1147,San Antonio,70000.0,Sales/Retail/Business Development
+1148,San Antonio,90000.0,Manager (Manager/Supervisor of Staff)
+1149,San Antonio,87500.0,Medical/Health
+1150,San Diego,70000.0,Experienced (Non-Manager)
+1151,San Diego,65000.0,Accounting/Finance/Insurance
+1152,Louisville,70000.0,Sales/Retail/Business Development
+1153,Indianapolis,28655.0,Customer Support/Client Care
+1154,Beaumont,57782.399999999994,Customer Support/Client Care
+1155,Columbus,48500.0,Manager (Manager/Supervisor of Staff)
+1156,DallasTX,250000.0,Accounting/Finance/Insurance
+1157,DallasTX,22500.0,Accounting/Finance/Insurance
+1158,Charlotte,21500.0,Entry Level
+1159,Boston,92500.0,Accounting/Finance/Insurance
+1160,Chelmsford,82500.0,Experienced (Non-Manager)
+1161,Woonsocket,75000.0,Experienced (Non-Manager)
+1162,Boston,57500.0,Experienced (Non-Manager)
+1163,Fort Lauderdale,60000.0,Accounting/Finance/Insurance
+1164,Knoxville,70000.0,Sales/Retail/Business Development
+1165,Champaign,70000.0,Sales/Retail/Business Development
+1166,San Francisco,50000.0,Administrative/Clerical
+1167,San Francisco,55000.0,Accounting/Finance/Insurance
+1168,Oconomowoc,67500.0,Human Resources
+1169,Houston,95000.0,Experienced (Non-Manager)
+1170,San Francisco,60000.0,Accounting/Finance/Insurance
+1171,Indianapolis,92500.0,Experienced (Non-Manager)
+1172,SVP Mobile Advertising Sales,125000.0,Sales/Retail/Business Development
+1173,San Francisco,130000.0,Business/Strategic Management
+1174,San Francisco,125000.0,Sales/Retail/Business Development
+1175,Reading,109000.0,Manager (Manager/Supervisor of Staff)
+1176,Lawrence,80000.0,Experienced (Non-Manager)
+1177,Warren,150000.0,Biotech/R&D/Science
+1178,Portsmouth,72500.0,Biotech/R&D/Science
+1179,Westwood,150000.0,Biotech/R&D/Science
+1180,Scientist - Tech Services,70000.0,Biotech/R&D/Science
+1181,Warren,150000.0,Biotech/R&D/Science
+1182,Eden Prairie,79500.0,Experienced (Non-Manager)
+1183,Pflugerville,72500.0,Experienced (Non-Manager)
+1184,Nashville,70000.0,Human Resources
+1185,Philadelphia,55000.0,Experienced (Non-Manager)
+1186,New York City,65000.0,Experienced (Non-Manager)
+1187,Bridgewater,110000.0,Human Resources
+1188,Arlington,40000.0,Experienced (Non-Manager)
+1189,Folsom,57500.0,Experienced (Non-Manager)
+1190,Cleveland,85000.0,Experienced (Non-Manager)
+1191,Jamison 18929,95000.0,Legal
+1192,Reading,27500.0,Legal
+1193,BostonMA,45000.0,Human Resources
+1194,Salt Lake City,80000.0,Experienced (Non-Manager)
+1195,Boston,76500.0,Legal
+1196,Manhattan,47500.0,Experienced (Non-Manager)
+1197,Boston,80000.0,Legal
+1198,Knoxville,95000.0,Experienced (Non-Manager)
+1199,BostonMA,22500.0,Administrative/Clerical
+1200,AngularJS Developer Location: Chicago,115000.0,IT/Software Development
+1201,Chicago,82500.0,Sales/Retail/Business Development
+1202,Chicago,105000.0,Experienced (Non-Manager)
+1203,Chicago,76000.0,Desktop Service and Support
+1204,Chicago,82500.0,Sales/Retail/Business Development
+1205,Cicero,32500.0,Sales/Retail/Business Development
+1206,Cincinnati,70000.0,Insurance Agent/BrokerGeneral/Other: Sales/Business DevelopmentFinancial Products Sales/Brokerage
+1207,Cincinnati,90000.0,IT/Software Development
+1208,Cincinnati,110000.0,Sales/Retail/Business Development
+1209,Cincinnati,70000.0,Sales/Retail/Business Development
+1210,Cincinnati,60000.0,Engineering
+1211,Cincinnati,102500.0,Project/Program Management
+1212,Cincinnati,85000.0,IT/Software Development
+1213,Cincinnati,112500.0,Experienced (Non-Manager)
+1214,Cincinnati,77500.0,IT/Software Development
+1215,Cincinnati,75000.0,Insurance Agent/BrokerGeneral/Other: Sales/Business DevelopmentFinancial Products Sales/Brokerage
+1216,Cincinnati,57500.0,Engineering
+1217,Cincinnati,70000.0,Insurance Agent/BrokerGeneral/Other: Sales/Business DevelopmentFinancial Products Sales/Brokerage
+1218,Indianapolis,70000.0,Sales/Retail/Business Development
+1219,Dallas,97500.0,Marketing/Product
+1220,Charlotte,92500.0,Engineering
+1221,Washington,95042.5,Manager (Manager/Supervisor of Staff)
+1222,Terre Haute,28250.0,Manager (Manager/Supervisor of Staff)
+1223,Menomonee Falls,115000.0,Quality Assurance/Safety
+1224,Cleveland,72500.0,Experienced (Non-Manager)
+1225,Albion,56000.0,Project/Program Management
+1226,Athens,50000.0,Entry Level
+1227,Portland,70000.0,Entry Level
+1228,Philadelphia,60000.0,Experienced (Non-Manager)
+1229,Lansdale,82500.0,Experienced (Non-Manager)
+1230,Springville,65000.0,Experienced (Non-Manager)
+1231,San Diego,77500.0,Manager (Manager/Supervisor of Staff)
+1232,Richardson,110000.0,Project/Program Management
+1233,Worcester,45000.0,Experienced (Non-Manager)
+1234,Charleston,37500.0,Experienced (Non-Manager)
+1235,Warren,85000.0,Manager (Manager/Supervisor of Staff)
+1236,Redding,80000.0,Project/Program Management
+1237,Justin,67500.0,Manager (Manager/Supervisor of Staff)
+1238,Grand Rapids,57500.0,Experienced (Non-Manager)
+1239,Multiple locations,87500.0,Experienced (Non-Manager)
+1240,Woodbridge,85000.0,"Executive (SVP, VP, Department Head, etc)"
+1241,Gainesville,60000.0,Experienced (Non-Manager)
+1242,Detroit,130000.0,Experienced (Non-Manager)
+1243,Los Angeles,115000.0,Manager (Manager/Supervisor of Staff)
+1244,Fort Dodge,36000.0,Experienced (Non-Manager)
+1245,Shawnee Mission,65000.0,Quality Assurance/Safety
+1246,Somerville,75000.0,Manager (Manager/Supervisor of Staff)
+1247,Santa Ana,50000.0,Manager (Manager/Supervisor of Staff)
+1248,Philadelphia,102500.0,Manager (Manager/Supervisor of Staff)
+1249,Birmingham,110000.0,Quality Assurance/Safety
+1250,Hopkins,42500.0,Experienced (Non-Manager)
+1251,Clearwater,40000.0,Manager (Manager/Supervisor of Staff)
+1252,Rockfield,90000.0,Manager (Manager/Supervisor of Staff)
+1253,Charlotte,62500.0,Project/Program Management
+1254,Clearwater,90459.0,Manager (Manager/Supervisor of Staff)
+1255,Helena,55000.0,"Executive (SVP, VP, Department Head, etc)"
+1256,New Castle,55000.0,Manager (Manager/Supervisor of Staff)
+1257,Lake Charles,95000.0,Experienced (Non-Manager)
+1258,Helena,55000.0,"Executive (SVP, VP, Department Head, etc)"
+1259,Spencer,75000.0,Manager (Manager/Supervisor of Staff)
+1260,Fort Mill,70000.0,IT Project ManagementGeneral/Other: Project/Program ManagementProject Management
+1261,Thief River Falls,52500.0,Entry Level
+1262,Kearny,32500.0,Entry Level
+1263,Jackson,81000.0,Experienced (Non-Manager)
+1264,Anaheim,90000.0,Experienced (Non-Manager)
+1265,Milford,100000.0,Experienced (Non-Manager)
+1266,Billingsport,100000.0,Manager (Manager/Supervisor of Staff)
+1267,Macedonia,62500.0,Manager (Manager/Supervisor of Staff)
+1268,Cambridge,65000.0,Experienced (Non-Manager)
+1269,Chicago,100000.0,Experienced (Non-Manager)
+1270,Louisville,80000.0,Manager (Manager/Supervisor of Staff)
+1271,Seattle,50000.0,Experienced (Non-Manager)
+1272,Tuscaloosa,102500.0,Manager (Manager/Supervisor of Staff)
+1273,Pompano Beach,50000.0,Manager (Manager/Supervisor of Staff)
+1274,Mira Loma,65000.0,Experienced (Non-Manager)
+1275,Murray,65000.0,Manager (Manager/Supervisor of Staff)
+1276,Fort Myers,52500.0,Manager (Manager/Supervisor of Staff)
+1277,Savannah,90000.0,Manager (Manager/Supervisor of Staff)
+1278,Harahan,100000.0,Project/Program Management
+1279,Travelers Rest,91900.0,Experienced (Non-Manager)
+1280,Little Falls,57500.0,Experienced (Non-Manager)
+1281,Dayton,47500.0,Experienced (Non-Manager)
+1282,Saint Joseph,77500.0,Manager (Manager/Supervisor of Staff)
+1283,Henderson,37500.0,Experienced (Non-Manager)
+1284,Naperville,90000.0,Experienced (Non-Manager)
+1285,Kansas City,65000.0,Quality Assurance/Safety
+1286,Dallas,110000.0,Project/Program Management
+1287,Charlottesville,21250.0,Entry Level
+1288,Helena,55000.0,"Executive (SVP, VP, Department Head, etc)"
+1289,Boston,180000.0,Project/Program Management
+1290,Bethlehem,77500.0,Manager (Manager/Supervisor of Staff)
+1291,Mount Laurel,195000.0,Experienced (Non-Manager)
+1292,Paramount,75000.0,Manager (Manager/Supervisor of Staff)
+1293,Robersonville,67500.0,Manager (Manager/Supervisor of Staff)
+1294,Blacklick,52500.0,Manager (Manager/Supervisor of Staff)
+1295,Chicago,95000.0,"Executive (SVP, VP, Department Head, etc)"
+1296,Midland,80000.0,Experienced (Non-Manager)
+1297,Iowa City,74000.0,Experienced (Non-Manager)
+1298,Plainfield,52500.0,Experienced (Non-Manager)
+1299,Portsmouth,57500.0,Biotech/R&D/Science
+1300,Rockville,66500.0,Experienced (Non-Manager)
+1301,Plainfield,65000.0,Manager (Manager/Supervisor of Staff)
+1302,Saint George,67500.0,"Executive (SVP, VP, Department Head, etc)"
+1303,New Berlin,75000.0,Experienced (Non-Manager)
+1304,Dover Annex,30000.0,Experienced (Non-Manager)
+1305,Wilson,110000.0,Manager (Manager/Supervisor of Staff)
+1306,Los Angeles,37500.0,Manager (Manager/Supervisor of Staff)
+1307,Chattanooga,117500.0,Quality Assurance/Safety
+1308,Holland,62500.0,Experienced (Non-Manager)
+1309,Doylestown,50000.0,Entry Level
+1310,Waltham,92500.0,Experienced (Non-Manager)
+1311,Northbrook,267500.0,"Executive (SVP, VP, Department Head, etc)"
+1312,Jacksonville,36500.0,Software Quality Assurance
+1313,Bethlehem,41000.0,Entry Level
+1314,Multiple locations,80000.0,Experienced (Non-Manager)
+1315,Rochester,92500.0,Experienced (Non-Manager)
+1316,Toppenish,41500.0,Entry Level
+1317,Chillicothe,71000.0,Quality Assurance/Safety
+1318,Bowling Green,65000.0,Experienced (Non-Manager)
+1319,Salt Lake City,100000.0,Experienced (Non-Manager)
+1320,Morris Plains,42500.0,Experienced (Non-Manager)
+1321,Cleveland,75000.0,Experienced (Non-Manager)
+1322,Charleston,69000.0,Quality Assurance/Safety
+1323,Multiple locations,75000.0,Manager (Manager/Supervisor of Staff)
+1324,Boulder,70000.0,Manager (Manager/Supervisor of Staff)
+1325,Fremont,100000.0,Experienced (Non-Manager)
+1326,Murfreesboro,37500.0,Manager (Manager/Supervisor of Staff)
+1327,Duncanville,50000.0,Experienced (Non-Manager)
+1328,Macon,87500.0,Quality Assurance/Safety
+1329,Hauppauge,85000.0,Manager (Manager/Supervisor of Staff)
+1330,Indianapolis,85000.0,Experienced (Non-Manager)
+1331,Danville,70000.0,Experienced (Non-Manager)
+1332,Shawnee Mission,113800.0,Experienced (Non-Manager)
+1333,Boston,152500.0,Manager (Manager/Supervisor of Staff)
+1334,Bedford,60000.0,Manager (Manager/Supervisor of Staff)
+1335,West Mclean,70000.0,Manager (Manager/Supervisor of Staff)
+1336,Los Angeles,65000.0,Accounting/Finance/Insurance
+1337,Saddle Brook,60000.0,Accounting/Finance/Insurance
+1338,Atlanta,52500.0,Experienced (Non-Manager)
+1339,Somerset,32500.0,Logistics/Transportation
+1340,AtlantaGA,60000.0,Legal
+1341,Atlanta,100000.0,Experienced (Non-Manager)
+1342,Atlanta,82500.0,Sales/Retail/Business Development
+1343,AtlantaGA,102500.0,Accounting/Finance/Insurance
+1344,Atlanta,82500.0,Sales/Retail/Business Development
+1345,GHA Technologies,90000.0,Sales/Retail/Business Development
+1346,ViningsGA,56000.0,Legal
+1347,Atlanta,112500.0,Experienced (Non-Manager)
+1348,Boston,100000.0,Accounting/Finance/Insurance
+1349,Wellesley Hills,47500.0,Accounting/Finance/Insurance
+1350,Boston,70000.0,Experienced (Non-Manager)
+1351,Charlotte,21500.0,Entry Level
+1352,San Francisco,121000.0,Accounting/Finance/Insurance
+1353,Boston,55000.0,Accounting/Finance/Insurance
+1354,Pocomoke City,47500.0,Manager (Manager/Supervisor of Staff)
+1355,Cambridge,47500.0,Manager (Manager/Supervisor of Staff)
+1356,Houston,100000.0,Accounting/Finance/Insurance
+1357,Boston,90000.0,Experienced (Non-Manager)
+1358,Fort Wayne,42000.0,Entry Level
+1359,Chattanooga,90000.0,Quality Assurance/Safety
+1360,Bonita Springs,42500.0,Experienced (Non-Manager)
+1361,Richland,115569.0,Biotech/R&D/Science
+1362,Houston,120000.0,Building Construction/Skilled Trades
+1363,Tampa,45000.0,Manager (Manager/Supervisor of Staff)
+1364,Chicago,102500.0,Manager (Manager/Supervisor of Staff)
+1365,Springfield,38000.0,Manager (Manager/Supervisor of Staff)
+1366,Port Aransas,46500.0,Manager (Manager/Supervisor of Staff)
+1367,Middleboro,27000.0,Manager (Manager/Supervisor of Staff)
+1368,Aurora,42500.0,"Executive (SVP, VP, Department Head, etc)"
+1369,Charlotte,482500.0,Manager (Manager/Supervisor of Staff)
+1370,Denver,82500.0,Student (High School)
+1371,Houston,35000.0,Manager (Manager/Supervisor of Staff)
+1372,King Of Prussia,68000.0,Manager (Manager/Supervisor of Staff)
+1373,Sarasota,48000.0,Manager (Manager/Supervisor of Staff)
+1374,Cleveland,38500.0,Manager (Manager/Supervisor of Staff)
+1375,Saint Louis,37500.0,Experienced (Non-Manager)
+1376,Houston,52500.0,Manager (Manager/Supervisor of Staff)
+1377,Roseville,67500.0,Food Services/Hospitality
+1378,Wynnewood,50000.0,Food Services/Hospitality
+1379,Springfield,38000.0,Manager (Manager/Supervisor of Staff)
+1380,Hilton Head Island,62500.0,Manager (Manager/Supervisor of Staff)
+1381,Newport News,55000.0,Manager (Manager/Supervisor of Staff)
+1382,Los Angeles,52500.0,Food Services/Hospitality
+1383,Pittsburgh,70000.0,Manager (Manager/Supervisor of Staff)
+1384,Pompano Beach,53500.0,Food Services/Hospitality
+1385,Erie,62500.0,Manager (Manager/Supervisor of Staff)
+1386,Arkansas City,40000.0,Food Services/Hospitality
+1387,Charlotte,482500.0,Manager (Manager/Supervisor of Staff)
+1388,York,41500.0,Manager (Manager/Supervisor of Staff)
+1389,Ozark,37500.0,Manager (Manager/Supervisor of Staff)
+1390,Hyannis,52500.0,Food Services/Hospitality
+1391,Sarasota,47500.0,Manager (Manager/Supervisor of Staff)
+1392,Washington,60000.0,Manager (Manager/Supervisor of Staff)
+1393,Memphis,35500.0,Manager (Manager/Supervisor of Staff)
+1394,Los Angeles,72500.0,Manager (Manager/Supervisor of Staff)
+1395,Warwick,95000.0,Manager (Manager/Supervisor of Staff)
+1396,Newton Lower Falls,120000.0,Manager (Manager/Supervisor of Staff)
+1397,Centerville,50000.0,Quality Assurance/Safety
+1398,4079SMA Program Manager Location: Columbus,92500.0,Project/Program Management
+1399,Baltimore,67500.0,IT/Software Development
+1400,Charlotte,80000.0,Installation/Maintenance/Repair
+1401,Dayton,57500.0,Manufacturing/Production/Operations
+1402,Irving,32500.0,Manufacturing/Production/Operations
+1403,Colonial Heights,55000.0,Manufacturing/Production/Operations
+1404,York,57500.0,Manufacturing/Production/Operations
+1405,Production Leader - Supervisor,70000.0,Manufacturing/Production/Operations
+1406,Paramus,82500.0,Manufacturing/Production/Operations
+1407,Dallas,32500.0,Manufacturing/Production/Operations
+1408,Fort Pierce,60000.0,Manager (Manager/Supervisor of Staff)
+1409,Newton,85000.0,Experienced (Non-Manager)
+1410,Waltham,65000.0,Experienced (Non-Manager)
+1411,Framingham,72500.0,Experienced (Non-Manager)
+1412,BostonMA,25000.0,Administrative/Clerical
+1413,Braintree,70000.0,Accounting/Finance/Insurance
+1414,Natick,55000.0,Manager (Manager/Supervisor of Staff)
+1415,Newton,85000.0,Experienced (Non-Manager)
+1416,Boston,62500.0,Experienced (Non-Manager)
+1417,Reading,137500.0,Manager (Manager/Supervisor of Staff)
+1418,Peabody,122500.0,Manager (Manager/Supervisor of Staff)
+1419,Boston,52500.0,Accounting/Finance/Insurance
+1420,Peabody,62500.0,Experienced (Non-Manager)
+1421,Watertown,52500.0,Experienced (Non-Manager)
+1422,Boston,55000.0,Accounting/Finance/Insurance
+1423,Waltham,102500.0,Experienced (Non-Manager)
+1424,Lexington,62500.0,Accounting/Finance/Insurance
+1425,Boston,95000.0,Experienced (Non-Manager)
+1426,Braintree,72500.0,Experienced (Non-Manager)
+1427,Needham,120000.0,Manager (Manager/Supervisor of Staff)
+1428,BostonMA,57500.0,Accounting/Finance/Insurance
+1429,Framingham,72500.0,Experienced (Non-Manager)
+1430,Malden,80000.0,Manager (Manager/Supervisor of Staff)
+1431,Beverly,60000.0,Experienced (Non-Manager)
+1432,Boston,125000.0,Experienced (Non-Manager)
+1433,Chicago,87500.0,Building Construction/Skilled Trades
+1434,Chicago,90000.0,Building Construction/Skilled Trades
+1435,Cincinnati,75000.0,Manager (Manager/Supervisor of Staff)
+1436,Cincinnati,37500.0,Sales/Retail/Business Development
+1437,Cincinnati,35360.0,Experienced (Non-Manager)
+1438,Arlington,65000.0,Experienced (Non-Manager)
+1439,Wellesley,140000.0,Accounting/Finance/Insurance
+1440,Charlestown,87500.0,Experienced (Non-Manager)
+1441,Waltham,112500.0,Manager (Manager/Supervisor of Staff)
+1442,Providence,95000.0,Manager (Manager/Supervisor of Staff)
+1443,Boca Raton,55000.0,Accounting/Finance/Insurance
+1444,Columbus,42500.0,Accounting/Finance/Insurance
+1445,Accounts Payable CoordinatorResponsible for coordination of Accounts Payable activities along with other members of the Accounts Payable team.  Responsible for timely and accurate recording and processing of Accounts Payable invoices and payments. RESPONSIBILITIES-Process incoming invoices and other requests for payment-Secure necessary documentation,37500.0,Experienced (Non-Manager)
+1446,Attleboro,77500.0,Experienced (Non-Manager)
+1447,Lowell,152500.0,Accounting/Finance/Insurance
+1448,Chicago,130000.0,Accounting/Finance/Insurance
+1449,Mahwah,90000.0,Accounting/Finance/Insurance
+1450,Needham,80000.0,Accounting/Finance/Insurance
+1451,Miami,45000.0,Experienced (Non-Manager)
+1452,Bethesda,75000.0,Experienced (Non-Manager)
+1453,Cambridge,57500.0,Accounting/Finance/Insurance
+1454,Cambridge,150000.0,Accounting/Finance/Insurance
+1455,Miami,45000.0,Experienced (Non-Manager)
+1456,Roxbury,38500.0,Experienced (Non-Manager)
+1457,Lowell,77500.0,Experienced (Non-Manager)
+1458,Saint Petersburg,52500.0,Experienced (Non-Manager)
+1459,San Antonio,70000.0,Manager (Manager/Supervisor of Staff)
+1460,Newton,72500.0,Experienced (Non-Manager)
+1461,South Miami,46000.0,Experienced (Non-Manager)
+1462,Washington,70000.0,Experienced (Non-Manager)
+1463,Grand Rapids,34500.0,Entry Level
+1464,Alexandria,90000.0,Manager (Manager/Supervisor of Staff)
+1465,Akron,55919.5,Experienced (Non-Manager)
+1466,Reston,92500.0,Experienced (Non-Manager)
+1467,Boston,53500.0,Accounting/Finance/Insurance
+1468,Alexandria,95000.0,Experienced (Non-Manager)
+1469,Arlington,95000.0,Experienced (Non-Manager)
+1470,Boston,55000.0,Accounting/Finance/Insurance
+1471,Cambridge,53500.0,Experienced (Non-Manager)
+1472,Needham,72500.0,Experienced (Non-Manager)
+1473,Irving,95000.0,Accounting/Finance/Insurance
+1474,Kansas City,62500.0,Accounting/Finance/Insurance
+1475,Irving,95000.0,Accounting/Finance/Insurance
+1476,Irving,65000.0,Accounting/Finance/Insurance
+1477,Dallas,100000.0,Marketing/Product
+1478,Dallas,67500.0,Accounting/Finance/Insurance
+1479,Pompano Beach,75000.0,IT/Software Development
+1480,Sarasota,82500.0,Experienced (Non-Manager)
+1481,Austin,100000.0,IT/Software Development
+1482,Houston,42500.0,Sales/Retail/Business Development
+1483,Sacramento,50000.0,Project/Program Management
+1484,Bloomington,70000.0,Sales/Retail/Business Development
+1485,Raleigh,70000.0,Sales/Retail/Business Development
+1486,Dallas,95000.0,Manager (Manager/Supervisor of Staff)
+1487,Anniston,70000.0,Sales/Retail/Business Development
+1488,Chapel Hill,70000.0,Sales/Retail/Business Development
+1489,Chattanooga,70000.0,Sales/Retail/Business Development
+1490,Terre Haute,70000.0,Sales/Retail/Business Development
+1491,Birmingham,70000.0,Sales/Retail/Business Development
+1492,Richmond,70000.0,Sales/Retail/Business Development
+1493,Anniston,70000.0,Sales/Retail/Business Development
+1494,Jackson,70000.0,Sales/Retail/Business Development
+1495,Madison,70000.0,Sales/Retail/Business Development
+1496,Raleigh,70000.0,Sales/Retail/Business Development
+1497,Birmingham,70000.0,Sales/Retail/Business Development
+1498,Jackson,70000.0,Sales/Retail/Business Development
+1499,Richmond,70000.0,Sales/Retail/Business Development
+1500,Chattanooga,70000.0,Sales/Retail/Business Development
+1501,Chapel Hill,70000.0,Sales/Retail/Business Development
+1502,Dallas,80000.0,Accounting/Finance/Insurance
+1503,Dallas,62500.0,Legal
+1504,Dallas,23500.0,Accounting/Finance/Insurance
+1505,Dallas,70000.0,Accounting/Finance/Insurance
+1506,Dallas,100000.0,Systems Analysis - IT
+1507,Dallas,60000.0,Manager (Manager/Supervisor of Staff)
+1508,Dallas,150000.0,Experienced (Non-Manager)
+1509,Dallas,70000.0,Experienced (Non-Manager)
+1510,Dallas,55000.0,Accounting/Finance/Insurance
+1511,Irving,42500.0,Accounting/Finance/Insurance
+1512,Dallas,67500.0,Manager (Manager/Supervisor of Staff)
+1513,Dallas,45000.0,Experienced (Non-Manager)
+1514,Reynoldsburg,65000.0,Experienced (Non-Manager)
+1515,Dallas,70000.0,Accounting/Finance/Insurance
+1516,Dallas,55000.0,Entry Level
+1517,Dallas,70000.0,Experienced (Non-Manager)
+1518,Dallas,44000.0,Experienced (Non-Manager)
+1519,Dallas,60000.0,Accounting/Finance/Insurance
+1520,Dallas,77500.0,Accounting/Finance/Insurance
+1521,Dallas,67500.0,Accounting/Finance/Insurance
+1522,Dallas,50000.0,Entry Level
+1523,Dallas,35000.0,Experienced (Non-Manager)
+1524,Dallas,60000.0,Accounting/Finance/Insurance
+1525,Dallas,110000.0,Sales/Retail/Business Development
+1526,Dallas,85000.0,Manager (Manager/Supervisor of Staff)
+1527,Dallas,67500.0,Accounting/Finance/Insurance
+1528,Dallas,45000.0,Experienced (Non-Manager)
+1529,Dallas,50000.0,Experienced (Non-Manager)
+1530,Dallas,50000.0,Manager (Manager/Supervisor of Staff)
+1531,Dallas,100000.0,IT/Software Development
+1532,Dallas,92500.0,Experienced (Non-Manager)
+1533,DallasTX,65000.0,Accounting/Finance/Insurance
+1534,Dallas,115000.0,Experienced (Non-Manager)
+1535,Dallas,100000.0,Experienced (Non-Manager)
+1536,Dallas,82500.0,Accounting/Finance/Insurance
+1537,Dallas,70000.0,Accounting/Finance/Insurance
+1538,Dallas,62500.0,Accounting/Finance/Insurance
+1539,Dallas,67500.0,Manager (Manager/Supervisor of Staff)
+1540,Dallas,65000.0,Manager (Manager/Supervisor of Staff)
+1541,Dallas,70000.0,Accounting/Finance/Insurance
+1542,Dallas,82500.0,Accounting/Finance/Insurance
+1543,Dallas,75000.0,Manager (Manager/Supervisor of Staff)
+1544,Dallas,102500.0,Experienced (Non-Manager)
+1545,Irving,140500.0,Sales/Retail/Business Development
+1546,Dallas,80000.0,Accounting/Finance/Insurance
+1547,Randstad Professional is currently hiring an Advertising Sales Representative in the Columbus,55000.0,Sales/Retail/Business Development
+1548,Dallas,70000.0,Insurance Agent/BrokerGeneral/Other: Sales/Business DevelopmentFinancial Products Sales/Brokerage
+1549,Dallas,80000.0,Accounting/Finance/Insurance
+1550,Dallas,57500.0,Accounting/Finance/Insurance
+1551,Dallas,60000.0,Accounting/Finance/Insurance
+1552,Dallas,85000.0,Experienced (Non-Manager)
+1553,Dallas,110000.0,Manager (Manager/Supervisor of Staff)
+1554,Dallas,52500.0,Accounting/Finance/Insurance
+1555,Dallas,37500.0,Entry Level
+1556,Dallas,102500.0,Manager (Manager/Supervisor of Staff)
+1557,Dallas,62500.0,Accounting/Finance/Insurance
+1558,Dallas,57500.0,Accounting/Finance/Insurance
+1559,Dallas,90000.0,Accounting/Finance/Insurance
+1560,Columbus,42500.0,Entry Level
+1561,Dallas,70000.0,Accounting/Finance/Insurance
+1562,Columbus,40500.0,Experienced (Non-Manager)
+1563,Dallas,95000.0,Experienced (Non-Manager)
+1564,Dallas,45000.0,Business/Strategic Management
+1565,Dallas,65000.0,Manager (Manager/Supervisor of Staff)
+1566,Dallas,50000.0,Entry Level
+1567,Dallas,95000.0,Accounting/Finance/Insurance
+1568,Dallas,62500.0,Manager (Manager/Supervisor of Staff)
+1569,Dallas,67500.0,Accounting/Finance/Insurance
+1570,Dallas,65000.0,Accounting/Finance/Insurance
+1571,Irving,42500.0,Accounting/Finance/Insurance
+1572,Dallas,45000.0,Experienced (Non-Manager)
+1573,Dallas,45500.0,Food Services/Hospitality
+1574,Dallas,85000.0,Accounting/Finance/Insurance
+1575,Dallas,80000.0,Accounting/Finance/Insurance
+1576,Dallas,77500.0,Experienced (Non-Manager)
+1577,Dallas,42500.0,Experienced (Non-Manager)
+1578,Dallas,95000.0,Experienced (Non-Manager)
+1579,Dallas,80000.0,Accounting/Finance/Insurance
+1580,Dallas,70000.0,Accounting/Finance/Insurance
+1581,Dallas,107500.0,IT/Software Development
+1582,Dallas,67500.0,Manager (Manager/Supervisor of Staff)
+1583,Dallas,75000.0,Experienced (Non-Manager)
+1584,Dallas,37500.0,Experienced (Non-Manager)
+1585,Dallas,90000.0,Experienced (Non-Manager)
+1586,Dallas,75000.0,Accounting/Finance/Insurance
+1587,Dallas,37500.0,Experienced (Non-Manager)
+1588,Dallas,107500.0,Medical/Health
+1589,Dallas,45000.0,Sales/Retail/Business Development
+1590,Dallas,40000.0,Experienced (Non-Manager)
+1591,Columbus,40000.0,Entry Level
+1592,Dallas,48000.0,Experienced (Non-Manager)
+1593,Dallas,34140.0,Manager (Manager/Supervisor of Staff)
+1594,Dallas,82500.0,Manager (Manager/Supervisor of Staff)
+1595,Dallas,32500.0,Accounting/Finance/Insurance
+1596,Dallas,70000.0,Experienced (Non-Manager)
+1597,Irving,75000.0,Experienced (Non-Manager)
+1598,Dallas,60000.0,Experienced (Non-Manager)
+1599,IrvingTX,42500.0,Accounting/Finance/Insurance
+1600,Irving,77500.0,Experienced (Non-Manager)
+1601,Dallas,67500.0,Accounting/Finance/Insurance
+1602,Dallas,50000.0,Entry Level
+1603,Dallas,62500.0,Experienced (Non-Manager)
+1604,Dallas,55000.0,Accounting/Finance/Insurance
+1605,DallasTX,85000.0,Human Resources
+1606,Dallas,45000.0,Business/Strategic Management
+1607,Dallas,40000.0,Experienced (Non-Manager)
+1608,Dallas,38200.0,Sales/Retail/Business Development
+1609,Columbus,40000.0,Entry Level
+1610,Plastic Extrusion Shift Manager – Flexible Packaging -- Direct Hire with benefits and relocation  -- Your information will be held highly confidential – apply with confidence.  Location: East Dallas,61000.0,Manufacturing/Production/Operations
+1611,Dallas,80000.0,Accounting/Finance/Insurance
+1612,DallasTX,47500.0,Accounting/Finance/Insurance
+1613,Dallas,84750.0,Experienced (Non-Manager)
+1614,Dallas,57500.0,Accounting/Finance/Insurance
+1615,Dallas,55000.0,Accounting/Finance/Insurance
+1616,Dallas,35000.0,Entry Level
+1617,Dallas,72500.0,Experienced (Non-Manager)
+1618,Dallas,65000.0,Accounting/Finance/Insurance
+1619,Dallas,82500.0,General/Other: Accounting/Finance
+1620,Dallas,92500.0,Accounting/Finance/Insurance
+1621,Dallas,70000.0,Experienced (Non-Manager)
+1622,Dallas,110000.0,IT/Software Development
+1623,Dallas,67500.0,Accounting/Finance/Insurance
+1624,Dallas,120000.0,IT/Software Development
+1625,Dallas,57500.0,Accounting/Finance/Insurance
+1626,Dallas,92500.0,Accounting/Finance/Insurance
+1627,Dallas,40000.0,Accounting/Finance/Insurance
+1628,Dallas,55000.0,Accounting/Finance/Insurance
+1629,Dallas,55000.0,Manager (Manager/Supervisor of Staff)
+1630,Dallas,40000.0,Experienced (Non-Manager)
+1631,Dallas,107500.0,Accounting/Finance/Insurance
+1632,Dallas,85000.0,Experienced (Non-Manager)
+1633,Dallas,82500.0,Accounting/Finance/Insurance
+1634,Fountain City,65000.0,Insurance Agent/BrokerGeneral/Other: Sales/Business DevelopmentFinancial Products Sales/Brokerage
+1635,Knoxville,55000.0,Experienced (Non-Manager)
+1636,Knoxville,70000.0,Sales/Retail/Business Development
+1637,Lillington,95000.0,Manager (Manager/Supervisor of Staff)
+1638,Maple ShadeNJ,72500.0,Experienced (Non-Manager)
+1639,Plastics Quality Manager,122500.0,Quality Assurance/Safety
+1640,Philadelphia,75000.0,Experienced (Non-Manager)
+1641,Skokie,77500.0,Manager (Manager/Supervisor of Staff)
+1642,North Andover,65000.0,Food Services/Hospitality
+1643,West Allis,42500.0,Food Services/Hospitality
+1644,St. Joseph,110000.0,Manager (Manager/Supervisor of Staff)
+1645,Philadelphia,40000.0,Manager (Manager/Supervisor of Staff)
+1646,Jonesboro,53000.0,Manager (Manager/Supervisor of Staff)
+1647,Raleigh,55000.0,Manager (Manager/Supervisor of Staff)
+1648,Charlotte,50000.0,Manager (Manager/Supervisor of Staff)
+1649,Miami,107500.0,Manager (Manager/Supervisor of Staff)
+1650,San Antonio,52500.0,Manager (Manager/Supervisor of Staff)
+1651,Houston,125000.0,Medical/Health
+1652,New York,135000.0,Student (High School)
+1653,Tampa,48500.0,Manager (Manager/Supervisor of Staff)
+1654,Fishers,42500.0,Manager (Manager/Supervisor of Staff)
+1655,Oakland,125000.0,Manager (Manager/Supervisor of Staff)
+1656,Okoboji,55000.0,Manager (Manager/Supervisor of Staff)
+1657,Daytona,48000.0,Manager (Manager/Supervisor of Staff)
+1658,Springfield,37500.0,Manager (Manager/Supervisor of Staff)
+1659,Springfield,52500.0,Manager (Manager/Supervisor of Staff)
+1660,Baton Rouge,50000.0,Manager (Manager/Supervisor of Staff)
+1661,Pompano Beach,37500.0,Manager (Manager/Supervisor of Staff)
+1662,Baton Rouge,51500.0,Food Services/Hospitality
+1663,San Francisco,147500.0,Medical/Health
+1664,Twin Falls,125000.0,Experienced (Non-Manager)
+1665,Springfield,37500.0,Manager (Manager/Supervisor of Staff)
+1666,Mcknight,36000.0,Food Services/Hospitality
+1667,Chicago,80000.0,Experienced (Non-Manager)
+1668,Santa Monica,90000.0,Food Services/Hospitality
+1669,Monroe,60000.0,Manager (Manager/Supervisor of Staff)
+1670,Charlotte,46000.0,Manager (Manager/Supervisor of Staff)
+1671,Los Angeles,80000.0,Food Services/Hospitality
+1672,Denver,47500.0,Manager (Manager/Supervisor of Staff)
+1673,Springfield,52500.0,Manager (Manager/Supervisor of Staff)
+1674,Monroe,42000.0,Manager (Manager/Supervisor of Staff)
+1675,Los Angeles,72500.0,Manager (Manager/Supervisor of Staff)
+1676,Plymouth Meeting,50000.0,Food Services/Hospitality
+1677,Fort Lauderdale,46000.0,Food Services/Hospitality
+1678,Erie,62500.0,Manager (Manager/Supervisor of Staff)
+1679,Daytona Beach,87500.0,Medical/Health
+1680,Charlotte,57500.0,Manager (Manager/Supervisor of Staff)
+1681,Chicago,80000.0,Manager (Manager/Supervisor of Staff)
+1682,Job location not provided,57500.0,Manager (Manager/Supervisor of Staff)
+1683,Austin,47500.0,Manager (Manager/Supervisor of Staff)
+1684,Corpus Christi,52000.0,Medical/Health
+1685,Kingman,51500.0,Manager (Manager/Supervisor of Staff)
+1686,Appleton,42500.0,Food Services/Hospitality
+1687,Appleton,65000.0,Manager (Manager/Supervisor of Staff)
+1688,Clearwater,47500.0,Manager (Manager/Supervisor of Staff)
+1689,Charleston,40500.0,Manager (Manager/Supervisor of Staff)
+1690,San Francisco,73000.0,Experienced (Non-Manager)
+1691,Palo Alto,45000.0,Experienced (Non-Manager)
+1692,Fort Lauderdale,50000.0,Manager (Manager/Supervisor of Staff)
+1693,Sarasota,49500.0,Manager (Manager/Supervisor of Staff)
+1694,Chula Vista,27000.0,Manager (Manager/Supervisor of Staff)
+1695,Springfield,110000.0,Manager (Manager/Supervisor of Staff)
+1696,Destin,45000.0,Manager (Manager/Supervisor of Staff)
+1697,Ventura,52500.0,Manager (Manager/Supervisor of Staff)
+1698,Tampa,48000.0,Manager (Manager/Supervisor of Staff)
+1699,San Jose,74000.0,Experienced (Non-Manager)
+1700,Wichita,60000.0,Manager (Manager/Supervisor of Staff)
+1701,Dallas,65000.0,Manager (Manager/Supervisor of Staff)
+1702,Los Angeles,41500.0,Experienced (Non-Manager)
+1703,San Jose,52197.5,Experienced (Non-Manager)
+1704,Bradenton,51500.0,Manager (Manager/Supervisor of Staff)
+1705,Rosemont,33500.0,Manager (Manager/Supervisor of Staff)
+1706,Wichita,46000.0,Manager (Manager/Supervisor of Staff)
+1707,Kenosha,42500.0,Food Services/Hospitality
+1708,19063,38000.0,Manager (Manager/Supervisor of Staff)
+1709,Hagerstown,130154.79999999999,Experienced (Non-Manager)
+1710,Savannah,42500.0,Food Services/Hospitality
+1711,Olathe,55000.0,Manager (Manager/Supervisor of Staff)
+1712,Joplin,49500.0,Food Services/Hospitality
+1713,St. Louis,38000.0,Food Services/Hospitality
+1714,Jonesboro,110000.0,Manager (Manager/Supervisor of Staff)
+1715,Homestead,50000.0,Manager (Manager/Supervisor of Staff)
+1716,Newton,34000.0,Manager (Manager/Supervisor of Staff)
+1717,Chicago,85000.0,Manager (Manager/Supervisor of Staff)
+1718,Neenah,50500.0,Food Services/Hospitality
+1719,Orlando,45000.0,Manager (Manager/Supervisor of Staff)
+1720,Fentress,46000.0,Manager (Manager/Supervisor of Staff)
+1721,Vero Beach,57500.0,Manager (Manager/Supervisor of Staff)
+1722,Clearwater,42500.0,Manager (Manager/Supervisor of Staff)
+1723,Fond Du Lac,42500.0,Food Services/Hospitality
+1724,Onalaska,42500.0,Food Services/Hospitality
+1725,Port Aransas,32500.0,Manager (Manager/Supervisor of Staff)
+1726,Dayton,55000.0,Manager (Manager/Supervisor of Staff)
+1727,Morgan Hill,60220.0,Experienced (Non-Manager)
+1728,Jacksonville,45000.0,Manager (Manager/Supervisor of Staff)
+1729,Roscommon,37500.0,Manager (Manager/Supervisor of Staff)
+1730,Baton Rouge,47500.0,Food Services/Hospitality
+1731,San Francisco,52500.0,Manager (Manager/Supervisor of Staff)
+1732,Shreveport,45000.0,Food Services/Hospitality
+1733,Wauwatosa,42500.0,Food Services/Hospitality
+1734,Oxnard,45000.0,Manager (Manager/Supervisor of Staff)
+1735,Altoona,46500.0,Experienced (Non-Manager)
+1736,Port Aransas,34000.0,Manager (Manager/Supervisor of Staff)
+1737,Bluffton,45000.0,Manager (Manager/Supervisor of Staff)
+1738,Charlotte,46000.0,Manager (Manager/Supervisor of Staff)
+1739,Palo Alto,52500.0,Manager (Manager/Supervisor of Staff)
+1740,North Las Vegas,52500.0,Food Services/Hospitality
+1741,Palo Alto,41000.0,Experienced (Non-Manager)
+1742,Shreveport,52500.0,Manager (Manager/Supervisor of Staff)
+1743,Columbus,52500.0,Experienced (Non-Manager)
+1744,North Miami,57500.0,Manager (Manager/Supervisor of Staff)
+1745,Chelan,105500.0,Medical/Health
+1746,Springfield,37500.0,Manager (Manager/Supervisor of Staff)
+1747,Skokie,55000.0,Manager (Manager/Supervisor of Staff)
+1748,Liberal,35500.0,Experienced (Non-Manager)
+1749,Miami,52500.0,Manager (Manager/Supervisor of Staff)
+1750,Grand Rapids,64000.0,Entry Level
+1751,Cream Ridge,45000.0,Manager (Manager/Supervisor of Staff)
+1752,Neenah,42500.0,Food Services/Hospitality
+1753,Fort Wayne,45000.0,Manager (Manager/Supervisor of Staff)
+1754,Los Angeles,90000.0,Manager (Manager/Supervisor of Staff)
+1755,New York City,35000.0,Entry Level
+1756,South Pasadena,42500.0,Manager (Manager/Supervisor of Staff)
+1757,Hickory,57500.0,Experienced (Non-Manager)
+1758,Baton Rouge,47500.0,Manager (Manager/Supervisor of Staff)
+1759,Newport Beach,58500.0,Manager (Manager/Supervisor of Staff)
+1760,Mobile,47500.0,Food Services/Hospitality
+1761,Clearwater,45000.0,Experienced (Non-Manager)
+1762,Northampton,47500.0,Manager (Manager/Supervisor of Staff)
+1763,Los Angeles,41500.0,Experienced (Non-Manager)
+1764,Kent,40000.0,Manager (Manager/Supervisor of Staff)
+1765,Medway,47000.0,Student (Undergraduate/Graduate)
+1766,North Lancaster,28500.0,Medical/Health
+1767,Indianapolis,33524.5,Sales/Retail/Business Development
+1768,Houston,100000.0,Engineering
+1769,Houston,85000.0,Building Construction/Skilled Trades
+1770,Houston,125000.0,Building Construction/Skilled Trades
+1771,Houston,90000.0,Manager (Manager/Supervisor of Staff)
+1772,Houston,125000.0,Building Construction/Skilled Trades
+1773,Houston,67500.0,Building Construction/Skilled Trades
+1774,Houston,115000.0,Building Construction/Skilled Trades
+1775,Houston,125000.0,Accounting/Finance/Insurance
+1776,Houston,80000.0,Building Construction/Skilled Trades
+1777,Houston,125000.0,Accounting/Finance/Insurance
+1778,Houston,62500.0,Building Construction/Skilled Trades
+1779,Knoxville,80000.0,IT/Software Development
+1780,Houston,39000.0,Experienced (Non-Manager)
+1781,San Antonio,64000.0,Accounting/Finance/Insurance
+1782,Denver,42640.0,Accounting/Finance/Insurance
+1783,Conshohocken,42500.0,Sales/Retail/Business Development
+1784,Brooklyn,45000.0,Sales/Retail/Business Development
+1785,Houston,42500.0,Sales/Retail/Business Development
+1786,Boston,90000.0,Accounting/Finance/Insurance
+1787,Boston,180000.0,Experienced (Non-Manager)
+1788,Austin,50000.0,Sales/Retail/Business Development
+1789,Cambridge,135000.0,Accounting/Finance/Insurance
+1790,Austin,42500.0,Food Services/Hospitality
+1791,Boston,82500.0,Accounting/Finance/Insurance
+1792,Boston,37500.0,Food Services/Hospitality
+1793,BostonMA,35000.0,Administrative/Clerical
+1794,GHA Technologies,90000.0,Sales/Retail/Business Development
+1795,San Francisco,125000.0,Sales/Retail/Business Development
+1796,Bloomington,70000.0,Sales/Retail/Business Development
+1797,Arlington Heights,120000.0,Sales/Retail/Business Development
+1798,Indianapolis,70000.0,Sales/Retail/Business Development
+1799,Overland Park,57500.0,Manufacturing/Production/Operations
+1800,King Of Prussia,52500.0,Administrative/Clerical
+1801,District of ColumbiaDC,45000.0,Administrative/Clerical
+1802,West Mclean,43500.0,Entry Level
+1803,BostonMA,22000.0,Administrative/Clerical
+1804,Saint Louis,13000.0,Administrative/Clerical
+1805,BostonMA,32500.0,Administrative/Clerical
+1806,Columbus,77500.0,Engineering
+1807,Bloomington,105000.0,IT/Software Development
+1808,Napa,85000.0,Human Resources
+1809,Lake Lotawana,50000.0,Experienced (Non-Manager)
+1810,Shelbyville,72500.0,Experienced (Non-Manager)
+1811,Edison,49000.0,Experienced (Non-Manager)
+1812,Vandalia,60000.0,Manager (Manager/Supervisor of Staff)
+1813,Fort Atkinson,31000.0,Human Resources
+1814,Chicago,67500.0,Experienced (Non-Manager)
+1815,SwedesboroNJ,112500.0,Human Resources
+1816,Napa,65000.0,Human Resources
+1817,Elkhart,80000.0,Manager (Manager/Supervisor of Staff)
+1818,Morristown,120000.0,Experienced (Non-Manager)
+1819,Vallejo,42436.0,Experienced (Non-Manager)
+1820,Manchester,55000.0,Experienced (Non-Manager)
+1821,Pleasanton,75000.0,Human Resources
+1822,Ashburn,67500.0,Human Resources
+1823,Coral Gables,50000.0,Human Resources
+1824,Valley Forge,87500.0,Manager (Manager/Supervisor of Staff)
+1825,Cincinnati,62500.0,IT/Software Development
+1826,Chicago,53500.0,Experienced (Non-Manager)
+1827,Cincinnati,162500.0,General/Other: IT/Software Development
+1828,Cincinnati,31500.0,Entry Level
+1829,Cincinnati,45000.0,Experienced (Non-Manager)
+1830,Cincinnati,60500.0,Quality Assurance/Safety
+1831,Cincinnati,90000.0,Manager (Manager/Supervisor of Staff)
+1832,Chicago,45000.0,Accounting/Finance/Insurance
+1833,Cincinnati,95000.0,Experienced (Non-Manager)
+1834,Cincinnati,110000.0,Manufacturing/Production/Operations
+1835,Cincinnati,35000.0,Entry Level
+1836,Cincinnati,50000.0,Entry Level
+1837,Chicago,60000.0,Accounting/Finance/Insurance
+1838,Cincinnati,31000.0,Entry Level
+1839,Cincinnati,85000.0,Experienced (Non-Manager)
+1840,Chicago,102500.0,Experienced (Non-Manager)
+1841,Cincinnati,70000.0,Sales/Retail/Business Development
+1842,Cincinnati,30000.0,Entry Level
+1843,Cincinnati,47500.0,Experienced (Non-Manager)
+1844,Cincinnati,70000.0,Experienced (Non-Manager)
+1845,Cincinnati,105000.0,Experienced (Non-Manager)
+1846,Cincinnati,35000.0,Entry Level
+1847,Cincinnati,35000.0,Experienced (Non-Manager)
+1848,Cincinnati,65000.0,Experienced (Non-Manager)
+1849,Madeira,55000.0,Manager (Manager/Supervisor of Staff)
+1850,Cincinnati,102500.0,Experienced (Non-Manager)
+1851,Cincinnati,85000.0,IT/Software Development
+1852,Cincinnati,30000.0,Entry Level
+1853,Cincinnati,32000.0,Entry Level
+1854,Cincinnati,60000.0,Experienced (Non-Manager)
+1855,Cincinnati,47500.0,Experienced (Non-Manager)
+1856,Cincinnati,42500.0,Accounting/Finance/Insurance
+1857,Chicago,82500.0,Manager (Manager/Supervisor of Staff)
+1858,Chicago,47500.0,Entry Level
+1859,Chicago,150000.0,Experienced (Non-Manager)
+1860,Chicago,62500.0,Experienced (Non-Manager)
+1861,GHA Technologies,90000.0,Sales/Retail/Business Development
+1862,Cincinnati,30000.0,Manager (Manager/Supervisor of Staff)
+1863,Cincinnati,56500.0,Manufacturing/Production/Operations
+1864,Cincinnati,67500.0,Experienced (Non-Manager)
+1865,Cincinnati,90000.0,Manager (Manager/Supervisor of Staff)
+1866,Chicago,130000.0,Experienced (Non-Manager)
+1867,Cincinnati,50000.0,Experienced (Non-Manager)
+1868,Cincinnati,57500.0,Experienced (Non-Manager)
+1869,Chicago,85000.0,Experienced (Non-Manager)
+1870,Cincinnati,72500.0,Manager (Manager/Supervisor of Staff)
+1871,Mason,47500.0,Entry Level
+1872,Cincinnati,27500.0,Manager (Manager/Supervisor of Staff)
+1873,Cincinnati,18000.0,Entry Level
+1874,Cincinnati,35000.0,Entry Level
+1875,Cincinnati,85000.0,IT/Software Development
+1876,Cincinnati,28000.0,Experienced (Non-Manager)
+1877,Cincinnati,57500.0,Experienced (Non-Manager)
+1878,Chicago,87500.0,Accounting/Finance/Insurance
+1879,West Chester,80000.0,Manager (Manager/Supervisor of Staff)
+1880,Cincinnati,75000.0,Experienced (Non-Manager)
+1881,Cincinnati,41000.0,Experienced (Non-Manager)

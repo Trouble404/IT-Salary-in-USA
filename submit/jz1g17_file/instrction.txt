@@ -1,0 +1,12 @@
+For chart 1: Running chart1_data.ipynb to obtain clean data state_salary_sector.csv
+             some hand operation to delete unformat data
+             Running chart1.twb in Tableau, connect the dataset state_salary_sector.csv
+
+For chart 2: Running chart2_data.ipynb to obtain clean data city_salary_sector.csv
+             some hand operation to delete unformat data
+             Running chart2.twb in Tableau, connect the dataset city_salary_sector.csv
+
+For chart 2: Running chart3_data.ipynb to obtain clean data skill_output.csv
+             resave skill_output.csv to text file
+             Using https://timdream.org/wordcloud/ to genereate cloud word chart
+             result already in chart3_data.txt

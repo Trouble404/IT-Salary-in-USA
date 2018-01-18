@@ -1,0 +1,730 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 10400.17.1206.1554                               -->
+<workbook original-version='10.4' source-build='10.4.2 (10400.17.1206.1554)' source-platform='win' version='10.4' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='city_salary_sector' inline='true' name='federated.0h1vvb901smk8r18rb12q0322nki' version='10.4'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='city_salary_sector' name='textscan.0ckiuo403z62r11ceqh1k1xjzout'>
+            <connection class='textscan' directory='C:/Users/MSI/Desktop/COMP6234/chart/chart2' filename='city_salary_sector.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0ckiuo403z62r11ceqh1k1xjzout' name='city_salary_sector.csv' table='[city_salary_sector#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='zh_CN' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='location' ordinal='1' />
+            <column datatype='real' name='salary' ordinal='2' />
+            <column datatype='string' name='sector' ordinal='3' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[city_salary_sector.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;sint64&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>location</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[location]</local-name>
+            <parent-name>[city_salary_sector.csv]</parent-name>
+            <remote-alias>location</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LZH_RCN' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteCollation'>&quot;zh_Hans_CN&quot;</attribute>
+              <attribute datatype='string' name='DebugRemoteMetadata (compression)'>&quot;heap&quot;</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>4294967292</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (storagewidth)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;str&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>salary</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[salary]</local-name>
+            <parent-name>[city_salary_sector.csv]</parent-name>
+            <remote-alias>salary</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;double&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>sector</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[sector]</local-name>
+            <parent-name>[city_salary_sector.csv]</parent-name>
+            <remote-alias>sector</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LZH_RCN' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteCollation'>&quot;zh_Hans_CN&quot;</attribute>
+              <attribute datatype='string' name='DebugRemoteMetadata (compression)'>&quot;heap&quot;</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (size)'>4294967292</attribute>
+              <attribute datatype='integer' name='DebugRemoteMetadata (storagewidth)'>8</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;str&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[city_salary_sector.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;zh_Hans_CN&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;￥&quot;</attribute>
+              <attribute datatype='string' name='debit-close-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='debit-open-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;zh_CN&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column datatype='string' name='[location]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.459596' measure-ordering='alphabetic' measure-percentage='0.540404' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[City].[Name]' value='%null%' />
+        <semantic-value key='[Country].[Name]' value='&quot;美国&quot;' />
+        <semantic-value key='[State].[Name]' value='%null%' />
+      </semantic-values>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <worksheets>
+    <worksheet name='工作表 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='city_salary_sector' name='federated.0h1vvb901smk8r18rb12q0322nki' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.0h1vvb901smk8r18rb12q0322nki'>
+            <column datatype='string' name='[location]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+            <column-instance column='[location]' derivation='None' name='[none:location:nk]' pivot='key' type='nominal' />
+            <column-instance column='[sector]' derivation='None' name='[none:sector:nk]' pivot='key' type='nominal' />
+            <column datatype='string' name='[sector]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0h1vvb901smk8r18rb12q0322nki].[none:location:nk]'>
+            <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;43215&quot;' />
+              <groupfilter from='&quot;Accounts Payable CoordinatorResponsible for coordination of Accounts Payable activities along with other members of the Accounts Payable team.  Responsible for timely and accurate recording and processing of Accounts Payable invoices and payments. RESPONSIBILITIES-Process incoming invoices and other requests for payment-Secure necessary documentation&quot;' function='range' level='[none:location:nk]' to='&quot;Alameda&quot;' />
+              <groupfilter from='&quot;Alexandria&quot;' function='range' level='[none:location:nk]' to='&quot;AngularJS Developer Location: Chicago&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Apopka&quot;' />
+              <groupfilter from='&quot;Arlington&quot;' function='range' level='[none:location:nk]' to='&quot;Armonk&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Asheville&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Athens&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Atlanta&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Attleboro&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Auburn&quot;' />
+              <groupfilter from='&quot;Aurora&quot;' function='range' level='[none:location:nk]' to='&quot;Baton Rouge&quot;' />
+              <groupfilter from='&quot;Bedford&quot;' function='range' level='[none:location:nk]' to='&quot;Bellingham&quot;' />
+              <groupfilter from='&quot;Belton&quot;' function='range' level='[none:location:nk]' to='&quot;Billerica&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Birmingham&quot;' />
+              <groupfilter from='&quot;Bloomington&quot;' function='range' level='[none:location:nk]' to='&quot;Boca Raton&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Bonita Springs&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Boston&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Boulder&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Bowling Green&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Braintree&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Brandon&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Bridgewater&quot;' />
+              <groupfilter from='&quot;Brooklyn&quot;' function='range' level='[none:location:nk]' to='&quot;Cambridge&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Canyon Crest&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Carrollton&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Carter Lake&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Centennial&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Centreville&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Chapel Hill&quot;' />
+              <groupfilter from='&quot;Charleston&quot;' function='range' level='[none:location:nk]' to='&quot;Charlottesville&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Chelmsford&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Cherry Hill&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Chicago&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Cincinnati&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Cinnaminson&quot;' />
+              <groupfilter from='&quot;City Of Industry&quot;' function='range' level='[none:location:nk]' to='&quot;Cleveland&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Clifton Heights&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Cloud Engineer&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Clutch City&quot;' />
+              <groupfilter from='&quot;Colorado Springs&quot;' function='range' level='[none:location:nk]' to='&quot;Columbus&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Concord&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Coral Gables&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Covington&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Crafton&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Dallas&quot;' />
+              <groupfilter from='&quot;Danville&quot;' function='range' level='[none:location:nk]' to='&quot;Dayton&quot;' />
+              <groupfilter from='&quot;Daytona Beach&quot;' function='range' level='[none:location:nk]' to='&quot;Deer Park&quot;' />
+              <groupfilter from='&quot;Delaware&quot;' function='range' level='[none:location:nk]' to='&quot;Denver&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Detroit&quot;' />
+              <groupfilter from='&quot;Dover Annex&quot;' function='range' level='[none:location:nk]' to='&quot;Duncanville&quot;' />
+              <groupfilter from='&quot;East Orange&quot;' function='range' level='[none:location:nk]' to='&quot;El Dorado&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;El Paso&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Elk Grove Village&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Energy&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Englewood&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Evansville&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Fairfax&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Field Service Technician&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Fishers&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Fletcher&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Flushing&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Folsom&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Fort Dodge&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Fort Wayne&quot;' />
+              <groupfilter from='&quot;Framingham&quot;' function='range' level='[none:location:nk]' to='&quot;Franklin Lakes&quot;' />
+              <groupfilter from='&quot;Freeport 16229&quot;' function='range' level='[none:location:nk]' to='&quot;Fresno&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Ft. Lauderdale&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Gainesville&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Geneva&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Glenview&quot;' />
+              <groupfilter from='&quot;Good Morning&quot;' function='range' level='[none:location:nk]' to='&quot;Green Bay&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Greer&quot;' />
+              <groupfilter from='&quot;Grifton&quot;' function='range' level='[none:location:nk]' to='&quot;Hagerstown&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Hampton&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Hazel Crest&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Heathrow&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Henderson&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Hickory&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Holland&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Hopkins&quot;' />
+              <groupfilter from='&quot;Houston&quot;' function='range' level='[none:location:nk]' to='&quot;Huntington Station&quot;' />
+              <groupfilter from='&quot;Indiana&quot;' function='range' level='[none:location:nk]' to='&quot;Irving&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Jackson&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Jacksonville&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Julian&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Jupiter&quot;' />
+              <groupfilter from='&quot;Kansas City&quot;' function='range' level='[none:location:nk]' to='&quot;Kenilworth&quot;' />
+              <groupfilter from='&quot;Kent&quot;' function='range' level='[none:location:nk]' to='&quot;King Of Prussia&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Kings Bay&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Kings Mountain&quot;' />
+              <groupfilter from='&quot;Knoxville&quot;' function='range' level='[none:location:nk]' to='&quot;Lake Lotawana&quot;' />
+              <groupfilter from='&quot;Lansdale&quot;' function='range' level='[none:location:nk]' to='&quot;Liberal&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Little Falls&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Little Rock&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Long Beach&quot;' />
+              <groupfilter from='&quot;Los Altos&quot;' function='range' level='[none:location:nk]' to='&quot;Lutz&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Machesney Park&quot;' />
+              <groupfilter from='&quot;Madison&quot;' function='range' level='[none:location:nk]' to='&quot;Mahwah&quot;' />
+              <groupfilter from='&quot;Manchester&quot;' function='range' level='[none:location:nk]' to='&quot;Maple ShadeNJ&quot;' />
+              <groupfilter from='&quot;Marlborough&quot;' function='range' level='[none:location:nk]' to='&quot;Marysville&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Mason&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Mcqueeny&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Memphis&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Miami&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Miami Gardens&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Michigan City&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Middleton&quot;' />
+              <groupfilter from='&quot;Midland&quot;' function='range' level='[none:location:nk]' to='&quot;Mishawaka&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Monrovia&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Moore&quot;' />
+              <groupfilter from='&quot;Morgan Hill&quot;' function='range' level='[none:location:nk]' to='&quot;Morristown&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Mount Laurel&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Mount Prospect&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Multiple locations&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Naperville&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Nashville&quot;' />
+              <groupfilter from='&quot;Needham&quot;' function='range' level='[none:location:nk]' to='&quot;New Brighton&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;New Haven&quot;' />
+              <groupfilter from='&quot;New Rochelle&quot;' function='range' level='[none:location:nk]' to='&quot;Newport&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Newport News&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Newton&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Noblesville&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;North Las Vegas&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;North Ridgeville&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Northampton&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Oak Grove&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Oakland&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Ocean&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Oklahoma City&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Olathe&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Omaha&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Orlando&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Overland Park&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Painesville&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Palm Beach&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Palo Alto&quot;' />
+              <groupfilter from='&quot;Parma&quot;' function='range' level='[none:location:nk]' to='&quot;Philadelphia&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Pigeon Forge&quot;' />
+              <groupfilter from='&quot;Plainfield&quot;' function='range' level='[none:location:nk]' to='&quot;Plantation&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Pomona&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Pompano Beach&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Portland&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Princeton Township&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Radnor&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Raleigh&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Rancho Cordova&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Rancho Cucamonga&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Raymond&quot;' />
+              <groupfilter from='&quot;Redmond&quot;' function='range' level='[none:location:nk]' to='&quot;Reynoldsburg&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Richmond&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Ringwood&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Robbinsdale&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Rochester&quot;' />
+              <groupfilter from='&quot;Rockville&quot;' function='range' level='[none:location:nk]' to='&quot;Romeoville&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Roseland&quot;' />
+              <groupfilter from='&quot;Roseville&quot;' function='range' level='[none:location:nk]' to='&quot;Sacramento&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Saint Charles&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Saint Louis&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Saint Petersburg&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Salem&quot;' />
+              <groupfilter from='&quot;Salt Lake City&quot;' function='range' level='[none:location:nk]' to='&quot;San Jose&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;San Leandro&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Santa Clara&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Sarasota&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Saugatuck&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Schaumburg&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Schertz&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Schiller Park&quot;' />
+              <groupfilter from='&quot;Seattle&quot;' function='range' level='[none:location:nk]' to='&quot;Shelbyville&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Shrewsbury&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Sioux City&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Sioux Falls&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Smyrna&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Souderton&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;South Miami&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Southfield&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Spanish Flat&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Spring Grove&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Springville&quot;' />
+              <groupfilter from='&quot;St. Petersburg&quot;' function='range' level='[none:location:nk]' to='&quot;Statesville&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Stockton&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Suitland&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Sun Prairie&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Sylmar&quot;' />
+              <groupfilter from='&quot;Tallahassee&quot;' function='range' level='[none:location:nk]' to='&quot;Telecommute&quot;' />
+              <groupfilter from='&quot;Thief River Falls&quot;' function='range' level='[none:location:nk]' to='&quot;Toledo&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Toppenish&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Travelers Rest&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Troy&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Tucson&quot;' />
+              <groupfilter from='&quot;Twin Falls&quot;' function='range' level='[none:location:nk]' to='&quot;Ukiah&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Vallejo&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Valley City&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Wallingford&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Waltham&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Warwick&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Washington&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Watertown&quot;' />
+              <groupfilter from='&quot;West Chester&quot;' function='range' level='[none:location:nk]' to='&quot;West Monroe&quot;' />
+              <groupfilter from='&quot;West Windsor&quot;' function='range' level='[none:location:nk]' to='&quot;Westfield&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Whittier&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Willoughby Hills&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Wilmington&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Winchester&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Woonsocket&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Worcester&quot;' />
+              <groupfilter function='member' level='[none:location:nk]' member='&quot;Wyoming&quot;' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.0h1vvb901smk8r18rb12q0322nki].[none:sector:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:sector:nk]' member='&quot;Entry Level&quot;' />
+              <groupfilter function='member' level='[none:sector:nk]' member='&quot;Experienced (Non-Manager)&quot;' />
+              <groupfilter function='member' level='[none:sector:nk]' member='&quot;IT/Software Development&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0h1vvb901smk8r18rb12q0322nki].[none:location:nk]</column>
+            <column>[federated.0h1vvb901smk8r18rb12q0322nki].[none:sector:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='map-layer'>
+            <format attr='enabled' id='tab_base' value='true' />
+            <format attr='enabled' id='um_lcover' value='true' />
+            <format attr='enabled' id='tab_coastline' value='false' />
+            <format attr='enabled' id='pp2_line' value='false' />
+            <format attr='enabled' id='light_adm0_bnd' value='false' />
+            <format attr='enabled' id='light_adm0_lbl' value='false' />
+            <format attr='enabled' id='um_adm0_bnd' value='true' />
+            <format attr='enabled' id='um_adm0_lbl' value='true' />
+            <format attr='enabled' id='light_pp2_statebounds' value='false' />
+            <format attr='enabled' id='light_pp2_statelabels' value='false' />
+            <format attr='enabled' id='pp2_adminlabels' value='false' />
+            <format attr='enabled' id='pp2_statebounds' value='true' />
+            <format attr='enabled' id='pp2_statelabels' value='true' />
+            <format attr='enabled' id='countybounds' value='false' />
+            <format attr='enabled' id='countylabels' value='false' />
+            <format attr='enabled' id='zipbounds' value='false' />
+            <format attr='enabled' id='ziplabels' value='false' />
+            <format attr='enabled' id='tab_areabounds' value='false' />
+            <format attr='enabled' id='tab_arealabels' value='false' />
+            <format attr='enabled' id='tab_msabounds' value='false' />
+            <format attr='enabled' id='tab_msalabels' value='false' />
+          </style-rule>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.0h1vvb901smk8r18rb12q0322nki].[none:location:nk]</rows>
+        <cols>[federated.0h1vvb901smk8r18rb12q0322nki].[none:sector:nk]</cols>
+      </table>
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='工作表 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0h1vvb901smk8r18rb12q0322nki].[avg:salary:qk]</field>
+            <field>[federated.0h1vvb901smk8r18rb12q0322nki].[none:location:nk]</field>
+            <field>[federated.0h1vvb901smk8r18rb12q0322nki].[none:sector:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='工作表 1' width='192'>
+      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
+      E1eAiMgbTTNw6v2SPBkAAAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>

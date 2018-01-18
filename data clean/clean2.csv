@@ -1,0 +1,544 @@
+,location,salary,sector
+0,Florida,12.00 - 12.00 $ /hour,Customer Support/Client Care
+1,Colorado,60.00 - 82.00 $ /hour,IT/Software Development
+2,California,15.00 - 19.00 $ /hour,Administrative/Clerical
+3,Minnesota,15.00 - 21.00 $ /hour,Accounting/Finance/Insurance
+4,Minnesota,17.00 - 17.00 $ /hour,Business/Strategic Management
+5,Nevada,19.00 - 19.00 $ /hour,Experienced (Non-Manager)
+6,California,40.00 - 40.00 $ /hour,Experienced (Non-Manager)
+7,California,0.00 - 20.00 $ /hour,Accounting/Finance/Insurance
+8,Massachusetts,16.00 - 23.00 $ /hour,Accounting/Finance/Insurance
+9,Michigan,15.00 - 18.00 $ /hour,Accounting/Finance/Insurance
+10,Michigan,20.00 - 26.00 $ /hour,Accounting/Finance/Insurance
+11,New jersey,12.00 - 14.00 $ /hour,Experienced (Non-Manager)
+12,Florida,11.85 - 11.85 $ /hour,Security/Protective Services
+13,Delaware,14.00 - 14.00 $ /hour,Experienced (Non-Manager)
+14,New York,30.93 - 30.93 $ /hour,Security/Protective Services
+15,Virginia,15.00 - 17.00 $ /hour,Security/Protective Services
+16,Maryland,20.00 - 23.00 $ /hour,Security/Protective Services
+17,Florida,0.00 - 12.25 $ /hourPlus benefits,Experienced (Non-Manager)
+18,Texas,55.00 - 65.00 $ /hour,IT/Software Development
+19,Ohio,11.00 - 11.00 $ /hourBenefits Package,Entry Level
+20,Florida,11.00 - 13.00 $ /hour,Security/Protective Services
+21,Florida,13.00 - 13.00 $ /hour,Security/Protective Services
+22,Texas,12.00 - 15.00 $ /hour,Experienced (Non-Manager)
+23,Texas,13.00 - 13.00 $ /hour,Administrative/Clerical
+24,Delaware,14.00 - 14.00 $ /hour,Experienced (Non-Manager)
+25,Texas,55.00 - 65.00 $ /hour,IT/Software Development
+26,New York,26.92 - 26.92 $ /hour,Security/Protective Services
+27,Washington,15.00 - 21.90 $ /hour,Experienced (Non-Manager)
+28,Colorado,16.00 - 18.00 $ /hour,Customer Support/Client Care
+29,Indiana,9.50 - 11.00 $ /hourBenefits + Annual Bonus,Entry Level
+30,Iowa,19.50 - 19.50 $ /hour,Security/Protective Services
+31,Texas,14.00 - 15.00 $ /hour,Administrative/Clerical
+32,Texas,35.00 - 50.00 $ /hour,IT/Software Development
+33,Ohio,25.00 - 35.00 $ /hour,IT/Software Development
+34,Texas,100.00 - 120.00 $ /hour,IT/Software Development
+35,California,30.00 - 35.00 $ /hour,IT/Software Development
+36,Iowa,20.00 - 20.00 $ /hour,Experienced (Non-Manager)
+37,Texas,0.00 - 20.00 $ /hour,IT/Software Development
+38,Texas,75.00 - 100.00 $ /hour,IT/Software Development
+39,Tennessee,25.00 - 35.00 $ /hour,IT/Software Development
+40,South carolina,25.00 - 35.00 $ /hour,IT/Software Development
+41,Texas,55.00 - 75.00 $ /hour,IT/Software Development
+42,Wisconsin,25.00 - 35.00 $ /hour,IT/Software Development
+43,North Carolina,26.00 - 32.00 $ /hour,Biotech/R&D/Science
+44,Florida,10.00 - 12.00 $ /hour,Sales/Retail/Business Development
+45,California,19.00 - 19.00 $ /hour,Experienced (Non-Manager)
+46,Kentucky,20.00 - 26.00 $ /hour,Biotech/R&D/Science
+47,Iowa,19.92 - 19.92 $ /hour,Entry Level
+48,Pennsylvania,26.00 - 32.00 $ /hour,Medical/Health
+49,Texas,24.00 - 24.00 $ /hour,Human Resources
+50,Texas,13.50 - 14.00 $ /hour,Customer Support/Client Care
+51,Ohio,0.00 - 15.00 $ /hour,Marketing/Product
+52,California,70.00 - 85.00 $ /hour,Experienced (Non-Manager)
+53,North Carolina,35.00 - 40.00 $ /hour,Project/Program Management
+54,Tennessee,15.00 - 22.00 $ /hour,Legal
+55,California,0.00 - 20.00 $ /hour,Accounting/Finance/Insurance
+56,Tennessee,15.50 - 16.00 $ /hour,Experienced (Non-Manager)
+57,Colorado,20.00 - 24.00 $ /hour,Human Resources
+58,California,25.00 - 30.00 $ /hour,Human Resources
+59,California,0.00 - 29.00 $ /hour,Accounting/Finance/Insurance
+60,California,18.00 - 22.00 $ /hour,Accounting/Finance/Insurance
+61,California,0.00 - 21.00 $ /hour,Accounting/Finance/Insurance
+62,Oklahoma,18.00 - 20.00 $ /hour,Experienced (Non-Manager)
+63,North Carolina,43.00 - 46.00 $ /hour,IT/Software Development
+64,South carolina,20.00 - 22.00 $ /hour,Medical/Health
+65,North Carolina,15.00 - 19.00 $ /hourgenerous benefit package,Entry Level
+66,Ohio,13.75 - 13.75 $ /hour,Experienced (Non-Manager)
+67,South carolina,20.00 - 22.00 $ /hour,Medical/Health
+68,Tennessee,"10.00 - 25.00 $ /hourBenefits (401K, Health Insurance) and bonuses are potentials",Entry Level
+69,Florida,50.00 - 55.00 $ /hour,IT/Software Development
+70,California,65.00 - 70.00 $ /hour,Experienced (Non-Manager)
+71,Missouri,12.00 - 16.00 $ /hour,Experienced (Non-Manager)
+72,New jersey,84.00 - 87.50 $ /hour,Experienced (Non-Manager)
+73,Illinois,15.00 - 15.96 $ /hour,Medical/Health
+74,South carolina,40.00 - 49.00 $ /hour,IT/Software Development
+75,Texas,18.00 - 20.00 $ /hour,Experienced (Non-Manager)
+76,Ohio,23.00 - 23.00 $ /hour,Experienced (Non-Manager)
+77,California,55.00 - 60.00 $ /hour,Experienced (Non-Manager)
+78,New hampshire,38.00 - 44.00 $ /hour,Experienced (Non-Manager)
+79,Kentucky,18.00 - 20.00 $ /hour,Experienced (Non-Manager)
+80,Florida,30.00 - 33.00 $ /hour,IT/Software Development
+81,Florida,45.00 - 55.00 $ /hour,IT/Software Development
+82,Florida,30.00 - 35.00 $ /hour,Entry Level
+83,Virginia,18.00 - 21.00 $ /hour,Experienced (Non-Manager)
+84,Tennessee,45.00 - 50.00 $ /hour,IT/Software Development
+85,Tennessee,20.02 - 20.02 $ /hour,Legal
+86,Florida,12.00 - 13.00 $ /hour,Experienced (Non-Manager)
+87,Missouri,12.00 - 12.00 $ /hour,Experienced (Non-Manager)
+88,Texas,14.00 - 14.00 $ /hour,Medical/Health
+89,Ohio,23.00 - 23.00 $ /hour,Medical/Health
+90,Ohio,40.00 - 50.00 $ /hour,Systems Analysis - ITWeb/UI/UX Design
+91,Ohio,25.00 - 35.00 $ /hour,Experienced (Non-Manager)
+92,Florida,25.00 - 35.00 $ /hour,Quality Assurance/Safety
+93,New jersey,16.25 - 16.25 $ /hour,Experienced (Non-Manager)
+94,Ohio,14.00 - 18.00 $ /hour,Experienced (Non-Manager)
+95,Ohio,8.10 - 12.26 $ /hour,Entry Level
+96,Ohio,0.00 - 18.00 $ /hour,Medical/Health
+97,Ohio,12.00 - 13.00 $ /hour,Entry Level
+98,Ohio,"14.00 - 16.00 $ /hourHousing Discount, Commision/Bonus",Experienced (Non-Manager)
+99,Ohio,20.56 - 24.81 $ /hour,Installation/Maintenance/Repair
+100,Ohio,20.00 - 22.00 $ /hour,Engineering
+101,Ohio,60.00 - 70.00 $ /hour,IT/Software Development
+102,Ohio,9.00 - 11.00 $ /hour,Entry Level
+103,Ohio,20.00 - 25.00 $ /hour,Experienced (Non-Manager)
+104,Ohio,16.74 - 26.78 $ /hour,Entry Level
+105,Ohio,12.00 - 15.00 $ /hour,Entry Level
+106,Ohio,100.00 - 115.00 $ /hour,Experienced (Non-Manager)
+107,Ohio,10.00 - 13.00 $ /hour,Student (High School)
+108,Ohio,16.32 - 18.37 $ /hourCompetitive wage rate and benefits package available to full time employees,Experienced (Non-Manager)
+109,Ohio,14.00 - 18.00 $ /hour,Entry Level
+110,Ohio,"10.00 - 13.00 $ /hourPlus Commissions, Possible quarterly bonus after 1 year",Entry Level
+111,Ohio,10.00 - 14.00 $ /hour,Student (High School)
+112,Ohio,10.00 - 15.00 $ /hour,Entry Level
+113,Ohio,0.00 - 23.00 $ /hour,Medical/Health
+114,Ohio,10.00 - 13.00 $ /hour,Entry Level
+115,Ohio,14.00 - 17.00 $ /hourQuarterly Bonus,Experienced (Non-Manager)
+116,California,13.00 - 20.00 $ /hourBonuses available. Salary is DOE,Experienced (Non-Manager)
+117,California,"30.00 - 40.00 $ /hourhours flexible, salary negotiable",Experienced (Non-Manager)
+118,Connecticut,32.36 - 32.36 $ /hour,Legal
+119,Ohio,10.00 - 15.00 $ /hourHourly rate will be based on experience,Experienced (Non-Manager)
+120,Oklahoma,35.00 - 38.00 $ /hour,Experienced (Non-Manager)
+121,Michigan,12.00 - 15.00 $ /hour,Experienced (Non-Manager)
+122,Florida,12.00 - 12.00 $ /hour,Experienced (Non-Manager)
+123,Florida,18.00 - 20.00 $ /hourCompensation based on experience,Experienced (Non-Manager)
+124,New jersey,27.50 - 33.00 $ /hour,Experienced (Non-Manager)
+125,Colorado,16.00 - 19.00 $ /hour,Experienced (Non-Manager)
+126,New York,18.00 - 20.00 $ /hour,Experienced (Non-Manager)
+127,Kentucky,14.00 - 16.00 $ /hour,Experienced (Non-Manager)
+128,Florida,12.00 - 12.00 $ /hour,Experienced (Non-Manager)
+129,New York,10.00 - 20.00 $ /hourHealth insurance available,Entry Level
+130,Washington,0.00 - 15.00 $ /hour,Experienced (Non-Manager)
+131,New York,20.00 - 22.00 $ /hour,Entry Level
+132,Indiana,11.00 - 16.00 $ /hour,Experienced (Non-Manager)
+133,California,15.00 - 19.00 $ /hour,Experienced (Non-Manager)
+134,Colorado,30.00 - 35.00 $ /hour,Experienced (Non-Manager)
+135,Texas,50.00 - 60.00 $ /hour,IT/Software Development
+136,Texas,55.00 - 65.00 $ /hour,Experienced (Non-Manager)
+137,Texas,18.00 - 22.00 $ /hour,Experienced (Non-Manager)
+138,Illinois,18.00 - 25.00 $ /hour,Manufacturing/Production/Operations
+139,Florida,13.00 - 15.00 $ /hour,Entry Level
+140,Indiana,6.05 - 12.25 $ /hour,Food Services/Hospitality
+141,New jersey,30.00 - 33.00 $ /hour,Food Services/Hospitality
+142,Indiana,14.74 - 14.74 $ /hour,Legal
+143,New jersey,22.00 - 22.00 $ /hour,Experienced (Non-Manager)
+144,Massachusetts,15.00 - 20.00 $ /hour,Installation/Maintenance/Repair
+145,New York,14.00 - 16.00 $ /hour,Experienced (Non-Manager)
+146,Massachusetts,"100,000.00 - 120,000.00 $ /hour",Accounting/Finance/Insurance
+147,Georgia,25.00 - 25.00 $ /hour,IT/Software Development
+148,Florida,0.00 - 14.00 $ /hour,Accounting/Finance/Insurance
+149,Georgia,22.00 - 22.00 $ /hour,Marketing/Product
+150,Georgia,25.00 - 41.00 $ /hour,Medical/Health
+151,Nevada,15.00 - 15.00 $ /hour,Sales/Retail/Business Development
+152,Wisconsin,27.00 - 27.36 $ /hour,Experienced (Non-Manager)
+153,Nevada,13.00 - 19.00 $ /hourBonus,Experienced (Non-Manager)
+154,Wisconsin,14.22 - 16.36 $ /hour,Administrative/Clerical
+155,Nevada,35.00 - 40.00 $ /hour,Medical/Health
+156,Wisconsin,0.00 - 35.00 $ /hour,Accounting/Finance/Insurance
+157,Wisconsin,12.00 - 12.00 $ /hourgas allowance,Entry Level
+158,Nevada,17.00 - 22.00 $ /hour,Experienced (Non-Manager)
+159,Wisconsin,9.00 - 13.00 $ /hour,Experienced (Non-Manager)
+160,Wisconsin,17.24 - 39.66 $ /hour,General/Other: Medical/HealthVeterinary/Animal Care
+161,Tennessee,12.00 - 14.00 $ /hour,Accounting/Finance/Insurance
+162,Nevada,10.75 - 10.75 $ /hour,Customer Support/Client Care
+163,Nevada,25.00 - 25.00 $ /hour,Human Resources
+164,Wisconsin,15.34 - 25.50 $ /hour,Veterinary/Animal Care
+165,Wisconsin,13.78 - 16.60 $ /hour,Banking/Real Estate/Mortgage Professionals
+166,Wisconsin,14.22 - 16.36 $ /hour,Administrative/Clerical
+167,Nevada,15.00 - 15.00 $ /hour,Customer Support/Client Care
+168,Ohio,0.00 - 22.15 $ /hour,Experienced (Non-Manager)
+169,Texas,32.00 - 35.00 $ /hour,Entry Level
+170,Texas,30.00 - 36.00 $ /hourfull package,Experienced (Non-Manager)
+171,Texas,47.00 - 52.00 $ /hour,Medical/Health
+172,Maryland,30.00 - 40.00 $ /hourtemp to perm position,Experienced (Non-Manager)
+173,Missouri,12.00 - 16.00 $ /hour,Experienced (Non-Manager)
+174,Ohio,0.00 - 22.15 $ /hour,Experienced (Non-Manager)
+175,Colorado,11.00 - 14.00 $ /hour,Entry Level
+176,Pennsylvania,10.00 - 11.00 $ /hour,Security/Protective Services
+177,California,0.00 - 21.00 $ /hour,Accounting/Finance/Insurance
+178,California,0.00 - 18.00 $ /hour,Manufacturing/Production/Operations
+179,Washington,9.47 - 15.47 $ /hour,Career Level Entry Level
+180,South dakota,15.00 - 17.00 $ /hour,Experienced (Non-Manager)
+181,Washington,15.00 - 16.00 $ /hour,Career Level Experienced (Non-Manager)
+182,Colorado,12.00 - 15.00 $ /hour,Logistics/Transportation
+183,California,35.00 - 38.00 $ /hour,Experienced (Non-Manager)
+184,Texas,15.00 - 15.00 $ /hour,Customer Support/Client Care
+185,Georgia,14.00 - 17.00 $ /hour,Human Resources
+186,Minnesota,18.00 - 24.00 $ /hour,Experienced (Non-Manager)
+187,California,16.00 - 20.00 $ /hour,Experienced (Non-Manager)
+188,Florida,10.75 - 11.75 $ /hour,Entry Level
+189,Pennsylvania,12.00 - 20.00 $ /hour,Experienced (Non-Manager)
+190,Idaho,0.00 - 35.00 $ /hour,Installation/Maintenance/Repair
+191,Alabama,14.00 - 19.00 $ /hourplus commission and full benefits,Entry Level
+192,New jersey,13.00 - 15.00 $ /hour,Entry Level
+193,Colorado,0.00 - 8.50 $ /hour,Entry Level
+194,New jersey,12.50 - 13.50 $ /hour,Manufacturing/Production/Operations
+195,Washington,12.00 - 13.00 $ /hour,Installation/Maintenance/Repair
+196,Florida,16.00 - 18.00 $ /hour,Experienced (Non-Manager)
+197,Ohio,15.00 - 15.50 $ /hour,Experienced (Non-Manager)
+198,Illinois,12.00 - 17.00 $ /hourbonuses available for exceptional work,Entry Level
+199,Washington,16.00 - 24.00 $ /hourD.O.E,Experienced (Non-Manager)
+200,South carolina,20.00 - 31.00 $ /hour,Experienced (Non-Manager)
+201,Massachusetts,20.00 - 23.00 $ /hour,Experienced (Non-Manager)
+202,Colorado,18.00 - 22.00 $ /hour,Student (High School)
+203,Minnesota,25.00 - 30.00 $ /hour,Experienced (Non-Manager)
+204,Florida,15.75 - 17.00 $ /hour,Experienced (Non-Manager)
+205,New York,24.85 - 29.81 $ /hour,Installation/Maintenance/Repair
+206,New hampshire,12.00 - 12.00 $ /hour,Manufacturing/Production/Operations
+207,Mississippi,10.85 - 11.85 $ /hour,Manufacturing/Production/Operations
+208,California,25.00 - 25.00 $ /hour,Experienced (Non-Manager)
+209,Colorado,14.00 - 15.00 $ /hour,Manufacturing/Production/Operations
+210,Massachusetts,12.00 - 15.00 $ /hour,Entry Level
+211,Michigan,13.00 - 15.00 $ /hourbonuses,Student (Undergraduate/Graduate)
+212,California,15.00 - 23.00 $ /hour,Entry Level
+213,Indiana,18.00 - 25.00 $ /hour,Experienced (Non-Manager)
+214,Illinois,15.50 - 15.50 $ /hour,Experienced (Non-Manager)
+215,New York,22.00 - 24.00 $ /hour,Experienced (Non-Manager)
+216,Illinois,18.00 - 25.00 $ /hour,Student (Undergraduate/Graduate)
+217,Ohio,10.00 - 12.50 $ /hour,Entry Level
+218,Illinois,12.00 - 15.00 $ /hour,Experienced (Non-Manager)
+219,Massachusetts,14.50 - 14.50 $ /hour,Experienced (Non-Manager)
+220,Ohio,"16.00 - 19.00 $ /hourfull benefits, company vehicle and more",Entry Level
+221,New jersey,20.00 - 24.00 $ /hour,Experienced (Non-Manager)
+222,Tennessee,15.00 - 30.00 $ /hourBonus,Experienced (Non-Manager)
+223,Texas,18.00 - 22.00 $ /hour,Experienced (Non-Manager)
+224,California,11.00 - 11.00 $ /hour,Entry Level
+225,California,10.25 - 11.75 $ /hour,Manufacturing/Production/Operations
+226,Tennessee,17.34 - 20.62 $ /hour,Experienced (Non-Manager)
+227,Colorado,15.00 - 20.00 $ /hour,Manufacturing/Production/Operations
+228,Mississippi,18.15 - 19.15 $ /hour,Manufacturing/Production/Operations
+229,New jersey,12.00 - 22.00 $ /hour,Experienced (Non-Manager)
+230,Pennsylvania,11.00 - 11.50 $ /hourBenefits,Experienced (Non-Manager)
+231,Illinois,16.00 - 18.00 $ /hour,Entry Level
+232,Ohio,20.56 - 24.81 $ /hour,Installation/Maintenance/Repair
+233,Nebraska,0.00 - 12.00 $ /hour,Entry Level
+234,Idaho,17.74 - 26.13 $ /hourHealth Care and Vacation Benefits,Experienced (Non-Manager)
+235,Texas,11.00 - 12.00 $ /hour,Manufacturing/Production/Operations
+236,Ohio,18.00 - 20.00 $ /hour,Manager (Manager/Supervisor of Staff)
+237,Ohio,13.00 - 20.00 $ /hour,Experienced (Non-Manager)
+238,Texas,18.33 - 27.51 $ /hour,Experienced (Non-Manager)
+239,California,0.00 - 29.50 $ /hour,Installation/Maintenance/Repair
+240,Utah,9.28 - 14.00 $ /hour,Entry Level
+241,Wisconsin,18.00 - 21.00 $ /hour,Installation/Maintenance/Repair
+242,Ohio,"19.00 - 30.00 $ /hourMedical, Vacation, Holiday",Experienced (Non-Manager)
+243,Minnesota,12.00 - 12.00 $ /hour,Manufacturing/Production/Operations
+244,Wisconsin,11.00 - 14.00 $ /hour,Entry Level
+245,Tennessee,20.38 - 23.49 $ /hour,Experienced (Non-Manager)
+246,Iowa,15.40 - 15.40 $ /hourBenefits and Overtime,Experienced (Non-Manager)
+247,Texas,15.99 - 23.98 $ /hour,Experienced (Non-Manager)
+248,Florida,10.00 - 15.00 $ /hour,Experienced (Non-Manager)
+249,Tennessee,0.00 - 12.77 $ /hour,Entry Level
+250,Indiana,11.00 - 11.00 $ /hour,Manufacturing/Production/Operations
+251,California,14.00 - 20.00 $ /hourCan increase with experience,Entry Level
+252,Washington,18.00 - 21.00 $ /hour,Installation/Maintenance/Repair
+253,New hampshire,12.00 - 13.00 $ /hour,Entry Level
+254,California,13.00 - 15.00 $ /hour,Entry Level
+255,Tennessee,20.00 - 28.00 $ /hour,Experienced (Non-Manager)
+256,Arkansas,20.00 - 25.00 $ /hourvehicle+ gas card+great benefits+ot after 8 hours worked per day+cell,Experienced (Non-Manager)
+257,California,"18.00 - 23.00 $ /hourFull family medical, Paid Holidays",Experienced (Non-Manager)
+258,Mississippi,19.65 - 20.65 $ /hour,Manufacturing/Production/Operations
+259,Indiana,11.00 - 16.25 $ /hour,Manufacturing/Production/Operations
+260,Ohio,18.00 - 25.00 $ /hour,Experienced (Non-Manager)
+261,Arkansas,20.00 - 25.00 $ /hour,Experienced (Non-Manager)
+262,Colorado,15.00 - 35.00 $ /hourFlat rate,Experienced (Non-Manager)
+263,Illinois,12.00 - 20.00 $ /hour,Experienced (Non-Manager)
+264,Washington,13.00 - 14.00 $ /hour,Manufacturing/Production/Operations
+265,Ohio,18.00 - 24.00 $ /hour,Installation/Maintenance/Repair
+266,Georgia,16.57 - 16.57 $ /hour,Experienced (Non-Manager)
+267,Massachusetts,17.60 - 17.60 $ /hour,Experienced (Non-Manager)
+268,South carolina,12.00 - 12.00 $ /hour,Experienced (Non-Manager)
+269,Virginia,16.00 - 18.00 $ /hour,Experienced (Non-Manager)
+270,Pennsylvania,10.00 - 10.00 $ /hour,Manufacturing/Production/Operations
+271,Pennsylvania,15.00 - 17.50 $ /hour,Experienced (Non-Manager)
+272,North Carolina,11.00 - 13.50 $ /hour,Experienced (Non-Manager)
+273,Ohio,10.00 - 10.00 $ /hourSecond Shift Shift Premium,Entry Level
+274,California,22.00 - 27.00 $ /hour,Experienced (Non-Manager)
+275,New York,24.85 - 29.81 $ /hour,Manufacturing/Production/Operations
+276,Tennessee,12.50 - 13.50 $ /hour,Student (High School)
+277,Ohio,12.00 - 14.00 $ /hour,Entry Level
+278,Pennsylvania,10.00 - 15.00 $ /hourCommision and bonuses available,Entry Level
+279,South carolina,20.00 - 31.00 $ /hour,Experienced (Non-Manager)
+280,North Carolina,10.00 - 10.00 $ /hour,Entry Level
+281,New jersey,20.00 - 20.00 $ /hour,Manufacturing/Production/Operations
+282,California,18.00 - 20.00 $ /hour,Entry Level
+283,Wisconsin,14.00 - 14.00 $ /hour,Manufacturing/Production/Operations
+284,Massachusetts,20.00 - 25.00 $ /hour,Entry Level
+285,New hampshire,14.00 - 18.00 $ /hour,Experienced (Non-Manager)
+286,California,10.50 - 12.55 $ /hour,Entry Level
+287,New hampshire,13.00 - 18.00 $ /hour,Experienced (Non-Manager)
+288,California,16.00 - 20.00 $ /hour,Manufacturing/Production/Operations
+289,Illinois,11.00 - 14.00 $ /hour,Manufacturing/Production/Operations
+290,Ohio,18.00 - 18.00 $ /hourOvertime Compensation competitive benefits,Experienced (Non-Manager)
+291,Ohio,17.00 - 18.00 $ /hourOvertime and Benefits,Experienced (Non-Manager)
+292,Ohio,15.00 - 17.00 $ /hour,Manufacturing/Production/Operations
+293,Kentucky,20.00 - 22.00 $ /hour,Manufacturing/Production/Operations
+294,Iowa,15.40 - 15.40 $ /hourOvertime and Benefits,Experienced (Non-Manager)
+295,California,20.00 - 25.00 $ /hourEligible for quarterly production bonus,Experienced (Non-Manager)
+296,Colorado,14.00 - 15.50 $ /hour,Experienced (Non-Manager)
+297,Ohio,12.00 - 15.00 $ /houradditional shift premium where applicable,Experienced (Non-Manager)
+298,Kansas,22.00 - 25.00 $ /hour,Manufacturing/Production/Operations
+299,Indiana,10.00 - 10.00 $ /hour,Experienced (Non-Manager)
+300,Missouri,13.10 - 16.20 $ /hour,Manufacturing/Production/Operations
+301,Minnesota,"60,000.00 - 70,000.00 $ /hour",Manufacturing/Production/Operations
+302,Illinois,14.50 - 16.50 $ /hour,Experienced (Non-Manager)
+303,Ohio,22.92 - 26.95 $ /hour,Experienced (Non-Manager)
+304,Rhode island,10.00 - 13.00 $ /hour,Experienced (Non-Manager)
+305,Wisconsin,16.50 - 25.00 $ /hour,Logistics/Transportation
+306,Wisconsin,28.56 - 43.83 $ /hourFinal salary will be determined based on the selected candidate's experience and qualifications. Pay for current state employees will be based on the applicable pay transaction provisions of the Compensation Plan.,Experienced (Non-Manager)
+307,Texas,50.00 - 55.00 $ /hour,Project/Program Management
+308,Texas,13.50 - 13.50 $ /hour,Entry Level
+309,Texas,13.00 - 16.00 $ /hour,Experienced (Non-Manager)
+310,Connecticut,40.00 - 40.00 $ /hour,Editorial/Writing
+311,California,0.00 - 19.00 $ /hour,Accounting/Finance/Insurance
+312,California,0.00 - 18.00 $ /hour,Accounting/Finance/Insurance
+313,California,0.00 - 16.00 $ /hour,Accounting/Finance/Insurance
+314,California,14.00 - 14.00 $ /hour,Experienced (Non-Manager)
+315,California,0.00 - 26.00 $ /hour,Accounting/Finance/Insurance
+316,California,0.00 - 17.00 $ /hour,Accounting/Finance/Insurance
+317,California,14.00 - 14.00 $ /hour,Experienced (Non-Manager)
+318,California,0.00 - 22.00 $ /hour,Accounting/Finance/Insurance
+319,California,0.00 - 20.00 $ /hour,Accounting/Finance/Insurance
+320,Missouri,10.00 - 12.00 $ /hour,Marketing/Product
+321,Pennsylvania,16.00 - 20.00 $ /hour,Customer Support/Client Care
+322,Wisconsin,17.00 - 25.00 $ /hour,Customer Support/Client Care
+323,Texas,18.00 - 20.00 $ /hour,IT/Software Development
+324,Florida,13.00 - 13.00 $ /hour,Customer Support/Client Care
+325,Tennessee,13.00 - 13.00 $ /hour,Sales/Retail/Business Development
+326,California,13.39 - 19.42 $ /hour,Entry Level
+327,Washington,15.00 - 15.00 $ /hour,Experienced (Non-Manager)
+328,Colorado,28.00 - 32.00 $ /hour,Building Construction/Skilled Trades
+329,Illinois,26.00 - 26.00 $ /hour,Human Resources
+330,California,31.00 - 31.00 $ /hour,Accounting/Finance/Insurance
+331,Texas,14.00 - 14.00 $ /hour,Biotech/R&D/Science
+332,Florida,15.00 - 21.00 $ /hour,Human Resources
+333,California,25.00 - 28.00 $ /hour,Human Resources
+334,Texas,30.00 - 36.00 $ /hour,Experienced (Non-Manager)
+335,South carolina,57.00 - 89.00 $ /hour,IT/Software Development
+336,Ohio,13.75 - 13.75 $ /hour,Experienced (Non-Manager)
+337,Missouri,27.00 - 27.00 $ /hour,IT/Software Development
+338,California,55.00 - 60.00 $ /hour,Experienced (Non-Manager)
+339,Pennsylvania,20.00 - 20.00 $ /hour,Human Resources
+340,North Carolina,40.00 - 45.00 $ /hour,IT/Software Development
+341,Pennsylvania,19.31 - 19.31 $ /hour,Legal
+342,Rhode island,22.43 - 22.43 $ /hour,Legal
+343,New York,21.92 - 21.92 $ /hour,Legal
+344,Maine,17.87 - 17.87 $ /hour,Legal
+345,Illinois,12.00 - 12.00 $ /hour,Logistics/Transportation
+346,Ohio,"32,000.00 - 35,000.00 $ /hour",Accounting/Finance/Insurance
+347,Ohio,40.00 - 60.00 $ /hour,Database Development/Administration
+348,Ohio,25.00 - 35.00 $ /hour,IT/Software Development
+349,Texas,16.00 - 24.00 $ /hour,Experienced (Non-Manager)
+350,Tennessee,14.00 - 16.00 $ /hour,Quality Assurance/Safety
+351,Michigan,18.00 - 25.00 $ /hour,Experienced (Non-Manager)
+352,Minnesota,55.00 - 80.00 $ /hour,Project/Program Management
+353,Iowa,23.50 - 23.50 $ /hour,Project/Program Management
+354,Arkansas,50.00 - 55.00 $ /hour,Experienced (Non-Manager)
+355,Ohio,22.00 - 25.00 $ /hour,Experienced (Non-Manager)
+356,Louisiana,14.00 - 16.00 $ /hour,Quality Assurance/Safety
+357,Wisconsin,14.00 - 16.00 $ /hour,Quality Assurance/Safety
+358,Colorado,14.00 - 16.00 $ /hour,Quality Assurance/Safety
+359,Ohio,15.00 - 17.00 $ /hourCompetitive Benefits Package / Overtime/ 1st Shift,Experienced (Non-Manager)
+360,Missouri,16.00 - 24.00 $ /hour,Experienced (Non-Manager)
+361,Missouri,25.00 - 25.00 $ /hour,Manager (Manager/Supervisor of Staff)
+362,Ohio,65.00 - 75.00 $ /hour,Experienced (Non-Manager)
+363,Nebraska,15.65 - 20.15 $ /hour,Quality Assurance/Safety
+364,Rhode island,15.00 - 18.00 $ /hour,Experienced (Non-Manager)
+365,California,60.00 - 75.00 $ /hour,Experienced (Non-Manager)
+366,New jersey,14.00 - 16.00 $ /hour,Quality Assurance/Safety
+367,Oregon,14.00 - 16.00 $ /hour,Quality Assurance/Safety
+368,Massachusetts,45.00 - 60.00 $ /hour,Experienced (Non-Manager)
+369,California,12.00 - 14.00 $ /hour,Experienced (Non-Manager)
+370,Illinois,0.00 - 30.00 $ /hour,Project/Program Management
+371,Texas,35.00 - 45.00 $ /hour,Experienced (Non-Manager)
+372,Massachusetts,22.00 - 25.00 $ /hour,Experienced (Non-Manager)
+373,California,14.00 - 16.00 $ /hour,Quality Assurance/Safety
+374,Arizona,14.00 - 16.00 $ /hour,Quality Assurance/Safety
+375,Kansas,40.00 - 45.00 $ /hour,Experienced (Non-Manager)
+376,Massachusetts,22.00 - 25.00 $ /hour,Experienced (Non-Manager)
+377,Massachusetts,20.00 - 25.00 $ /hour,Experienced (Non-Manager)
+378,Ohio,14.00 - 16.00 $ /hour,Experienced (Non-Manager)
+379,Illinois,25.00 - 30.00 $ /hour,Experienced (Non-Manager)
+380,Pennsylvania,15.00 - 17.00 $ /hour,Project/Program Management
+381,Massachusetts,25.00 - 25.00 $ /hour,Experienced (Non-Manager)
+382,Connecticut,20.00 - 25.00 $ /hour,Experienced (Non-Manager)
+383,California,20.00 - 30.00 $ /hour,Quality Assurance/Safety
+384,Massachusetts,31.00 - 33.00 $ /hourDirect Hire Position,Experienced (Non-Manager)
+385,Michigan,10.00 - 18.00 $ /hour,Experienced (Non-Manager)
+386,California,34.00 - 39.00 $ /hour,Experienced (Non-Manager)
+387,Kentucky,19.00 - 20.00 $ /hourGreat Benefits,Manager (Manager/Supervisor of Staff)
+388,Illinois,14.00 - 20.00 $ /hour,Student (High School)
+389,California,11.00 - 16.00 $ /hour,Student (Undergraduate/Graduate)
+390,Kansas,13.00 - 17.00 $ /hour,Entry Level
+391,Washington,50.00 - 75.00 $ /hour,Experienced (Non-Manager)
+392,Connecticut,21.00 - 25.00 $ /hour,Entry Level
+393,Illinois,16.00 - 16.00 $ /hour,Experienced (Non-Manager)
+394,Texas,12.51 - 12.51 $ /hour,Quality Assurance/Safety
+395,California,14.00 - 16.00 $ /hour,Quality Assurance/Safety
+396,Tennessee,15.00 - 15.00 $ /hour,Entry Level
+397,Massachusetts,20.00 - 25.00 $ /hour,Experienced (Non-Manager)
+398,Massachusetts,17.00 - 17.00 $ /hour,Experienced (Non-Manager)
+399,Ohio,14.00 - 16.00 $ /hour,Quality Assurance/Safety
+400,Florida,19.13 - 24.84 $ /hourHeath and Retirement benefits,Entry Level
+401,California,17.00 - 19.00 $ /hour,Experienced (Non-Manager)
+402,California,12.00 - 15.00 $ /hour,Quality Assurance/Safety
+403,Texas,48.00 - 55.00 $ /hour,Quality Assurance/Safety
+404,California,15.00 - 15.00 $ /hour,Entry Level
+405,Ohio,14.00 - 15.00 $ /hourOvertime Compensation and competitive benefits,Experienced (Non-Manager)
+406,Florida,13.50 - 16.50 $ /hour,Experienced (Non-Manager)
+407,North Carolina,12.00 - 15.00 $ /hour,Accounting/Finance/Insurance
+408,New York,30.00 - 40.00 $ /hour,Experienced (Non-Manager)
+409,Louisiana,12.92 - 17.19 $ /hourCommission and incentive,Entry Level
+410,Minnesota,15.60 - 15.60 $ /hour,Accounting/Finance/Insurance
+411,Massachusetts,20.00 - 30.00 $ /hour,Accounting/Finance/Insurance
+412,Georgia,12.00 - 13.00 $ /hour,Experienced (Non-Manager)
+413,Georgia,25.00 - 36.00 $ /hour,Medical/Health
+414,Ohio,9.00 - 10.00 $ /hour,Entry Level
+415,California,11.00 - 11.00 $ /hour,Logistics/Transportation
+416,Georgia,17.00 - 23.00 $ /hour,Engineering
+417,Georgia,9.00 - 9.00 $ /hour,Entry Level
+418,Minnesota,26.00 - 30.00 $ /hour,Installation/Maintenance/Repair
+419,Wisconsin,20.00 - 30.00 $ /hour,Installation/Maintenance/Repair
+420,Massachusetts,12.74 - 12.74 $ /hour,Installation/Maintenance/Repair
+421,Kentucky,13.00 - 17.00 $ /hour,Installation/Maintenance/Repair
+422,California,28.55 - 28.55 $ /hour,Installation/Maintenance/Repair
+423,Ohio,10.00 - 12.00 $ /hour,Entry Level
+424,Florida,0.00 - 15.00 $ /hour,Manager (Manager/Supervisor of Staff)
+425,Kansas,10.00 - 20.00 $ /hourPay is based off of experience,Entry Level
+426,Louisiana,7.50 - 7.50 $ /hour,Entry Level
+427,California,22.00 - 23.00 $ /hour,Food Services/Hospitality
+428,Colorado,10.75 - 13.00 $ /hour,Student (High School)
+429,California,25.00 - 35.00 $ /hourFull non-contributory benefits package effective after 90 days of employment and 2 weeks paid vacation,Entry Level
+430,Delaware,8.00 - 10.00 $ /hour,Entry Level
+431,Louisiana,12.92 - 17.19 $ /hourCommission and incentive,Entry Level
+432,California,23.00 - 26.00 $ /hour,Accounting/Finance/Insurance
+433,Washington,9.47 - 12.00 $ /hour,Career Level Entry Level
+434,Washington,13.50 - 13.50 $ /hour,Entry Level
+435,Texas,12.00 - 14.00 $ /hour,Manufacturing/Production/Operations
+436,Maryland,15.00 - 16.00 $ /hour,Manufacturing/Production/Operations
+437,Florida,8.50 - 8.50 $ /hour,Entry Level
+438,California,16.00 - 17.00 $ /hour,Installation/Maintenance/Repair
+439,Pennsylvania,20.00 - 22.00 $ /hour,Experienced (Non-Manager)
+440,Michigan,8.50 - 8.50 $ /hour,Entry Level
+441,Pennsylvania,10.15 - 10.65 $ /hour,Manufacturing/Production/Operations
+442,Pennsylvania,20.00 - 22.00 $ /hour,Experienced (Non-Manager)
+443,Texas,12.00 - 14.00 $ /hour,Manufacturing/Production/Operations
+444,Wisconsin,18.00 - 23.00 $ /hour,Experienced (Non-Manager)
+445,Massachusetts,13.00 - 20.00 $ /hour,Accounting/Finance/Insurance
+446,Massachusetts,0.00 - 45.00 $ /hour,Medical/Health
+447,Massachusetts,13.00 - 20.00 $ /hour,Accounting/Finance/Insurance
+448,Massachusetts,45.00 - 45.00 $ /hour,Medical/Health
+449,Massachusetts,13.00 - 20.00 $ /hour,Accounting/Finance/Insurance
+450,Ohio,14.00 - 15.00 $ /hour,Accounting/Finance/Insurance
+451,New jersey,18.00 - 21.00 $ /hour,Accounting/Finance/Insurance
+452,Texas,21.00 - 26.00 $ /hour,Accounting/Finance/Insurance
+453,Ohio,15.00 - 16.00 $ /hour,Accounting/Finance/Insurance
+454,Florida,18.00 - 18.00 $ /hour,Experienced (Non-Manager)
+455,Florida,13.00 - 14.00 $ /hour,Accounting/Finance/Insurance
+456,Michigan,14.00 - 17.00 $ /hour,Accounting/Finance/Insurance
+457,Texas,17.00 - 20.00 $ /hour,Experienced (Non-Manager)
+458,Texas,9.00 - 11.00 $ /hour,Installation/Maintenance/Repair
+459,California,25.00 - 30.00 $ /hour,Installation/Maintenance/Repair
+460,Georgia,11.00 - 15.00 $ /hour,Sales/Retail/Business Development
+461,Texas,14.00 - 18.00 $ /hour,Experienced (Non-Manager)
+462,Texas,17.00 - 20.00 $ /hour,Customer Support/Client Care
+463,Texas,22.00 - 25.00 $ /hour,Entry Level
+464,Texas,10.00 - 11.50 $ /hourBonus,Experienced (Non-Manager)
+465,Texas,14.00 - 14.00 $ /hour,Entry Level
+466,Texas,0.00 - 45.00 $ /hour,Experienced (Non-Manager)
+467,Texas,20.00 - 30.00 $ /hourOT Available,Experienced (Non-Manager)
+468,Texas,20.00 - 25.00 $ /hour,Experienced (Non-Manager)
+469,Texas,11.50 - 12.50 $ /hour,Experienced (Non-Manager)
+470,Texas,35.00 - 45.00 $ /hour,IT/Software Development
+471,Texas,20.00 - 25.00 $ /hourBONUSES,Experienced (Non-Manager)
+472,Texas,10.00 - 12.00 $ /hour,Logistics/Transportation
+473,Texas,12.00 - 14.00 $ /hour,Customer Support/Client Care
+474,Texas,12.00 - 16.00 $ /hour,Experienced (Non-Manager)
+475,Texas,13.00 - 15.00 $ /hour,Experienced (Non-Manager)
+476,Texas,12.00 - 14.00 $ /hourFull benefits. Profit sharing.,Entry Level
+477,Texas,20.00 - 35.00 $ /hour,Experienced (Non-Manager)
+478,Texas,16.50 - 25.00 $ /hour,Logistics/Transportation
+479,Texas,16.00 - 16.00 $ /hour,Manager (Manager/Supervisor of Staff)
+480,Texas,60.00 - 80.00 $ /hour,IT/Software Development
+481,Texas,10.00 - 14.00 $ /hour,Sales/Retail/Business Development
+482,Texas,50.00 - 75.00 $ /hour,IT/Software Development
+483,Texas,25.00 - 30.00 $ /hour,Experienced (Non-Manager)
+484,Texas,25.00 - 35.00 $ /hour,Systems Analysis - IT
+485,Texas,40.00 - 60.00 $ /hour,IT/Software Development
+486,Texas,12.00 - 15.00 $ /hour,Experienced (Non-Manager)
+487,Texas,9.50 - 11.50 $ /hour,Entry Level
+488,Texas,16.00 - 19.00 $ /hour,Experienced (Non-Manager)
+489,Texas,50.00 - 65.00 $ /hour,Experienced (Non-Manager)
+490,Texas,70.00 - 80.00 $ /hour,Experienced (Non-Manager)
+491,Ohio,12.00 - 13.00 $ /hourPlus Commission,Manager (Manager/Supervisor of Staff)
+492,Ohio,16.00 - 17.00 $ /hour,Manager (Manager/Supervisor of Staff)
+493,Texas,14.00 - 15.00 $ /hour,Entry Level
+494,Texas,19.00 - 20.00 $ /hour,Experienced (Non-Manager)
+495,Texas,20.00 - 22.00 $ /hour,Experienced (Non-Manager)
+496,Texas,42.00 - 48.00 $ /hour,IT/Software Development
+497,Texas,14.00 - 15.00 $ /hour,Experienced (Non-Manager)
+498,Texas,"12.00 - 13.00 $ /hourAfter 60 day probationary period eligible for monthly bonus; benefits (medical, dental, vision, RX), 401K with company match, ESPP",Experienced (Non-Manager)
+499,Texas,13.00 - 14.00 $ /hour,Medical/Health
+500,Texas,11.00 - 14.00 $ /hour,Experienced (Non-Manager)
+501,Ohio,12.00 - 13.00 $ /hour,Experienced (Non-Manager)
+502,Texas,12.90 - 13.76 $ /hour,Quality Assurance/Safety
+503,Texas,13.00 - 13.00 $ /hour,Experienced (Non-Manager)
+504,Texas,13.00 - 20.00 $ /hoursalary tbd @ 1-month review,Experienced (Non-Manager)
+505,Ohio,0.00 - 14.00 $ /hour,Customer Support/Client Care
+506,Texas,12.00 - 14.00 $ /hourFull benefits. Profit sharing.,Entry Level
+507,Texas,20.00 - 25.00 $ /hour,IT/Software Development
+508,Texas,20.00 - 30.00 $ /hour,Logistics/Transportation
+509,Texas,52.00 - 57.00 $ /hour,Experienced (Non-Manager)
+510,Texas,16.00 - 20.00 $ /hour,Experienced (Non-Manager)
+511,Texas,14.00 - 14.00 $ /hourPlus benefits (medical/dental/vision/life/401k),Experienced (Non-Manager)
+512,California,16.00 - 16.00 $ /hour,Logistics/Transportation
+513,Washington,15.00 - 16.00 $ /hour,Career Level Experienced (Non-Manager)
+514,Texas,15.00 - 16.00 $ /hour,Experienced (Non-Manager)
+515,New York,14.00 - 17.00 $ /hour,Entry Level
+516,Texas,14.50 - 16.00 $ /hour,Medical/Health
+517,Ohio,35.00 - 45.00 $ /hour,Experienced (Non-Manager)
+518,South carolina,14.00 - 14.50 $ /hour,Medical/Health
+519,Massachusetts,48.00 - 49.00 $ /hour,Experienced (Non-Manager)
+520,Oklahoma,16.00 - 16.00 $ /hour,Entry Level
+521,Florida,11.00 - 13.00 $ /hour,Student (High School)
+522,Washington,17.00 - 22.00 $ /hour,Experienced (Non-Manager)
+523,Ohio,20.00 - 25.00 $ /hour,Experienced (Non-Manager)
+524,California,0.00 - 27.82 $ /hour$750 Signing Bonus,Experienced (Non-Manager)
+525,California,20.00 - 25.00 $ /hour,Experienced (Non-Manager)
+526,South carolina,19.00 - 21.00 $ /hour,Experienced (Non-Manager)
+527,California,50.00 - 60.00 $ /hour,Experienced (Non-Manager)
+528,Kansas,9.00 - 14.78 $ /hour,Entry Level
+529,California,15.00 - 17.00 $ /hour,Experienced (Non-Manager)
+530,Ohio,9.00 - 10.00 $ /hour,Experienced (Non-Manager)
+531,Missouri,8.50 - 9.00 $ /hour,Entry Level
+532,Maryland,16.00 - 16.00 $ /hour,Medical/Health
+534,South carolina,15.00 - 17.00 $ /hour,Experienced (Non-Manager)
+535,Iowa,8.50 - 10.00 $ /hourPerformance bonuses available!,Student (Undergraduate/Graduate)
+536,California,28.00 - 30.00 $ /hour,Experienced (Non-Manager)
+537,New York,15.00 - 30.00 $ /hour,Manager (Manager/Supervisor of Staff)
+538,Pennsylvania,18.00 - 19.00 $ /hour,Experienced (Non-Manager)
+539,Wisconsin,0.00 - 14.19 $ /hour,General/Other: Food Services
+540,Massachusetts,0.00 - 20.00 $ /hour,Medical/Health
+541,New York,"50.00 - 55.00 $ /hourmore experience, more money",Manager (Manager/Supervisor of Staff)
+542,Delaware,8.00 - 10.00 $ /hour,Entry Level
+543,Florida,12.00 - 16.00 $ /hour,Experienced (Non-Manager)
