@@ -1,6 +1,16 @@
 # IT-Salary-in-USA
 Python-Tableau-html5 used
 
+## Result
+**Chart with Anlysis**
+
+**Website: [SALARY DISTRIBUTION OF DIFFERENT JOBS IN USA](https://github.com/Trouble404/IT-Salary-in-USA/blob/master/index.html)**
+
+![image](https://github.com/Trouble404/IT-Salary-in-USA/blob/master/readme_add_pic/page1.PNG)
+![image](https://github.com/Trouble404/IT-Salary-in-USA/blob/master/readme_add_pic/page2.PNG)
+![image](https://github.com/Trouble404/IT-Salary-in-USA/blob/master/readme_add_pic/page3.PNG)
+---
+
 ---
 
 ## Data process
@@ -31,14 +41,3 @@ Python-Tableau-html5 used
 ![image](https://github.com/Trouble404/IT-Salary-in-USA/blob/master/chart/chart3/Chart3.png)
 
 ---
-
-## Result
-**Chart with Anlysis**
-
-**Website: [SALARY DISTRIBUTION OF DIFFERENT JOBS IN USA](https://github.com/Trouble404/IT-Salary-in-USA/blob/master/index.html)**
-
-![image](https://github.com/Trouble404/IT-Salary-in-USA/blob/master/readme_add_pic/page1.PNG)
-![image](https://github.com/Trouble404/IT-Salary-in-USA/blob/master/readme_add_pic/page2.PNG)
-![image](https://github.com/Trouble404/IT-Salary-in-USA/blob/master/readme_add_pic/page3.PNG)
----
-
